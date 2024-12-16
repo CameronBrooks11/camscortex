@@ -12,6 +12,9 @@
     "esbenp.prettier-vscode",
 
     // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    "philipbe.theme-gray-matter",
+
+    // Excalidraw extension for drawing diagrams
+    "pomdtr.excalidraw"
   ]
 }

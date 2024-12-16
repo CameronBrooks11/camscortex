@@ -18,5 +18,11 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+
+  // Start custom
+  "foam.openDailyNote.directory": "journals",
+  "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
+  "foam.openDailyNote.fileExtension": "md",
+  "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
 }
