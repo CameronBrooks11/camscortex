@@ -1,0 +1,27 @@
+# Dynamic Equilibrium
+- **Concept Overview**
+	- Dynamic equilibrium involves analyzing the motion of a particle under the influence of forces and inertia.
+	- It's based on an alternative form of Newton's second law: \( \Sigma F - ma = 0 \).
+- **Inertia Vector**
+	- The term \( -ma \) is known as the inertia vector, with the same magnitude as \( ma \) but in the opposite direction.
+	- This vector represents the inertia of the particle, a measure of its resistance to changes in motion.
+- **Equilibrium Analysis**
+	- In dynamic equilibrium, a particle is considered to be in equilibrium under the action of external forces and the inertia vector.
+	- This allows the use of statics methods to solve dynamics problems.
+- **Application in Coplanar Forces**
+	- For coplanar forces, vectors can be arranged in a closed-vector polygon, including the inertia vector.
+	- Equations using rectangular components: \( \Sigma F_x = 0 \), \( \Sigma F_y = 0 \), considering the inertia vector.
+- **Tangential and Normal Components of Inertia**
+	- The inertia vector can be resolved into tangential (\( -mat \)) and normal (\( -man \)) components.
+	- \( -mat \) represents resistance to change in speed; \( -man \), often called centrifugal force, signifies the tendency to leave the curved path.
+- **Special Conditions**
+	- The normal component is zero when initial velocity is zero (\( t = 0 \)).
+	- The tangential component is zero when motion is at constant speed.
+- **Inertia Forces**
+	- Inertia vectors are often termed inertia forces, though they differ from typical forces like contact or gravitational forces.
+	- Despite differing origins, inertia forces and actual forces can feel similar and are indistinguishable through physical sensations or measurements.
+- **Approaches to Problem Solving**
+	- Although dynamic equilibrium offers a method to solve problems, direct application of Newton's second law (\( \Sigma F = ma \)) is commonly used.
+	- The choice between these approaches depends on the problem context and the solver's preference.
+- **Significance in [[Physics]] and [[Engineering]]**
+	- Understanding dynamic equilibrium is crucial for solving complex motion problems in various fields, including [[Mechanical Engineering]], [[Aerospace Engineering]], and [[Biomechanics]].

@@ -1,0 +1,40 @@
+- Some kind of system where I can just save a site or something and it automatically gets added to a kind of todo list that I can randomly ask to give me stuff and keep track
+- Plan all the databases
+	- Database for articles and books (Detailed Zotero w/ lots of views?)
+		- Michael Pollen books
+		- The Book of Why by Judea Pearl
+	- Turn summer to-dos (FAST, personal, UES, etc.) into tasks
+	- Knowledge database linked to class notes pages from all classes
+		- Also electrolysis of propane tanks with the wire to the Mg block from the house show
+		- Open Source, technology, and IP law
+		- General space stuff
+- AI Everything
+	- AGENTS
+	- FreeCAD/OpenSCAD + KiCAD AI workflow
+		- Agents or scripting or both
+	- [Reinforcement Learning the Free Course](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
+	- [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+- Career planning project
+- Transfer all
+- Affiliate stuff
+- Life/career map
+- Ferraro Business Analysis and Entry
+- Scholarships
+	- Undergrad
+	- Western Awards
+	- AI and agents
+- Data Science with Python
+	- Sports betting (Layne), nautilus trader
+	- Financial data and stock prices and politician movements
+- Save student ambassador site and collect all stuff for a website that will be exported to HTML
+- Random
+	- [Upgrade for 3D printer saves time and support material](https://www.zhaw.ch/en/medien/medienmitteilungen/detail-news-releases/event-news/upgrade-fuer-den-3d-drucker-spart-zeit-und-stuetzmaterial/)
+	- [3D Printing For More Circuits](https://semiengineering.com/3d-printing-for-more-circuits/)
+	- [NeurOS™ and NeuroBlocks™ a neural/cognitive operating system and building blocks - Biologically Inspired Cognitive Architectures](https://doi.org/10.1016/j.bica.2014.11.011)
+	- OpenBCI
+	- Nasa Snake robot
+	- Memcomponents
+	- [Edouard Asselin - Electrochem Prof @ UBC](https://corrosion.mtrl.ubc.ca/edouard-asselin/)
+- Finding meaninful PEng experience
+	- http://aprovecho.org/
+-

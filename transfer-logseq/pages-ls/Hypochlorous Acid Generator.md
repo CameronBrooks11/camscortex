@@ -1,0 +1,63 @@
+# Hypochlorous Acid Generator
+id:: 659f7922-5af9-4909-9918-70bed07e76af
+	- [[Hypochlorous Acid Generator: Break 1]]
+	- Expaning on it in the future by doing something like [[FEMORA-One Concept]]
+- **Category:** Biomedical, Process Control, Embedded Systems
+- **Start Date:** December 2021
+- **Estimated End Date:**
+- **Milestones:** *(Should be connected to tangible deliverables)*
+	- *Next:* Milestone N+1
+	- Milestone N
+	- Milestone N-1
+	- ...
+- ## Objectives
+	- **Objective 1:** Design and prototype a device capable of using electrical energy to electrolyze salt water into
+	- **Objective 2:** [Objective Description] *(Replace with specific design objective)*
+	- **Objective 3:** [Objective Description] *(Replace with specific design objective)*
+- ## Design Concept and Development
+- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
+- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
+- **Prototyping and Testing:** [Describe the prototyping and testing plans] *(Detail the plans for creating and testing prototypes)*
+- ## Experimental Design
+- **Hypothesis:** [State the hypothesis or research questions] *(Replace with the hypothesis or research questions)*
+- **Experiment Setup:** [Describe the setup of the experiment] *(Detail the experimental setup including equipment and materials)*
+- **Procedures:** [Describe the experimental procedures] *(Outline the step-by-step procedures for the experiment)*
+- ## Data Collection and Analysis
+- **Data Collection Methods:** [Describe methods for data collection] *(Explain how data will be collected and recorded)*
+- **Analysis Techniques:** [Describe the techniques for data analysis] *(Detail how the collected data will be analyzed)*
+- **Expected Outcomes:** [Describe the expected outcomes of the experiment] *(Outline what results are anticipated from the experiment)*
+- ## Team Members
+- **Lead Designer:** [Lead's Name] *(Replace with lead designer's name and details)*
+- **Design Team:**
+	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+	- [Designer's Name]: [Role/Expertise] *(Replace with designer's name and details)*
+- ## Resources and Tools
+- **Design Software:** [List of design software/tools required] *(Detail the software and tools needed for the design work)*
+- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
+- **Budget:** [Budget details] *(Provide an overview of the budget for the design project)*
+- ## Timeline and Milestones
+- **Milestone 1:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
+- **Milestone 2:** [Date] - [Milestone Description] *(Replace with specific milestone details related to design phases)*
+- ...
+- ## Documentation and Design Drafts
+- [Date]: [Description of document/draft] *(Replace with design document or draft details)*
+- ...
+- ## Meeting Notes and Design Reviews
+- [Type]: [Link] *(Replace with specific meeting note or design review link)*
+- ...
+- ## Risk Management
+- **Risk 1:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
+- **Risk 2:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
+- **Risk 3:** [Risk Description] - [Mitigation Strategy] *(Replace with specific design risk and its mitigation strategy)*
+- ...
+- ## Feedback and Design Adjustments
+- [Date]: [Feedback/Adjustment Description] *(Replace with specific feedback or adjustment details related to design changes)*
+- ...
+- ## Project Template Formatting Legend
+- **Bold Text:** Used for section headings and key points.
+	- `[Square Brackets]`: Indicate placeholders where specific information needs to be inputted.
+	- `*(Italicized Text in Parentheses)*`: Provide instructions or additional information for filling out the template.
+	- `- [List Item]`: Used for listing items or tasks.
+	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
+	  
+	  ---

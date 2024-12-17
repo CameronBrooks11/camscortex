@@ -1,0 +1,34 @@
+- [[Pitch to Google]]: Leveraging AI in CAD for OSH
+	- Proposal for integrating [[Natural Language Processing]] in CAD
+	- Focusing on Google's interest in AI-driven solutions
+- [[Western AI Dual Degree Students]]: Potential Collaborators
+	- Bridging academic knowledge with practical application
+	- Contribution to AI-CAD integration in [[Open Source Hardware]]
+- [[Natural Language Processing]]: Revolutionizing CAD
+	- Transforming text or voice commands into CAD designs
+	- Implementing AI to interpret instructions in [[OpenSCAD]]
+	- Streamlining the design process for efficiency and accessibility
+- [[AI in CAD]]: From Concept to Reality within Manufacturing Parameters
+	- Using natural language as input for AI-driven CAD
+	- Ensuring designs meet specific manufacturing constraints
+- [[OSH Network]]: Building a Community-Driven Platform
+	- Importance of [[Filters in OSH Network]]
+		- [[Level of Scientific Verification and Certification]]
+		- [[Hardware Level]]
+			- Discrete Component
+			- Part
+			- Device
+			- System
+	- Establishing guidelines for material selection and usage
+- [[OSH Ratings]]: Standardizing Quality and Innovation
+	- Different Levels: Bronze, Silver, Gold, Platinum
+	- Ratings as a reflection of quality and innovation
+	- Higher ratings correlating to greater profit shares
+- Community Engagement in OSH
+	- Encouraging [[Community Contributors]] to enhance hardware designs
+	- Upgrading OSH ratings through a structured approval process
+	- Balancing open collaboration with original creators' rights
+		- Exclusive period for original creators to increase OSH rating
+- [[AI and OSH Collaboration]]: Future Directions
+	- Anticipating advancements in AI to further empower the OSH network
+	- Exploring new avenues for AI integration in CAD for open-source designs

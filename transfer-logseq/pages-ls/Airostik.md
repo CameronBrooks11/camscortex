@@ -1,0 +1,2 @@
+- [[Airostic]] was another name I was using.
+- A device for [[treating]] [[nicotine dependence]].

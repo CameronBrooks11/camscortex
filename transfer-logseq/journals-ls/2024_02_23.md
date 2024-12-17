@@ -1,0 +1,6 @@
+- Bioreactor vessel
+	- [Thin-Wall 304/304L Stainless Steel Unthreaded Pipe](https://www.mcmaster.com/4347K316/)
+	- [Sparger](https://www.mcmaster.com/products/spargers/)
+	- [Compact Threaded Check Valves](https://www.mcmaster.com/products/check-valves/compact-threaded-check-valves/)
+	- [Clear Impact-Resistant Polycarbonate Sheets and Bars](https://www.mcmaster.com/products/polycarbonate/clear-impact-resistant-polycarbonate-sheets-and-bars/)
+-

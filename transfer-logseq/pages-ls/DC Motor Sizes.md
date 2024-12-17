@@ -1,0 +1,32 @@
+- **130 Series**
+	- Diameter: ~20mm
+	- Length: ~25mm
+	- Applications: Small toys, DIY projects, low-power hobby devices.
+- **180 Series**
+	- Diameter: ~28mm
+	- Length: ~32mm
+	- Applications: Hobby models, small fans, portable tools.
+- **280 Series**
+	- Diameter: ~24mm
+	- Length: ~30-38mm
+	- Applications: Model cars, boats, small pumps.
+- **380 Series**
+	- Diameter: ~27.7mm
+	- Length: ~37.8mm
+	- Applications: RC cars, boats, small power tools, and hobbies.
+- **540 Series**
+	- Diameter: ~35.8mm
+	- Length: ~50mm
+	- Applications: Larger RC vehicles, electric power tools, robotics.
+- **550 Series**
+	- Diameter: ~36mm
+	- Length: ~57mm
+	- Applications: RC vehicles, medium power tools, hobby projects.
+- **775 Series**
+	- Diameter: ~42mm
+	- Length: ~66.7mm
+	- Applications: High-power tools, larger RC vehicles, robotics, industrial applications.
+- **900 Series**
+	- Diameter: ~44mm
+	- Length: Varies significantly
+	- Applications: Specialized industrial and high-power applications.

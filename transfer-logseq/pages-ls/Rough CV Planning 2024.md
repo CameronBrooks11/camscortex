@@ -1,0 +1,55 @@
+- *Last Updated March 2023*
+- # Professional Information Cameron Brooks
+- ## Employment
+	- Western University Dept. ECE - Technical Research Support
+	- Uxbridge Cottage Hospital (screener)
+	- Pool (swim instructor, lifeguard, deck supervisor, office supervisor, aquatic fitness instructor, lifesaving instructor)
+	- Roxy (regular staff, supervisor, projectionist/manager on duty)
+- ## Volunteering
+	- Western University Engineering Ambassador
+	- Crisis text line
+	- Red Cross (PDAT)
+	- Markham Stouffville Hospital (ICU)
+	- Uxbridge Cottage Hospital (Inpatient visiting)
+- ## Education
+	- USS
+	- Western
+- ## Publications
+	- Overcoming Chip Shortages: Low-cost Open-source Parametric 3-D Printable Solderless SOIC to DIP Breakout Adapters
+		- Under peer review at time of last update to this document
+- ## Qualifications
+	- CPR-C
+	- EFA
+	- SFA
+	- AWM
+	- WSI
+	- LSI
+	- CTL crisis responder
+- ## Memberships
+	- IEEE student
+		- Add member number and such
+- ## Certificates
+	- Western EDI: Building Inclusivity through Anti-Racism
+		- Link document on google drive
+	- Responding to Disclosures of GBSV for Student Leaders
+		- Link document on google drive
+	- Equity, Diversity, and Inclusion (EDI) for Student Leaders
+		- Link document on google drive
+	- AODA - Accessibility in Service
+		- Link document on google drive
+	- Western Safe Campus Community
+		- Link document on google drive
+	- Worker Health and Safety Awareness
+		- Link document on google drive
+	- Cyber Safety Awareness at Western
+		- Link document on google drive
+	- SafeTALK
+		- Link document on google drive
+	- Learn to Lead Leadership Certificate
+		- Get certificate from Western Connect and link document on google drive
+	- Learn to Lead Advanced Leadership Certificate
+		- Get certificate from Western Connect and link document on google drive
+- ## Conferences
+	- Conference On Sustainability In Engineering (CSE)
+		- Find dates
+		- Online due to Covid-19 pandemic

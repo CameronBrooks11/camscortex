@@ -1,0 +1,5 @@
+- DONE [#A] Prep Bell package
+  SCHEDULED: <2023-05-16 Tue>
+- DONE Safari tabs
+  SCHEDULED: <2023-05-15 Mon>
+- #ideas Whiteboard from sheet press and erasable ink with software to transfer to different text formats (.md, .txt, AFFiNE/Notion, etc.)

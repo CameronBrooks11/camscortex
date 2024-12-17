@@ -1,0 +1,4 @@
+- https://github.com/CharlesChiuGit/Logseq-Git-Sync-101
+- https://github.com/logseq/publish-spa
+- Set the GitHub action to point to logseq.cameronbrooks.net
+- Add CNAME record on google cloud console for logseq.cameronbrooks.net

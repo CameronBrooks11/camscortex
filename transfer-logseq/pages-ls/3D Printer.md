@@ -1,0 +1,62 @@
+- Write
+- Parts of a 3D printer
+	- **Frame and Mechanical Components**
+		- **Frame**: Metal or acrylic structure.
+		- **Variations**: Cartesian, Delta, CoreXY designs.
+		- **Gantry**: Controls movement.
+		- **Variations**: Linear rails, rods; different drive mechanisms.
+		- **Stepper Motors**: Precise control.
+		- **Variations**: NEMA 17, NEMA 23.
+		- **Belts and Pulleys**: Transmit motion.
+		- **Recent Advancements**: Improved materials for reduced stretching.
+	- **Build Platform**
+		- **Heated Bed**: Aids adhesion.
+		- **Variations**: Aluminum, glass; various coatings.
+			- **Recent Advancements**: Rapid heating technologies.
+		- **Build Surface**: Where printing occurs.
+		- **Variations**: PEI, BuildTak, glass.
+	- ** [[Extrusion System]] **
+		- **Extruder**: Feeds filament.
+		- **Variations**: [[Direct Drive]], [[Bowden Drive]].
+			- **Recent Advancements**: Geared extruders for increased torque.
+		- **Hotend**: Melts filament.
+		- **Variations**: Various nozzle sizes/materials.
+			- **Recent Advancements**: Ruby nozzles for abrasive materials.
+		- **Cooling Fans**: Prevent overheating.
+		- **Variations**: Different designs for airflow control.
+	- **Control System**
+		- **Mainboard**: Central controller.
+		- **Variations**: 8-bit, 32-bit.
+			- **Recent Advancements**: Silent stepper drivers.
+		- **Display Screen**: User interaction.
+		- **Variations**: LCD, touchscreen.
+		- **Power Supply**: Provides power.
+		- **Variations**: Different wattages.
+	- **Sensors and Calibration Tools**
+		- **Thermistors**: Monitor temperature.
+			- **Auto Bed Leveling**: Calibration.
+		- **Variations**: Probes, inductive sensors.
+		- **Endstops**: Limit detection.
+		- **Variations**: Mechanical, optical.
+	- **Materials (Filament)**
+		- **Types**: Various plastics and composites.
+		- **Variations**: PLA, ABS, PETG.
+			- **Recent Advancements**: Biodegradable materials.
+	- **Software**
+		- ** [[Slicing Software]] **: Translates models.
+		- **Variations**: Cura, PrusaSlicer.
+			- **Recent Advancements**: Adaptive slicing.
+		- **Firmware**: Onboard control.
+		- **Variations**: Marlin, proprietary.
+	- **Recent Advancements**
+		- **Multi-Material Printing**: Different materials/colors.
+			- **Increased Automation**: Error correction.
+			- **Direct Drive Systems**: Improved control.
+			- **Resin Printing**: Higher detail.
+			- **Sustainability**: Eco-friendly practices.
+	- **Safety and Maintenance**
+		- **Enclosures**: Protects user/print.
+			- **Filters**: Removes toxic fumes.
+		- **Variations**: Different filtering technologies.
+		- **Regular Checks**: Ongoing maintenance.
+		- **Recent Advancements**: Predictive maintenance tools.

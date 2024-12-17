@@ -1,0 +1,3 @@
+- # #[[Quick Ref]]
+	- [piplines api docs](https://huggingface.co/docs/transformers/v4.26.1/en/main_classes/pipelines#transformers.pipeline)
+-

@@ -1,0 +1,55 @@
+# My Cookbook
+- ## Overview
+	- ### Purpose
+		- The goal of this cookbook is to compile all my nutritious and delicious recipes.
+	- ### Principles
+		- Focus on health and nutrition.
+		- Inclusion of diverse cuisines.
+		- Adaptability to different dietary restrictions.
+- ## Dietary Categories
+	- [[Vegan Recipes]]
+	- [[Vegetarian Recipes]]
+	- [[Gluten-Free Recipes]]
+	- [[Keto Recipes]]
+	- [[Paleo Recipes]]
+- ## Nutrition Basics
+	- ### Macronutrients
+		- [[Carbohydrates]]
+		- [[Proteins]]
+		- [[Fats]]
+	- ### Micronutrients
+		- [[Vitamins]]
+		- [[Minerals]]
+- ## Recipe Collection
+	- ### Main Ingredient Focus
+		- [[Vegetable-Based Dishes]]
+			- Grilled Asparagus, Stuffed Bell Peppers
+		- [[Fruit-Based Dishes]]
+			- Fruit Salads, Berry Smoothies
+		- [[Whole Grains]]
+			- Quinoa Salad, Brown Rice Pilaf
+		- [[Proteins]]
+			- #### Animal Proteins
+				- Grilled Chicken, Baked Salmon
+			- #### Plant Proteins
+				- #[[Curry Lentil Soup]], Tofu Stir-Fry
+		- [[Dairy Alternatives]]
+			- #[[Almond Milk Power Smoothie]]
+- ## Cooking Techniques
+	- [[Baking]]
+	- [[Grilling]]
+	- [[Stir-Frying]]
+	- [[Steaming]]
+	- [[Air Frying]]
+- ## Kitchen Essentials
+	- ### Tools
+		- [[Knives]]
+		- [[Mixing Bowls]]
+		- [[Cookware]]
+	- ### Ingredients
+		- [[Herbs and Spices]]
+		- [[Staple Foods]]
+- ## References and Resources
+	- [[Cookbooks]]
+	- [[Nutrition and Dietary Blogs]]
+	- [[Cooking Channels]]

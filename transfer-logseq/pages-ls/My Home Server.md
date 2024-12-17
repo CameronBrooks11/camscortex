@@ -1,0 +1,3 @@
+- [Redmine](https://github.com/redmine/redmine) for project collection and management
+- [Photoprism](https://github.com/photoprism/photoprism) for photo collection and management
+-

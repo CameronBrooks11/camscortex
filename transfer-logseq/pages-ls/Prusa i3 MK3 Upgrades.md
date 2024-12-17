@@ -1,0 +1,37 @@
+- List of upgrades for the [[Prusa i3 MK3]]
+	- Upgrade guides
+		- [https://all3dp.com/2/best-prusa-i3-mk3s-plus-upgrades-mods/](https://all3dp.com/2/best-prusa-i3-mk3s-plus-upgrades-mods/)
+		-
+	- Upgrades list
+		- Prusa Multi-Material Upgrade 2S
+		- E3D Nozzles
+			- [https://spool3d.ca/e3d-revo-six-hotend/](https://spool3d.ca/e3d-revo-six-hotend/)
+			- Add lines of gcode to retract 15mm before and after print
+		- Raspberry Pi Zero W integration
+			- Wireless connectivity and connection to octoprint
+		- Webcam
+			- Also integrate with octoprint
+		- Carter Multz’s YZ Case
+			- Spins motherboard by 180 and allows better access
+			- [https://www.prusaprinters.org/prints/1910-yz-case](https://www.prusaprinters.org/prints/1910-yz-case)
+		- Filament Guide
+			- [https://www.prusaprinters.org/prints/47590-prusa-mk3mk3smk3s-filament-guide](https://www.prusaprinters.org/prints/47590-prusa-mk3mk3smk3s-filament-guide)
+		- Heated Bed Cable Support
+			- [https://www.prusaprinters.org/prints/1107-prusa-mk3-heatbed-cable-support-easy-clip-on](https://www.prusaprinters.org/prints/1107-prusa-mk3-heatbed-cable-support-easy-clip-on)
+		- Motor Rotation Indicator
+			- [https://www.myminifactory.com/object/3d-print-nema-extruder-motor-rotation-indicator-prusa-mk2-s-mk2-5-mk3-83068](https://www.myminifactory.com/object/3d-print-nema-extruder-motor-rotation-indicator-prusa-mk2-s-mk2-5-mk3-83068)
+		- Feet Smart Lock
+			- [https://www.thingiverse.com/thing:2765399](https://www.thingiverse.com/thing:2765399)
+		- Side Trash Bin
+			- [https://www.thingiverse.com/thing:4939232](https://www.thingiverse.com/thing:4939232)
+		- Enclosure
+			- [https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure_7785/](https://blog.prusaprinters.org/cheap-simple-3d-printer-enclosure_7785/)
+			- [https://blog.prusaprinters.org/mmu2s-printer-enclosure_30215/#_ga=2.131377225.792105462.1596534325-935810122.1596534325](https://blog.prusaprinters.org/mmu2s-printer-enclosure_30215/#_ga=2.131377225.792105462.1596534325-935810122.1596534325)
+		- Taurus Hard Feet
+			- [https://www.thingiverse.com/thing:2805753](https://www.thingiverse.com/thing:2805753)
+		- Lights
+		- Filament Dry Box
+			- [https://blog.prusaprinters.org/dryboxes-and-alternative-spool-holders-not-only-for-multimaterial-upgrade/](https://blog.prusaprinters.org/dryboxes-and-alternative-spool-holders-not-only-for-multimaterial-upgrade/)
+		- Improved Dial Knob
+		- BondTech extruder kit
+			- [https://www.digitmakers.ca/products/bondtech-prusa-i3-mk2-5s-mk3s-extruder-upgrade-kit?variant=12056813207588&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe4CGqCDyp2jYAG2PMK0KcEw4i2spMRe4FuwQOIVgb53B_d0wK5Y9ZcaAm02EALw_wcB](https://www.digitmakers.ca/products/bondtech-prusa-i3-mk2-5s-mk3s-extruder-upgrade-kit?variant=12056813207588¤cy=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe4CGqCDyp2jYAG2PMK0KcEw4i2spMRe4FuwQOIVgb53B_d0wK5Y9ZcaAm02EALw_wcB)

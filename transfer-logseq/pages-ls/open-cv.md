@@ -1,0 +1,4 @@
+- # Resources
+	- ## Stereo Reconstruction
+		- [3D Stereo Reconstruction using iPhone Devices .pptx](../assets/3D_Stereo_Reconstruction_using_iPhone_Devices_1677345931660_0.pptx)
+	-

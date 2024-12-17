@@ -1,0 +1,41 @@
+- I got this and made it from a reddit thread I read
+- ## Consolidated Comprehensive Tool List for Electrical Apprentices
+  **Essential Day 1 Hand Tools (Primary Tools)**
+	- Philips Head Screwdriver (Or suitable all-in-one screwdriver)
+	- Flat Head Screwdriver (Or suitable all-in-one screwdriver)
+	- Linemen’s Pliers
+	- Diagonal Cutters (often referred to as dikes or side cutters)
+	- Wire Strippers
+	- Hammer (a larger 22oz hammer is recommended, but a 16oz may suffice to start)
+	- Torpedo Level (with 30 and 45 angle features if possible)
+	- Tape Measure
+	- Utility Knife (an electrical or hawkbill knife is preferred by some for safety)
+	- Channel Locks (two pairs)
+	- Cobra Pliers (at least one pair, but some recommend two for different tasks)
+	- Pliers Wrench (as an alternative to the adjustable wrench for tasks requiring less damage to the workpiece)
+	- Headlamp (for working in low-light conditions)
+	- Outlet Tester (ensure it's reliable)
+	- Notepad and Writing Utensils (pencils, sharpies for labeling)
+	- Tool Belt/Pouch (to organize and carry tools efficiently)
+- **Recommended Hand Tools to Acquire within 6 Months (Secondary Tools)**
+	- Nut Drivers (Prioritize ¼, 5/16, 3/8, ½)
+	- Large Beater Screwdriver (or consider a dedicated chisel or demo screwdriver for prying and beating)
+	- Small Flat Head Screwdriver (Used for faceplates)
+	- MC Cutters or Roto Split (for safely stripping MC cable)
+	- Conduit Reamer
+	- SAE Hex Wrenches (For tightening service/panel lugs)
+	- Non-Contact Voltage Tester (not a replacement for a multimeter)
+	- Precision Screwdrivers
+	- Needle Nose Pliers
+	- Tin Snips
+	- Slip Joint Pliers (or replace with additional cobra pliers)
+	- Adjustable Wrench
+	- Sheetrock Knife
+	- File (for removing burrs on pipe and strut)
+	- Tapping Screwdriver (for re-threading screw holes)
+	- Stubby Screwdriver (preferably all-in-one with multiple tips)
+	- Multimeter (preferably clamp-on with AC/DC voltage, continuity, AC/DC current)
+	- Drill/Impact Bits (step, spade, # 1 & # 2 Robertson/Phillips, 1/4 & 3/8 metal, 7/16 & 9/16 deep socket drivers)
+	- Knee Pads (for tasks requiring kneeling)
+	- Flashlight (in addition to the headlamp for backup or focused light)
+- **Note:** The employer will provide all power tools, specialty electrical equipment, and personal protective equipment, but the apprentice is responsible for providing their own hand tools. It's also recommended that the apprentice gradually purchases these tools, prioritizing them based on the immediate needs and financial capability. High-quality tools are an investment in safety and efficacy on the job. Apprentices should consult with experienced workers or mentors to determine the best brands and specific models to purchase.

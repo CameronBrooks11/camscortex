@@ -1,0 +1,3 @@
+- Used in [[Deep Drawing]]
+- ![punch-and-die-400x232-1981114510.png](../assets/punch-and-die-400x232-1981114510_1691783431550_0.png)
+- ![DEEP-DRAWING2-3474455069.jpeg](../assets/DEEP-DRAWING2-3474455069_1691783447437_0.jpeg)

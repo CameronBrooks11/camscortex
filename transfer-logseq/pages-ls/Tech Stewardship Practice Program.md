@@ -1,0 +1,11 @@
+- **About**
+  collapsed:: true
+	- The Tech Stewardship Practice Program (TSPP) is a **12-hour asynchronous online program** that helps you launch your practice. [It is offered by the Centre for Social Impact Technology and is free for its registrants](https://bing.com/search?q=tech+stewardship+practice+program)[1](https://bing.com/search?q=tech+stewardship+practice+program). [The program is designed to help those involved in the creation and application of technology consider the social, ethical, and environmental impacts of their work](https://programs.techstewardship.com/)[2](https://programs.techstewardship.com/). [The program consists of a series of simple yet powerful reflective exercises (practice cycles) that are designed to overlay your technical and innovation efforts](https://programs.techstewardship.com/courses/ts-practice-program-winter-2023)[3](https://programs.techstewardship.com/courses/ts-practice-program-winter-2023).
+- [[Mark Abott]] is a main instructor
+- About aligning personal values with organizational and societal needs
+- Gives a micro-credential
+- Allows for networking
+- We need to integrate can we do it and should we do it
+	- [[Can we do it? vs. Should we do it?]]
+	- (Can we: engineering, CS, science) + (Should: social sci, policy)
+-

@@ -1,0 +1,43 @@
+# Effective Study Techniques and Habits
+	- ## Passive Study Enhancements
+		- ### Chewing Gum
+			- Benefit: Aids in maintaining focus and reducing stress.
+		- ### Lyric-Free Study Music
+			- Types: Includes [[Classical Music]] and [[Alpha Wave]] music.
+			- Purpose: Facilitates concentration and reduces distractions.
+		- ### Simulation Quizzes
+			- Technique: Mimicking exam conditions to enhance preparation.
+	- ## Optimized Sleep Patterns
+		- Sleep is critical for [[Memory Consolidation]] and overall [[Brain Health]].
+		- ### Regular Sleep Schedules
+			- Options:
+				- 7 hours (12am-7am) plus a 25-minute nap (1:00-1:25).
+				- Consistent 7.5 hours (12:00-7:30).
+- # Structured Study Sessions
+	- ## Lecture Preparation and Follow-Up
+		- ### Pre-Lecture
+			- Strategy: Pre-reading and creating a comfortable study environment.
+		- ### Active Lecture Participation
+			- Techniques: Note-taking focused on main ideas, key terms, and efficient shorthand.
+		- ### Post-Lecture
+			- Review Methods:
+				- Identifying and addressing knowledge gaps.
+				- Collaborative note comparison for deeper understanding.
+				- Integrating textbook information for comprehensive knowledge.
+- # Textbook Reading Mastery (SQ3R + Matt DiMaio)
+	- ## SQ3R Method
+		- Origin: Developed by [[Francis P Robinson]] in 1941 for effective reading.
+		- ### Survey
+			- Approach: Quick overview of chapter structure and key elements.
+		- ### Question
+			- Engaging with Content: Turning headings into questions to provoke thought.
+		- ### Read
+			- Focused Reading: Emphasizing comprehension and active engagement with the material.
+		- ### Recite
+			- Recall Practice: Summarizing information to reinforce learning.
+		- ### Review
+			- Reinforcement: Regular review to solidify understanding and aid in [[Long-Term Memory]] retention.
+- # Vocabulary Expansion
+	- ## Building a Strong Vocabulary
+		- Techniques: Maintaining a dedicated vocabulary book and utilizing context for word meaning.
+		- Importance: Enhances comprehension and articulation in academic and professional settings.

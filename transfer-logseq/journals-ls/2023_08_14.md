@@ -1,0 +1,2 @@
+- [[Jack Peplinkski]] thought I would enjoy: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+-

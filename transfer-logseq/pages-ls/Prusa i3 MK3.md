@@ -1,0 +1,3 @@
+- Mods:
+	- [all3dp.com/2/5-must-have-prusa-i3-mk3-upgrades/](https://all3dp.com/2/5-must-have-prusa-i3-mk3-upgrades/)
+	- [reddit.com/r/3Dprinting/comments/d2zi7h/must_have_mods_for_prusa_i3_mk3s/](https://www.reddit.com/r/3Dprinting/comments/d2zi7h/must_have_mods_for_prusa_i3_mk3s/)

@@ -1,0 +1,3 @@
+- https://psychedelics.berkeley.edu/therapy/
+- Research in by the [[Multidisciplinary Association for Psychedelic Studies]] has focused on using [[3,4-Methylenedioxymethamphetamine]] to treat [[post traumatic stress disorder]], [[eating disorders]], and [[anxiety disorders]]. This substance is better know as [[MDMA]] within the scientific community or [[ecstasy]], [[molly]], or [[M]] in the recreational scene.
+-
