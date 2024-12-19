@@ -4,10 +4,9 @@ Welcome to **camscortex**, my personal Foam knowledge base! This is a space for 
 
 ## Structure
 
-- [[**`journals/`**]]: Daily logs and reflections.
-- [[**`notes/`**]]: Core knowledge and ideas.
-- [[**`templates/`**]]: Note and journal templates.
-- [[**`attachments/`**]]: Images and files used in notes.
+- [[journals]]: Daily logs and reflections.
+- [[notes]]: Core knowledge and ideas.
+- [[templates]]: Note and journal templates.
 
 ## How to Use
 
