@@ -100,7 +100,6 @@ Offering these components as parametric and custom-to-order allows customers to 
 - SeaCow Alpha
 - Electromagnetic Pulse Launcher
 - Airostik
-- GeoGrow
 
 ### Rocketry
 
@@ -138,6 +137,9 @@ Offering these components as parametric and custom-to-order allows customers to 
   - Furnace
 - **In Progress (Side)**
   - Hot plate and magnetic stir
+  - OpenAgriS3D
+    - GeoGrow
+    - L-System-SCAD
   - SOSSAL
   - Component Expansion Additive Manufacture System
 
