@@ -1,0 +1,46 @@
+# Research Projects
+
+- **In Progress**
+  - Open source (photo)bioreactor
+  - Snap fit (ILOX)
+    - Draftscad
+    - OBE
+    - Tessella
+  - Industrial press
+  - BR clusters (OpenInsulin)
+  - ISCI3D
+  - BR flow unit
+- **In Progress (Side)**
+  - Sintering Furnace
+  - OpenAgriS3D
+    - GeoGrow
+    - L-System-SCAD
+  - Hot plate and magnetic stir
+  - SOSSAL
+  - Component Expansion Additive Manufacture System
+- **Upcoming**
+  - Pipe fit 2
+    - UniTube
+    - UniThread
+  - AMBB v2
+  - BREADS
+  - Desktop sheet press 2
+- **Helping Kinda**
+  - Tensile tester
+  - Weather tester
+  - MFI
+- **Pick Back Up Eventually**
+  - FEMORA-ONE
+  - HOCl Gen
+  - Induction heating
+  - Electroplating
+  - Hydrocyclone
+  - sCEMs
+- **Done**
+  - Additive manufacture breakout board (AMBB)
+  - Desktop sheet press
+  - Push fit pipe fitting
+  - Pv box gas monitor
+- **Archive (abandoned)**
+  - Evaluation Magnetic Performance of Toroids Fabricated by AM
+  - Optical Concentration Determination
