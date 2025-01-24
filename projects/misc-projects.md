@@ -1,5 +1,10 @@
 # Misc Projects
 
+## Personal
+
+- GeoGrow
+- L-System-SCAD
+
 ## School Done
 
 - Fixed function generator
