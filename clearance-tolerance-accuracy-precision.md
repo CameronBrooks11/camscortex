@@ -16,7 +16,7 @@ Using precise terms improves clarity when specifying dimensions. This is particu
 To design a 5 mm pin and hole:
 
 1. Measure your machine’s accuracy by printing test parts and noting the variation across X, Y, and Z axes. For example, accuracy = ±0.2 mm.
-2. Define clearance (e.g., 0.2–1.0 mm acceptable gap).
+2. Define clearance (e.g., 0.2–1.0 mm acceptable gap)..
 3. Calculate dimensions considering accuracy and desired clearance:
    - Pin: 5.0 ± 0.2 mm
    - Hole: 5.6 ± 0.2 mm
