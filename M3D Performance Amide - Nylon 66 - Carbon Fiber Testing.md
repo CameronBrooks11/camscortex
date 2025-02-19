@@ -1,6 +1,6 @@
 # M3D Performance Amide - Nylon 66 - Carbon Fiber Testing
 
-- Phone call: anneal at 70C for 10 minutes, Tg is 80C, drop fan to zero, 270 nozzle
+- Phone call: anneal at 70C for 10 minutes, Tg is 80C, drop fan to zero, 27[[daily-note-2025-02-19]]
 
 ## Test Table
 
