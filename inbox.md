@@ -2,8 +2,23 @@
 
 - Check out in depth:
   - https://xyzdims.com/
-- BREAD naming convention
-  - sliceware
-  - loafware
-  - breadware
-    - This wont be until further into development once the front and backend can be separated
+- [Reinforcement Learning the Free Course](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
+- [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+- Random
+  - [Upgrade for 3D printer saves time and support material](https://www.zhaw.ch/en/medien/medienmitteilungen/detail-news-releases/event-news/upgrade-fuer-den-3d-drucker-spart-zeit-und-stuetzmaterial/)
+  - [3D Printing For More Circuits](https://semiengineering.com/3d-printing-for-more-circuits/)
+  - [NeurOS™ and NeuroBlocks™ a neural/cognitive operating system and building blocks - Biologically Inspired Cognitive Architectures](https://doi.org/10.1016/j.bica.2014.11.011)
+  - OpenBCI
+  - Nasa Snake robot
+  - Memcomponents
+  - [Edouard Asselin - Electrochem Prof @ UBC](https://corrosion.mtrl.ubc.ca/edouard-asselin/)
+- Finding meaninful PEng experience
+  - http://aprovecho.org/
+- Ideas for website
+  - Projects but for the site:
+    - student tools and tutorials (math, science, grade/GPA calculators, citations, etc.)
+    - Map of sciences: math, physics, chemistry, biology, envirisci, psych but then comp sci beside all and below math then a link of math and philosophy which connects with psych then medicine spanning the 3 main scis
+  - Blog of people that did/do great things to make the world a better place
+- Largely a split between diciplines: (Can we: engineering, CS, science) + (Should: social sci, policy)
+  - I think that is more of a general categorization of the means of the various fields
+- [Cold pull (MK4, XL) | Prusa Knowledge Base](https://help.prusa3d.com/article/cold-pull-mk4-xl_445071)

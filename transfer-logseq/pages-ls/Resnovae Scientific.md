@@ -1,6 +1,0 @@
-- # Products
-	- AMCES
-	- HOCl
-	- Libre Press
-- # Tasks
-	- High profit OSH items (FAST, HardwareX, etc.)

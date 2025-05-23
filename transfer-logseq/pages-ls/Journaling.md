@@ -1,1 +1,0 @@
-- This is treated as a node for journaling thoughts

@@ -1,2 +1,0 @@
-- # Resources
-	- [How to Make an Instagram Bot With Python and InstaPy](https://realpython.com/instagram-bot-python-instapy/)

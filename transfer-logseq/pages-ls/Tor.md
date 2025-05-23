@@ -1,2 +1,0 @@
-- First attempt at finding sites with cracked designs was a fail
--

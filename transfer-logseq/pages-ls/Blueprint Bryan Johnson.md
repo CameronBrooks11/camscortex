@@ -1,1 +1,0 @@
-- [blueprint.bryanjohnson.co](https://blueprint.bryanjohnson.co)
