@@ -4,7 +4,7 @@ When embedding a note, there are a few ways to modify the scope of the content a
 
 Note, this only applies to note embedding, not embedding of attachments or images.
 
-![Note Embed Types GIF](../../assets/images/note-embed-type-demo.gif)
+![Note Embed Types GIF](../../assets/images/foam-docs/note-embed-type-demo.gif)
 
 ## Scope
 

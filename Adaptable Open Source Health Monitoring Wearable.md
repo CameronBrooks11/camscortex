@@ -4,7 +4,7 @@
   - Health monitoring wearables are evolving beyond traditional designs like wristbands to more innovative forms like rings.
   - The shift towards flexible, adaptable designs reflects a growing demand for personalized health tracking solutions.
 - **Potential Forms**
-  - **Rings**: Compact and discreet, offering continuous health data tracking. Example: [[Oura Ring]](https://ouraring.com).
+  - **Rings**: Compact and discreet, offering continuous health data tracking. Example: [Oura Ring](https://ouraring.com).
   - **Wristbands**: More space for sensors and potentially more features, but less discreet than rings.
   - **Other Forms**: Innovations may lead to new wearable types, such as smart fabrics or implantable devices.
 - **Key Features**

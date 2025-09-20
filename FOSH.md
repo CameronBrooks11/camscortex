@@ -2,14 +2,12 @@
 
 - Free and Open Source Hardware
 - See also:
+
   - #FOSS
   - #OSAT
-  - #[[The Idea]]
-- # Overview (What)
-
-  - A
 
 - # Organizations & Repositories
+
   - #[[OpenHW Group]]
 
     - **OpenHW Group** is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software [ref](https://www.openhwgroup.org/).
@@ -97,6 +95,7 @@
   - #OpenBCI
 
     - OpenBCI: An open-source project that develops hardware and software for biosensing and neurofeedback applications. OpenBCI produces brain-computer interfaces (BCIs) that can measure electrical activity from the brain, muscles, heart and other biosignals. Open
+
 - # #Scratch
   - Arduino: An open-source hardware and software platform for creating interactive electronic projects. Arduino boards are widely used by hobbyists, educators, artists and makers.
   - Raspberry Pi: A series of small, single-board computers that run Linux and can be used for education, programming and digital making. Raspberry Pi Foundation is a UK-based charity that supports the development and distribution of Raspberry Pi devices.

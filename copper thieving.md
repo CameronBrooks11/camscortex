@@ -1,6 +1,6 @@
 # Copper Thieving
 
-- (Lee Ritchie's post)[https://www.freelists.org/post/si-list/Impact-on-Copper-Thieving-on-10G-Routing,3] paraphrased:
+- [Lee Ritchie's post](https://www.freelists.org/post/si-list/Impact-on-Copper-Thieving-on-10G-Routing,3) paraphrased:
   - **Definition and Purpose:**
     - **Thieving** refers to the addition of copper to the outer layers of a Printed Circuit Board (PCB) to ensure a uniform copper distribution across its surface.
       - Crucial for achieving uniform copper plating within the holes of the PCB.

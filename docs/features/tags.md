@@ -46,7 +46,7 @@ The end result will be a CSS file that looks similar to the content below. Now y
 }
 ```
 
-![custom tag style demo](../../assets/images/custom-tag-style.png)
+![custom tag style demo](../../assets/images/foam-docs/custom-tag-style.png)
 
 ## Using backlinks in place of tags
 
