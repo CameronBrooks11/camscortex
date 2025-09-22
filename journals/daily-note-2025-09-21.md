@@ -7,7 +7,7 @@ filepath: "journal/2025-09-21.md"
 
 ## 📝 Scratchpad
 
-- No random notes today since I just made this template :P
+- Move [[Companies to Apply to Post-Graduation]] from GDrive
 
 ## 📋 Daily Overview
 
