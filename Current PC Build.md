@@ -39,8 +39,10 @@
   **Status:** Delivered (Amazon)
 
 - **Component:** GPU  
-  **Name:** ASUS Dual series GeForce® GTX 1070 OC edition 8GB  
-  **Status:** Delivered (Ebay)
+  ~~**Name:** ASUS Dual series GeForce® GTX 1070 OC edition 8GB  ~~
+  ~~**Status:** Delivered (Ebay)~~
+    **Name:** AMD Radeon RX 6700 XT 12GB
+    **Status:** Delivered
 
 - **Component:** Monitor  
   **Name:** Dell 27" FHD 75Hz 8ms GTG IPS LED FreeSync Gaming Monitor (SE2719HR)  
