@@ -1,4 +1,4 @@
-### Load-Cell Bed Auto-Calibration Concept — Evaluation
+# Load-Cell Bed Auto-Calibration Concept
 
 **Verdict:** Obsolete.  
 Modern printers (e.g. Prusa MK4, Core One) use _nozzle-mounted_ load cells, not bed-mounted arrays.
