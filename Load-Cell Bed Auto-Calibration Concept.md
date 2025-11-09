@@ -1,5 +1,7 @@
 # Load-Cell Bed Auto-Calibration Concept
 
+Idea: Use an array of load cells mounted under the print bed to measure forces during probing, enabling automatic bed leveling and Z-offset calibration. Currently, Victor has a prototype setup with 4 load cells connecting at the 4 points of the bed on Prusa i3 MK3S+.
+
 **Verdict:** Obsolete.  
 Modern printers (e.g. Prusa MK4, Core One) use _nozzle-mounted_ load cells, not bed-mounted arrays.
 
