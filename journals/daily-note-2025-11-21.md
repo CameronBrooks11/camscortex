@@ -23,7 +23,7 @@ filepath: "journal/2025-11-21.md"
 - Key issues encountered / resolved:
   - ...
 - Links to notes or resources created today:
-  - [[RelatedNote1]]
+  - [[Notable Quotes and Phrases]]
 
 ## ☑️ Blockers / To-Do for Tomorrow
 
