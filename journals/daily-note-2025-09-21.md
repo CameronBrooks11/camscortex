@@ -1,6 +1,8 @@
 ---
 type: daily-note
-filepath: "journal/2025-09-21.md"
+foam_template:
+  description: Daily Note
+  filepath: "/journals/daily-note-2025-09-21.md"
 ---
 
 # 2025-09-21
@@ -46,3 +48,6 @@ filepath: "journal/2025-09-21.md"
   - I could have stayed on task better while working on robotic manipulators
 - Actionable adjustment for tomorrow:
   - Set a timer for focused work sessions and take short breaks in between to maintain concentration
+
+
+[Companies to Apply to Post-Graduation]: <../Companies to Apply to Post-Graduation> "Companies to Apply to Post-Graduation"

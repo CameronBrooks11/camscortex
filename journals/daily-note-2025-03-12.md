@@ -1,3 +1,10 @@
+---
+type: daily-note
+foam_template:
+  description: Daily Note
+  filepath: "/journals/daily-note-2025-03-12.md"
+---
+
 # Journal Entry, Wednesday, March 12
 
 ## Meeting with Cameron from Pioreactor

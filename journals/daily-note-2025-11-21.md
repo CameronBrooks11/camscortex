@@ -1,6 +1,8 @@
 ---
 type: daily-note
-filepath: "journal/2025-11-21.md"
+foam_template:
+  description: Daily Note
+  filepath: "/journals/daily-note-2025-11-21.md"
 ---
 
 # 2025-11-21
@@ -42,4 +44,7 @@ filepath: "journal/2025-11-21.md"
   - ...
 
 
-[RelatedNote1]: ../RelatedNote1 "RelatedNote1"
+
+
+
+[Notable Quotes and Phrases]: <../Notable Quotes and Phrases> "Notable Quotes and Phrases"

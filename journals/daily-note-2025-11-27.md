@@ -1,6 +1,8 @@
 ---
 type: daily-note
-filepath: "journal/2025-11-27.md"
+foam_template:
+  description: Daily Note
+  filepath: "/journals/daily-note-2025-11-27.md"
 ---
 
 # 2025-11-27
@@ -40,3 +42,6 @@ filepath: "journal/2025-11-27.md"
   - ...
 - Actionable adjustment for tomorrow:
   - ...
+
+
+[Sovol SV08 Hotend Upgrades]: <../Sovol SV08 Hotend Upgrades> "Sovol SV08 Hotend Upgrades"

@@ -2,10 +2,10 @@
 type: daily-note
 foam_template:
   description: Daily Note
-  filepath: "/journals/daily-note-2025-09-29.md"
+  filepath: "/journals/daily-note-2025-12-22.md"
 ---
 
-# 2025-09-29
+# 2025-12-22
 
 ## 📝 Scratchpad
 
@@ -25,8 +25,7 @@ foam_template:
 - Key issues encountered / resolved:
   - ...
 - Links to notes or resources created today:
-  - [[Michigan Technological University Safety Guidelines]]
-  - 
+  - [[RelatedNote1]]
 
 ## ☑️ Blockers / To-Do for Tomorrow
 
@@ -43,6 +42,3 @@ foam_template:
   - ...
 - Actionable adjustment for tomorrow:
   - ...
-
-
-[Michigan Technological University Safety Guidelines]: <../Michigan Technological University Safety Guidelines> "Michigan Technological University Safety Guidelines"
