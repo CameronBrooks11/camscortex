@@ -12,7 +12,7 @@
 - Practical electronic converters use switching techniques. Switched-mode DC-to-DC converters convert one DC voltage level to another, which may be higher or lower, by storing the input energy temporarily and then releasing that energy to the output at a different voltage. The storage may be in either magnetic field storage components ([[inductors]], [[transformers]]) or electric field storage components ([[capacitors]]). This conversion method can increase or decrease voltage. Switching conversion is often more power-efficient (typical efficiency is 75% to 98%) than linear voltage regulation, which dissipates unwanted power as heat.
 - The [[power switch]] was the key to practical switching regulators, namely the [[Vertical Metal Oxide Semiconductor (VMOS)]] power switch, switching supplies were generally not practical.
 
-- The inductor's main function is to limit the current [[slew rate]] through the power switch.
+- The inductor's main function is to limit the current [[Slew Rate]] through the power switch.
   - This action limits the otherwise high-peak current that would be limited by the switch resistance alone.
   - The key advantage for using an inductor in switching regulators is that an inductor stores energy. This energy can be expressed in Joules as a function of the current by:
     - E = ½ × L × I²

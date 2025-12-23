@@ -1,4 +1,4 @@
-# naming convetions of applications, projects and repositories
+# Naming Conventions of Applications, Projects, and Repositories
 
 When naming applications, repositories, and general projects, different conventions have their advantages depending on readability, compatibility, and usage context. Below are the common naming styles:
 

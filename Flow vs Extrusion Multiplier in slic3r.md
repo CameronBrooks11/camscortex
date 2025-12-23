@@ -1,4 +1,4 @@
-# slic3r Flow vs Extrusion Multiplier
+# Flow vs Extrusion Multiplier in slic3r
 
 Specifically looking at Prusa MK3S 0.95 Flow vs. PrusaSlicer Extrusion Multiplier
 
@@ -19,7 +19,7 @@ Example:
 
 The `M221 S95` command is included in the default start G-code:
 
-```
+```c
 M221 S{if layer_height<0.075}100{else}95{endif}
 ```
 
@@ -27,7 +27,10 @@ This was historically used to counter over-extrusion observed in early versions 
 
 ## References
 
-[1] https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-hardware-firmware-and-software-help/why-is-flow-set-to-95-as-standard/
-[2] https://help.prusa3d.com/article/extrusion-multiplier-calibration_2257
-[3] https://forum.prusa3d.com/forum/prusaslicer/iso-flow-setting/
-[4] https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-general-discussion-announcements-and-releases/extrusion-multiplier-vs-flow/
+[1] [Prusa3D Forum: Why is flow set to 95% as standard?](https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-hardware-firmware-and-software-help/why-is-flow-set-to-95-as-standard/)
+
+[2] [Prusa3D Help: Extrusion Multiplier Calibration](https://help.prusa3d.com/article/extrusion-multiplier-calibration_2257)
+
+[3] [Prusa3D Forum: ISO Flow Setting](https://forum.prusa3d.com/forum/prusaslicer/iso-flow-setting/)
+
+[4] [Prusa3D Forum: Extrusion Multiplier vs Flow](https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-general-discussion-announcements-and-releases/extrusion-multiplier-vs-flow/)

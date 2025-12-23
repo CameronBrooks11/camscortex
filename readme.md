@@ -4,13 +4,15 @@ Welcome to **camscortex**, my personal Foam knowledge base! This is a space for 
 
 - [[home]]: Overview and rough directory.
 - [[journals]]: Daily logs and reflections.
+- [[inbox]]: Temporary holding area for quick notes and ideas.
 
 Docs for _foam_ itself can be viewed at [[index]]
 
 <img src="attachments/foam-icon.png" width=100>
 
 [journals]: journals/journals "Journal Index"
-
-
 [home]: home "home"
 [index]: docs/index "Using Foam"
+
+
+[inbox]: inbox "Inbox"
