@@ -45,4 +45,4 @@ foam_template:
   - ...
 
 
-[Michigan Technological University Safety Guidelines]: <../Michigan Technological University Safety Guidelines> "Michigan Technological University Safety Guidelines"
+[Michigan Technological University Safety Guidelines]: <../notes/Michigan Technological University Safety Guidelines> "Michigan Technological University Safety Guidelines"

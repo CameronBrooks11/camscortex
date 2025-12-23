@@ -16,4 +16,4 @@ foam_template:
 
 
 
-[Naming Conventions of Applications, Projects, and Repositories]: <../Naming Conventions of Applications%2C Projects%2C and Repositories> "Naming Conventions of Applications, Projects, and Repositories"
+[Naming Conventions of Applications, Projects, and Repositories]: <../notes/Naming Conventions of Applications%2C Projects%2C and Repositories> "Naming Conventions of Applications, Projects, and Repositories"

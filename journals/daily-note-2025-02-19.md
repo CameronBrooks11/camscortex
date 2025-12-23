@@ -10,5 +10,5 @@ foam_template:
 - Found this [useful reddit tip](https://www.reddit.com/r/3Dprinting/comments/uxf676/coasting_in_prusaslicer/) of [[Coasting in PrusaSlicer]]
 
 
-[Coasting in PrusaSlicer]: <../Coasting in PrusaSlicer> "'Coasting' in PrusaSlicer"
+[Coasting in PrusaSlicer]: <../notes/Coasting in PrusaSlicer> "'Coasting' in PrusaSlicer"
 

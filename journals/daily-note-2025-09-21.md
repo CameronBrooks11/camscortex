@@ -50,4 +50,4 @@ foam_template:
   - Set a timer for focused work sessions and take short breaks in between to maintain concentration
 
 
-[Companies to Apply to Post-Graduation]: <../Companies to Apply to Post-Graduation> "Companies to Apply to Post-Graduation"
+[Companies to Apply to Post-Graduation]: <../notes/Companies to Apply to Post-Graduation> "Companies to Apply to Post-Graduation"

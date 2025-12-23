@@ -1,6 +1,6 @@
 - I learned some new terms around [[Electrical Grounding]]
 
 
-[Electrical Grounding]: <../Electrical Grounding> "Electrical grounding"
+[Electrical Grounding]: <../notes/Electrical Grounding> "Electrical grounding"
 
 

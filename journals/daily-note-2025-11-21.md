@@ -43,8 +43,4 @@ foam_template:
 - Actionable adjustment for tomorrow:
   - ...
 
-
-
-
-
-[Notable Quotes and Phrases]: <../Notable Quotes and Phrases> "Notable Quotes and Phrases"
+[Notable Quotes and Phrases]: <../notes/Notable Quotes and Phrases> "Notable Quotes and Phrases"

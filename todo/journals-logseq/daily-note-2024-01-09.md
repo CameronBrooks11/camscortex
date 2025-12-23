@@ -4,4 +4,4 @@
 -
 
 
-[My Undergraduate Degree]: <../My Undergraduate Degree> "My Undergraduate Degree"
+[My Undergraduate Degree]: <../notes/My Undergraduate Degree> "My Undergraduate Degree"

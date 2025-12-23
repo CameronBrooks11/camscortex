@@ -3,4 +3,4 @@
 - [[Data Rights]] is something that is important to me.
 
 
-[Zenith Pathways Mentorship Notes]: <../Zenith Pathways Mentorship Notes> "Zenith Pathways Mentorship Notes"
+[Zenith Pathways Mentorship Notes]: <../notes/Zenith Pathways Mentorship Notes> "Zenith Pathways Mentorship Notes"

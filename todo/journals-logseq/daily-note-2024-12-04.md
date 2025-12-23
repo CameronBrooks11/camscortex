@@ -7,4 +7,4 @@
 - GDHB terminal blocks: https://www.digikey.ca/en/products/detail/amphenol-anytek/VP0265540000G/4957847
 
 
-[Masters Degree]: <../Masters Degree> "Masters Degree"
+[Masters Degree]: <../notes/Masters Degree> "Masters Degree"

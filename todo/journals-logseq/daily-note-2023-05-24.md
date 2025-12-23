@@ -2,5 +2,5 @@
 
 
 [How to Change the World]: <../notes/transfer-logseq/pages-ls/How to Change the World> "Tasks"
-[QGIS]: ../notes/transfer-logseq/pages-ls/QGIS "QGIS"
-[NaturalEarthData]: ../notes/transfer-logseq/pages-ls/NaturalEarthData "NaturalEarthData"
+[QGIS]: <../notes/transfer-logseq/pages-ls/QGIS> "QGIS"
+[NaturalEarthData]: <../notes/transfer-logseq/pages-ls/NaturalEarthData> "NaturalEarthData"

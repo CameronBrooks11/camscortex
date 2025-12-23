@@ -52,4 +52,4 @@
 
 -
 
-[Micron DDR2]: <../Micron DDR2> "Micron DDR2"
+[Micron DDR2]: <../notes/Micron DDR2> "Micron DDR2"

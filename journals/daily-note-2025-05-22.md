@@ -9,4 +9,4 @@ foam_template:
 
 - Finally figured out the confusion around [[Flow vs Extrusion Multiplier in slic3r]]
 
-[Flow vs Extrusion Multiplier in slic3r]: <../Flow vs Extrusion Multiplier in slic3r> "Flow vs Extrusion Multiplier in slic3r"
+[Flow vs Extrusion Multiplier in slic3r]: <../notes/Flow vs Extrusion Multiplier in slic3r> "Flow vs Extrusion Multiplier in slic3r"

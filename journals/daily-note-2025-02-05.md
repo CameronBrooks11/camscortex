@@ -10,5 +10,5 @@ foam_template:
 - [[M3D Performance Amide - Nylon 66 - Carbon Fiber Testing]]
 
 
-[M3D Performance Amide - Nylon 66 - Carbon Fiber Testing]: <../M3D Performance Amide - Nylon 66 - Carbon Fiber Testing> "M3D Performance Amide - Nylon 66 - Carbon Fiber Testing"
+[M3D Performance Amide - Nylon 66 - Carbon Fiber Testing]: <../notes/M3D Performance Amide - Nylon 66 - Carbon Fiber Testing> "M3D Performance Amide - Nylon 66 - Carbon Fiber Testing"
 

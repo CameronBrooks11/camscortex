@@ -44,4 +44,4 @@ foam_template:
   - ...
 
 
-[Sovol SV08 Hotend Upgrades]: <../Sovol SV08 Hotend Upgrades> "Sovol SV08 Hotend Upgrades"
+[Sovol SV08 Hotend Upgrades]: <../notes/Sovol SV08 Hotend Upgrades> "Sovol SV08 Hotend Upgrades"

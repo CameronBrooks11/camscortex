@@ -13,4 +13,4 @@
     -
 
 
-[copper thieving]: <../copper thieving> "Copper Thieving"
+[copper thieving]: <../notes/copper thieving> "Copper Thieving"
