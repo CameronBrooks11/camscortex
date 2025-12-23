@@ -1,4 +1,6 @@
-# Research Projects
+# Projects
+
+## Research Projects
 
 - **In Progress**
 
@@ -43,3 +45,34 @@
 
   - Evaluation Magnetic Performance of Toroids Fabricated by AM (lost contact with collaborator)
   - Optical Concentration Determination (determined out of scope for HOCl project)
+
+## Rocketry Projects
+
+- **Done**
+  - Airbrakes
+- **Current**
+  - Hyp2
+  - SRAD FC
+  - Test stand
+- **Future**
+  - BR payload 2
+  - Fabricatus-Astra
+
+## Misc Projects
+
+### Personal
+
+- GeoGrow
+- L-System-SCAD
+
+### School Done
+
+- Fixed function generator
+- Automorn
+- SSRSW PSU
+
+### DIY Maker
+
+- SeaCow Alpha
+- Electromagnetic Pulse Launcher
+- Airostik
