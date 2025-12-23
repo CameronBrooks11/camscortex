@@ -1,4 +1,6 @@
 {
+  // this file defines tasks that can be run from the VSCode command palette
+  // to run a task, open the command palette (Ctrl+Shift+P) and type "Run Task"
     "version": "2.0.0",
     "tasks": [
       {

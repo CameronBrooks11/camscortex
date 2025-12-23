@@ -1,6 +1,8 @@
 ---
 type: daily-note
-filepath: "journal/${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}.md"
+foam_template:
+  description: Daily Note
+  filepath: "/journals/daily-note-$FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE.md"
 ---
 
 # ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}
