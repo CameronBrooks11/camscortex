@@ -4,7 +4,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions", // Keep as withoutExtensions for github pages compatibility
   "[markdown]": {
     "editor.quickSuggestions": {
       "other": true,
@@ -18,11 +18,7 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"],
-
-  // Start custom
-  "foam.openDailyNote.directory": "journals",
-  "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
-  "foam.openDailyNote.fileExtension": "md",
-  "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
+  "markdown.styles": [
+    ".vscode/custom-tag-style.css"
+  ],
 }
