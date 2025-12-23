@@ -1,0 +1,13 @@
+- Solenoid pinch valves for the fluid routing manifold [[MOSS Reactor]]
+  - Solenoids
+    - Digi Key
+      - https://www.digikey.ca/en/products/detail/delta-electronics/DSML-1153-12C/6618791
+      - https://www.digikey.ca/en/products/detail/delta-electronics/DSML-1153-12E/6618792
+      - https://www.mouser.ca/ProductDetail/Ledex/C5-270-B-1?qs=FESYatJ8odKpxSt%252BKLStTw%3D%3D
+    - Mouser
+      - https://www.mouser.ca/ProductDetail/Ledex/B17-L-158-B-3?qs=byeeYqUIh0OpZDlRLz6jpw%3D%3D
+      - https://www.mouser.ca/ProductDetail/Ledex/B12-254-B-3?qs=byeeYqUIh0OBgceJwWkjFQ%3D%3D
+      - https://www.mouser.ca/ProductDetail/Ledex/C5-270-B-1?qs=FESYatJ8odKpxSt%252BKLStTw%3D%3D
+    - [Small Push-Pull Solenoid - 12VDC](https://www.adafruit.com/product/412)
+  - Making the manifold from T and elbow connectors
+-

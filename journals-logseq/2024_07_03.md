@@ -1,0 +1,1 @@
+- M310 S0 to disable thermal model on Prusa (for HTX revo hotend)

@@ -1,0 +1,2 @@
+- DONE Look into the [ESA debris training course](https://www.esa.int/Education/ESA_Academy/Calling_university_students_to_participate_in_the_Space_Debris_Training_Course_2023)
+  SCHEDULED: <2023-06-04 Sun>

@@ -43,7 +43,7 @@
 - Electricity to contract pores to push out oil/pus/dirt
 - Thing that sucks at hair and clips it at certain length for even and efficiency trimming (cuts in a way that ends aren’t blunt but rather natural looking)
 - Devices that cuts hair for you (uses CV)
-- Quantized electric weed vaporizer
+- Quantized electric cannabis vaporizer
 
 ## Fitness
 
@@ -140,3 +140,5 @@
 
 
 
+
+[Blueprint Bryan Johnson]: <notes/transfer-logseq/pages-ls/Blueprint Bryan Johnson> "Blueprint Bryan Johnson"

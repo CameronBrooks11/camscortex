@@ -1,5 +1,0 @@
-# Templates
-
-Current templates:
-
-- None !

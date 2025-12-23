@@ -1,0 +1,3 @@
+- Daily plan Mar 27th, 2023
+  - DONE Organize commissioner applications
+- #CubeSat could be a good way to get involved in space
