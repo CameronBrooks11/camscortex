@@ -10,5 +10,5 @@ foam_template:
 Learned about the difference between [[clearance-tolerance-accuracy-precision]] in the context of mechanical design.
 
 
-[clearance-tolerance-accuracy-precision]: ../clearance-tolerance-accuracy-precision "clearance-tolerance-accuracy-precision"
+[clearance-tolerance-accuracy-precision]: ../notes/clearance-tolerance-accuracy-precision "clearance-tolerance-accuracy-precision"
 

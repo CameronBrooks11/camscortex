@@ -123,3 +123,9 @@ With graph view mastery, you're ready to explore advanced Foam features:
 3. **[[tags]]** - Organize your notes with tags
 4. **[[daily-notes]]** - Set up daily notes to establish capture routines
 
+
+[note-properties]: note-properties "Note Properties"
+[wikilinks]: wikilinks "Wikilinks"
+[tags]: tags "Tags"
+[templates]: templates "Note Templates"
+[daily-notes]: daily-notes "Daily Notes"

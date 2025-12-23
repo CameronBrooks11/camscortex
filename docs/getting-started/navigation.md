@@ -137,3 +137,5 @@ With navigation mastered, you're ready to:
 2. **[Learn about backlinks](../features/backlinking.md)** - Master bidirectional linking
 3. **[Set up templates](../features/templates.md)** - Standardize your note creation
 4. **[Use tags effectively](../features/tags.md)** - Add another layer of organization
+
+[graph-view]: ../features/graph-view "Graph Visualization"

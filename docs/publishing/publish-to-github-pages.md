@@ -47,3 +47,5 @@ There are many other templates which also support publish your foam workspace to
 
 [[todo]] [[good-first-task]] Improve this documentation
 
+
+[todo]: ../../todo "Todo"

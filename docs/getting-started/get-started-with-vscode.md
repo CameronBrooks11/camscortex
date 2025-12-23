@@ -249,3 +249,7 @@ With VS Code mastery, explore advanced Foam topics:
 
 
 
+
+[tags]: ../features/tags "Tags"
+[recommended-extensions]: recommended-extensions "Recommended Extensions"
+[publishing]: ../publishing/publishing "Publishing pages"

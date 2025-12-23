@@ -36,3 +36,6 @@ You can add [[recipes]] by creating a pull request to [foambubble/foam](https://
 
 Read more in our [[contribution-guide]].
 
+
+[recommended-extensions]: ../getting-started/recommended-extensions "Recommended Extensions"
+[recipes]: recipes "Recipes"

@@ -61,3 +61,5 @@ To customize your daily note location and format you can create a `.foam/templat
 There are also some settings to customize the behavior of daily notes, but they are deprecated and will be removed. Please use the `daily-note.md` template.
 
 
+
+[templates]: templates "Note Templates"

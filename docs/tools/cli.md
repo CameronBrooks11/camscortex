@@ -8,3 +8,5 @@ Create a CLI tool to allow running common Foam commands. These may include:
 
 More commands to be added.
 
+
+[workspace-janitor]: workspace-janitor "Janitor"

@@ -8,3 +8,5 @@ Run `Cmd` + `P` ( `Ctrl` +  `P` on Windows ) and type a name (like 'issues') to 
 
 Run `Cmd` + `Shift` + `F` ( `Ctrl` + `Shift` + `F` on Windows ) and type a word (like 'links') to find all the notes that contain that term.
 
+
+[todo]: ../../todo "Todo"

@@ -81,3 +81,6 @@ Finally, if all is successful, Vercel will show the detected framework: Jekyll. 
 
 And now, Vercel will take care of building and rendering our foam workspace each time on push. Vercel will publish our site to `xxx.vercel.app`, we can also define a custom domain name for our Vercel website.
 
+
+[publish-to-github-pages]: publish-to-github-pages "GitHub Pages"
+[math-support-with-katex]: math-support-with-katex "Katex Math Rendering"

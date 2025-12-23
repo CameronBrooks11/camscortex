@@ -69,3 +69,10 @@ If you encounter issues:
 - Browse [GitHub Issues](https://github.com/foambubble/foam/issues) for known problems
 - Ask questions in [GitHub Discussions](https://github.com/foambubble/foam/discussions)
 
+
+[get-started-with-vscode]: get-started-with-vscode "Using Foam with VS Code Features"
+[first-workspace]: first-workspace "Creating Your First Workspace"
+[note-taking-in-foam]: note-taking-in-foam "Note-Taking in Foam"
+[navigation]: navigation "Navigation in Foam"
+[graph-view]: ../features/graph-view "Graph Visualization"
+[frequently-asked-questions]: ../frequently-asked-questions "Frequently Asked Questions"

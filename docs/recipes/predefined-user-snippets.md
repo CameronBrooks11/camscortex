@@ -48,3 +48,5 @@ We could provide snippets that expand out into the associated markdown syntax, l
 
 The JSON for these snippets can be found [here](https://github.com/foambubble/foam/pull/192#issuecomment-666736270).
 
+
+[custom-snippets]: ../features/custom-snippets "Adding Custom Snippets"

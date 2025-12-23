@@ -236,3 +236,5 @@ Now that you understand note-taking basics:
 [navigation]: navigation.md 'Navigation in Foam'
 [tags]: ../features/tags.md 'Tags'
 
+
+[embeds]: ../features/embeds "Note Embeds"
