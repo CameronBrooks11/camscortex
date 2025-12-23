@@ -64,7 +64,6 @@
 
   - Downloading libraries and dependencies for working with #deepdoctection
 
-    - {{embed ((63d3e6f6-4f95-4476-aa70-0e929029a467))}}
     - `pip install torch`
     - `pip install torchvision`
       id:: 63da8580-6e7f-4888-a9a6-6081b7735d2e

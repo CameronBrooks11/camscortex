@@ -22,6 +22,3 @@
     - Import all classes from one file using import\* command.
     - Import all classes from another folder in parent directory using Import Sys command.
     - Import a class dynamically.
-
-
-[git]: ../notes/transfer-logseq/pages-ls/Git "Git"

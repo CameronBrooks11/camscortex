@@ -1,4 +1,5 @@
 - #Electronix [[ringing choke]]
+
   - Text description
     - A ringing choke, also known as a "ringing choke converter" or "blocking oscillator," is an electronic component or circuit that is primarily used in switching power supplies, such as those found in compact fluorescent lamps (CFLs) and LED drivers. It is a type of inductor-based converter that can transform a DC (direct current) input voltage into an AC (alternating current) output voltage with a high frequency, typically in the range of tens to hundreds of kilohertz.
       The ringing choke consists of an inductor (coil of wire) and a switching device, usually a transistor or a MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor). The switching device alternately turns on and off at a high frequency, causing the current through the inductor to change rapidly. This rapid change in current induces a high-frequency voltage across the inductor, which is then rectified and filtered to produce the desired output voltage.
@@ -37,7 +38,9 @@
 
   - Theory and Design
     - Discuss the theory of designing a **_[THING]_**. Then provide all associated equations in markdown format in a table which is set up as though it would be used as a design sheet. Do not use code blocks. Use proper formatting such as bolding, italics, subscripts, etc. Always include the unit symbol, the unit words, and such.
+
 - #Electronix [[Vintage Silicon Wafer: A Glimpse into Memory Chip Production History]]
+
   - [Reddit post](https://www.reddit.com/r/AskElectronics/comments/12zemj9/i_have_a_silicon_wafer_i_found_while_unpacking/)
   - Image
 
@@ -46,7 +49,7 @@
   - The silicon wafer in question is likely an old one from a manual fab, with the number on it serving as a Lot/wafer ID for tracking purposes during production. Based on the pattern, it is likely a memory wafer with the logic/controller at the bottom and data storage cells at the top of each die. The wafer size can be used to estimate the production date, with 4 inches corresponding to the late 70s to mid 80s, 6 inches to 1985-1996, and 8 inches to 1996-2008.
     The wafer shows signs of partial dicing, but the process was halted, possibly due to a dull blade, shattered blade, or incorrect calibration. The wafer was nearly finished, so most of the dies were likely functional. In the past, bad wafers were often discarded, but employees could sometimes keep them as gifts.
     After further discussion, it is believed to be a [[Micron DDR2]] (or possibly flash memory) wafer produced between 2003 and 2008.
--
 
+-
 
 [Micron DDR2]: <../Micron DDR2> "Micron DDR2"

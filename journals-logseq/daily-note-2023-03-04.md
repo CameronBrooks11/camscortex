@@ -1,5 +1,4 @@
-- DONE Affiliate stuff
-  SCHEDULED: <2023-05-17 Wed>
+
 - #ideas
 
   - ML that processes numerous textbooks to consolidate the beast information on each subject and concept in order to create better knowledge maps

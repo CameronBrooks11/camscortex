@@ -11,7 +11,3 @@
 - #ideas
   - Argan oil for shaving product
 - #Reflections
--
-
-
-[Things to Learn]: <../notes/transfer-logseq/pages-ls/Things to Learn> "Things to Learn"

@@ -1,5 +1,4 @@
-- DONE pdf-scribe
-  SCHEDULED: <2023-02-08 Wed>
+
 - #git
   - If having issues with git files being corrupted:
     - ```

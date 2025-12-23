@@ -1,2 +1,0 @@
-- DONE Email Tom Rand tomrand@tomrand.net
-  SCHEDULED: <2023-02-25 Sat>

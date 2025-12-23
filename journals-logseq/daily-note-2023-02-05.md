@@ -1,8 +1,6 @@
 - #pdf-scribe work session
   - #AI-thoughts from yesterday then following the block embed is today:
 
-    - {{embed ((63dfe177-e672-4fdb-8c25-f7919184adc1))}}
-
   - Error with ite-3.py
 
     - ```
