@@ -14,9 +14,9 @@ foam_template:
 ## 📋 Daily Overview
 
 - Priority tasks:
-  - [ ] Task 1
-  - [ ] Task 2
-  - [ ] Task 3
+  1. ${1:First tabstop}
+  2. ${2:A second tabstop}
+  3. ${3:A third tabstop}
 
 ## 🔍 Work Log / Highlights
 

@@ -1,3 +1,5 @@
+// This is used by tasks.json to update the journal index and wikilink references.
+
 const fs = require("fs");
 const path = require("path");
 
