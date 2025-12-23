@@ -54,6 +54,7 @@
       git config --global user.email "cambrooks3393@gmail.com"
       ```
 - **Generate an SSH Key** (if you haven't already):
+
   - ```
     ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
     ```
@@ -80,6 +81,7 @@
   - Had to also do: eval "$(ssh-agent -s)" before I could clone the repo to my VM
   - Also had to do:
   - **Configure Pull Behavior** (optional):
+
     - To set your desired pull behavior and prevent Git from showing the hint message in the future, you can run one of the suggested configurations. For example, if you want to set a merge strategy for pulls, run:
 
       ```
@@ -87,10 +89,12 @@
       ```
 
     - Once I did this I could pull normally
+
   - Then i removed the default apache2 webserver default page: sudo rm /var/www/html/index.html
   - Gotta do:
     - sudo mv /var/www/html/cameronbrooksdotnet/_ /var/www/html/
       sudo mv /var/www/html/cameronbrooksdotnet/._ /var/www/html/ 2> /dev/null
+
 - I made a favicon:
   - used favicon.io to generate it from my icon I made on OpenArt.ai
   - added it all under the img folder then copied the favicon.ico to the parent dir of the repo
@@ -131,6 +135,9 @@
       ```
 - It works - even the Favicon!
 - I added a www CNAME record
-  - In order for it to redirect, I had to
-
-
+  - In order for it to redirect, I had to add this to the .htaccess file in the dist folder:
+    - ```
+      RewriteEngine On
+      RewriteCond %{HTTP_HOST} ^www\.cameronbrooks\.net [NC]
+      RewriteRule ^(.*)$ https://cameronbrooks.net/$1 [L,R=301]
+      ```

@@ -1,4 +1,4 @@
-# Getting Started
+# Zettelkasten Method
 
 ## The Introduction to the Zettelkasten Method
 
