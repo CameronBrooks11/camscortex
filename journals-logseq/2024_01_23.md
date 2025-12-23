@@ -1,5 +1,0 @@
-- [[Airbrakes Capstone]] meeting notes
-	- Need to order ASAP
-	- Working code by next meeting ready for mechatronic model
--
-

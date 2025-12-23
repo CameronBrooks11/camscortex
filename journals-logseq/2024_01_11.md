@@ -1,8 +1,0 @@
-- Let's start a page for my [[Project Futures]]
-- Finally I need a spot for [[Project Archive]], because unfortunately, sometimes that happens, this will also include projects that are finished but not functional / useful for the general public (school projects, etc.)
-- [[Setting up CameronBrooks-net]]
-
-
-[Project Futures]: <../notes/transfer-logseq/pages-ls/Project Futures> "Project Futures"
-[Project Archive]: <../notes/transfer-logseq/pages-ls/Project Archive> "Project Archive"
-[Setting up CameronBrooks-net]: <../notes/transfer-logseq/pages-ls/Setting up CameronBrooks-net> "Setting up CameronBrooks-net"
