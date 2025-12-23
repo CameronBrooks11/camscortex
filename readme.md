@@ -10,9 +10,7 @@ Docs for _foam_ itself can be viewed at [[index]]
 
 <img src="attachments/foam-icon.png" width=100>
 
-[journals]: journals/journals "Journal Index"
+[journals]: journals/journals "journals"
 [home]: home "home"
+[inbox]: inbox "inbox"
 [index]: docs/index "Using Foam"
-
-
-[inbox]: inbox "Inbox"
