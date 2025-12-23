@@ -7,32 +7,9 @@ foam_template:
 
 # 2025-12-22
 
-## 📝 Scratchpad
-
-- BLAH BLAH BLAH
-
-## 📋 Daily Overview
-
-- Priority tasks:
-  - [ ] Task 1
-  - [ ] Task 2
-  - [ ] Task 3
-
-## 🔍 Work Log / Highlights
-
-- What I worked on / achieved:
-  - ...
-- Key issues encountered / resolved:
-  - ...
-- Links to notes or resources created today:
-  - [[RelatedNote1]]
-
-## ☑️ Blockers / To-Do for Tomorrow
-
-- Items blocked or deferred:
-  - ...
-- Tasks carry-over:
-  - ...
+- Its the break so none of that work stuff
+- Working on organizing this personal knowledge management system
+- Working towards planning for 2026
 
 ## 🤔 End-of-Day Reflection (2 minute)
 
