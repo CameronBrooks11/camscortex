@@ -1,0 +1,18 @@
+- SimSCAPE for MPC for [[Airbrakes Capstone]]
+  - Then do simulink for aero
+- Arrange meeting with Makaran for figuring out wiring!!!
+- Dump for MOS-BR [[Hi-Rel Modular Bio-Chem Reactor]] [[Cube Cell Bioreactor System Alpha]] [[MOSS Reactor]]
+  - TODO merge these page names together
+  - https://datasheets.raspberrypi.com/hat/hat-plus-specification.pdf
+  - [[Rockit]]
+    - https://www.raspberrypi.com/news/rocketry-with-raspberry-pi/
+    - https://www.tindie.com/products/daninvents/rockit-flight-computer
+    - https://github.com/DanInvents/Rockit
+  - https://github.com/aitesam961/PI-Pico-Rocket-Flight-Computer/tree/main
+  - https://www.hscott.net/peregrine-board/
+  - https://github.com/openrocketryinitiative/carlson/tree/master?tab=readme-ov-file
+  - **BUY:** https://www.pishop.ca/product/raspberry-pi-sense-hat-v2/
+    - https://github.com/astro-pi
+      - https://astro-pi.org/about/the-computers
+    - https://github.com/astro-pi/python-sense-hat
+- Trying to get altium for

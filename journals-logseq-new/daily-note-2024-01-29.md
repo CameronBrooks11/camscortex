@@ -1,0 +1,6 @@
+- [[ArduCam]]
+	- Arducam Mini Module Camera Shield 5MP Plus OV5642 Camera Module for Arduino UNO Mega2560 Board & Raspberry Pi Pico
+		- https://www.uctronics.com/arducam-mini-module-camera-shield-5mp-plus-ov5642-camera-module-for-arduino-uno-mega-2560-board.html
+- Fluke 323 True RMS Clamp Meter, 400 A
+	- https://www.fluke-direct.ca/product/fluke-323-true-rms-clamp-meter
+-

@@ -1,0 +1,24 @@
+- [[Airbrakes Capstone]]
+  - HE A1324
+    - https://www.mouser.ca/ProductDetail/Allegro-MicroSystems/A1324LUA-T?qs=pUKx8fyJudBUC88nLLVlug%3D%3D
+  - Slide switch SPDT
+    - https://www.mouser.ca/ProductDetail/CUI-Devices/SLW-913535-2A-RA-D?qs=1Kr7Jg1SGW9i2Ay3xtiJOw%3D%3D
+  - Push tact button (NOT USED PROB)
+    - https://www.digikey.ca/en/products/detail/cui-devices/TS03-66-50-BK-260-LCR-D-67/15634345
+  - Buzzers
+    - 2.5kHz: https://www.mouser.ca/ProductDetail/CUI-Devices/CPT-3010-90T?qs=HoCaDK9Nz5c09iyk3ncgog%3D%3D
+    - 4kHz: https://www.mouser.ca/ProductDetail/CUI-Devices/CPT-2207-90T?qs=HoCaDK9Nz5fpVeCabVBaBg%3D%3D
+  - Li ion cells
+    - https://www.18650batterystore.com/en-ca/collections/18650-batteries/products/panasonic-ncr18650ga-ga6
+- [[Airbrakes Capstone]] PCB design
+  - battery holder
+    - [keystone 1042 18650](https://www.digikey.ca/en/products/detail/keystone-electronics/1042/2745668)
+  - high density connectors and CB for portenta
+    - https://www.hirose.com/en/product/p/CL0684-4162-7-51#
+    - https://github.com/Rufus31415/arduino-pro-portenta-h7-carrier-board
+      - https://github.com/arduino-libraries/Arduino_PortentaBreakout
+  - driver chip
+    - https://www.allegromicro.com/en/Products/Motor-Drivers/Brush-DC-Motor-Drivers/A4957
+  - motor header pins female
+    - https://www.digikey.ca/en/products/detail/jst-sales-america-inc/B6B-PH-K-S/926615
+    - https://www.amazon.ca/Connector-Pre-Crimped-Compatible-JST-PH2-0mm-Inductrix/dp/B08T89ZK2Q?th=1
