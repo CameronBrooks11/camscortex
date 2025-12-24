@@ -1,4 +1,10 @@
-- #WSL #git
+# Logseq Journal - 2023-02-01
+
+- [[ideas]]
+  - 3D printed ergonomic palm rest to reduce effects of computer mouse usage
+
+- [[wsl]] and [[git]]
+
   - Installing Ubuntu 22.04 and setting up Python
 
     - Open command prompt
@@ -41,7 +47,8 @@
     - `sudo apt update`
     - `sudo apt install python3 python3-pip ipython3`
     - `sudo apt install git`
-    - ```
+
+      ```sh
       type -p curl >/dev/null || sudo apt install curl -y
       curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
       && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
@@ -49,12 +56,11 @@
       && sudo apt update \
       && sudo apt install gh -y
       ```
-      - Command to install GItHub CLI
-    - `ah auth login`
 
-      - Answer the four questions
-      - Copt one-time code and follow browser to login
-      - If there is no internet browser installed it will throw an error, simply push the link and it will open in your default windows browser
+      - Command to install GItHub CLI: `gh auth login`
+        - Answer the four questions
+        - Copt one-time code and follow browser to login
+        - If there is no internet browser installed it will throw an error, simply push the link and it will open in your default windows browser
 
     - `git config --global user.email "cambrooks3393@gmail.com"`
     - `git config --global user.name CameronBrooks11`
@@ -105,6 +111,7 @@
     - `pip install tk`
     - `pip install tesseract`
     - Install poppler
+
       - Installing G++ the C++ compiler on Ubuntu
 
         - `sudo apt update`
@@ -143,11 +150,11 @@
           sudo python3 setup.py install
           ```
       - `pip install python-poppler`
+
     - Error: `OSError: cannot load library 'pango-1.0': pango-1.0: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'pango-1.0'`
 
       - sudo apt-get install -y libpangocairo-1.0-0
       - SOLVED
 
     - Program is now running as it does on CAMS-PC
-- #ideas
-  - 3D printed ergonomic palm rest to reduce effects of computer mouse usage
+

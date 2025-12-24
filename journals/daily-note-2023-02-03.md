@@ -1,7 +1,12 @@
-- #deepdoctection #docu-scribe work session
+# Logseq Journal - 2023-02-03
+
+- [[deepdoctection]] [[docu-scribe]] work session
+
   - Separating pdfs into multiple pages for processing (wasn't needed)
+
     - https://stackoverflow.com/questions/490195/split-a-multi-page-pdf-file-into-multiple-pdf-files-with-python
-    - ```
+
+    ```python
       from PyPDF2 import PdfFileWriter, PdfFileReader
 
       inputpdf = PdfFileReader(open('test-files/Lesson_2_Memory_Mapping.pdf', "rb"))
@@ -11,12 +16,13 @@
           output.addPage(inputpdf.getPage(i))
           with open("test-files/temp/Lesson_2_Memory_Mapping%s.pdf" % i, "wb") as outputStream:
               output.write(outputStream)
-      ```
+    ```
 
-      - Working code
+    - Working code
 
     - Added function to clear temp after
-      - ```
+
+       ```python
         from PyPDF2 import PdfFileWriter, PdfFileReader
         import os
         import shutil
@@ -39,7 +45,8 @@
             for d in dirs:
                 shutil.rmtree(os.path.join(root, d))
         ```
+
   - Category
     - layout.category_name
     - layout.subcategory.relationships.reading_order
-  - Giving up on this for now, I am only using it as a pdf tool and not as an intelligent document tool. I will return to it once
+  - Giving up on this for now, I am only using it as a pdf tool and not as an intelligent document tool. I will return to it once I have a better understanding of ML and document processing

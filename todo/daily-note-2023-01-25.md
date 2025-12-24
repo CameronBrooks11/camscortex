@@ -1,5 +1,0 @@
-- Some info for working with [[deepdoctection]]:
-  - #CUDA Build cuda_11.5.r11.5/compiler.30672275_0
-  - #torch Using version ^1.13.1 for torch for #docu-scribe
-  - #torchvision Using version ^0.14.1 for torchvision for #docu-scribe
-  - #torchaudio Using version ^0.13.1 for torchaudio for #docu-scribe

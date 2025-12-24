@@ -1,2 +1,0 @@
-- #gpt #prompts #assembly
-  - I will provide code written in assembly language (ARMv7 instruction set) and you will then wait for the code and further instruction on what to do. To not change the given code beyond what you are told to do.

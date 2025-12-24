@@ -1,5 +1,6 @@
+# Logseq Journal - 2023-03-04
 
-- #ideas
+- [[ideas]]
 
   - ML that processes numerous textbooks to consolidate the beast information on each subject and concept in order to create better knowledge maps
   - Improve education for post-secondary engineering education

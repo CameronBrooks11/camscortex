@@ -1,0 +1,5 @@
+# Logseq Journal - 2023-03-03
+
+- [[ideas]]
+  - [[OSCHH]] Container homes with hardware stores or HHW (hardware for them)
+  - [[Custom OS Hearing Aids]]Open-source 3D resin printed biocompatible hearing aid custom fit using 3D stereo reconstruction on OpenCV

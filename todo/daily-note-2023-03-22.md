@@ -1,3 +1,0 @@
-- #ideas #FOSH to fight tyranny, live free, and prevent AI and corporate takeover
-- #FreeCAD
--

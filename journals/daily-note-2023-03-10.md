@@ -1,8 +1,10 @@
-- #ideas
+# Logseq Journal - 2023-03-10
+
+- [[ideas]]
   - Wellness pods
   - Test at universities
   - NSDR, napping, etc.
-- Places to search for #FOSH
+- Places to search for [[FOSH]]
   - OSF
   - GitHub
   - HardwareX
