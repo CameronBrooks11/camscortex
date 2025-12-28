@@ -41,7 +41,6 @@
   - Finally, inner peace (TEMP-DO) is done.
 - Now onto real work (yay).
 
-
 [Shipping Container Homes]: <../notes/Shipping Container Homes> "Shipping Container Homes"
 [Consumer level distributed manufacturing]: <../notes/Consumer level distributed manufacturing> "Consumer level distributed manufacturing"
 [Airostik]: ../notes/Airostik "Airostik"

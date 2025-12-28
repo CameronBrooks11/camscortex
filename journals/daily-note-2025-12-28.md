@@ -9,7 +9,7 @@ foam_template:
 
 ## 📝 Scratchpad
 
-- 
+-
 
 ## 📋 Daily Overview
 
@@ -44,3 +44,6 @@ foam_template:
   - ...
 - Actionable adjustment for tomorrow:
   - ...
+
+
+[windows-subsystem-for-linux]: ../notes/windows-subsystem-for-linux "Windows Subsystem for Linux"
