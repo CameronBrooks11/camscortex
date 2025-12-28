@@ -1,0 +1,29 @@
+# Logseq Journal - March 5, 2024
+
+- [[Airbrakes Capstone]] work on algo
+  - Libs
+    - https://github.com/RCmags/imuFilter
+    - https://github.com/rfetick/Kalman
+    - https://github.com/rblilja/AltitudeKF
+    - https://github.com/markmccutch/Kalman_VelocityAndPosition (for sat but good ref)
+  - Datasheets
+    - https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bhi260ap-ds000.pdf (AI IMU)
+    - https://content.arduino.cc/assets/ABX00050-datasheet.pdf (Nicla)
+    - https://content.arduino.cc/assets/Arduino-Portenta-H7_Datasheet_stm32h747xi.pdf
+    - https://docs.arduino.cc/resources/datasheets/ABX00042-ABX00045-ABX00046-datasheet.pdf (ABX00042)
+  - Documentation
+    - https://docs.arduino.cc/hardware/nicla-sense-me/
+    - https://docs.arduino.cc/tutorials/nicla-sense-me/cheat-sheet/
+  - Bottom line
+    - Implementing precise 3D velocity is hard
+      - See: https://web.archive.org/web/20201022151347/chrobotics.com/library
+        - https://web.archive.org/web/20201111202735/http://www.chrobotics.com/library/accel-position-velocity
+    - Much more possible to do
+- [[Meeting]] with Makaran
+  - thread locker on standoffs
+  - physical/mechanical end stops
+- Batteries for [[Airbrakes Capstone]]
+  - https://www.18650batterystore.com/en-ca/collections/18650-batteries
+  - https://www.18650batterystore.com/en-ca/products/pure-nickel-strip-1kg-roll-for-battery-spot-welding-18650-21700
+  - https://www.18650batterystore.com/en-ca/products/epoch-18650-3500mah-usb-pcb
+  -

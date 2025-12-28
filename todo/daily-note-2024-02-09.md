@@ -1,4 +1,0 @@
-- [[Motor Selection]] for [[Airbrakes Capstone]]
-	- [[DC Motor Sizes]]
--
-

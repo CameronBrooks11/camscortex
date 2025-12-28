@@ -1,0 +1,5 @@
+# Logseq Journal - February 12, 2024
+
+- add to [[SOSSAL]] : https://www.researchgate.net/publication/377993966_Ballast-Supported_Foundation_Designs_for_Low-Cost_Open-Source_Solar_Photovoltaic_Racking
+-
+

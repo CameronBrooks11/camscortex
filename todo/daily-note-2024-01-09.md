@@ -1,7 +1,0 @@
-- Need to plan my #Projects after dropping my classes and extending my degree (yay)
-- I also need to gather my #[[My Undergraduate Degree]] in one place
-- Which is different than #Academia
--
-
-
-[My Undergraduate Degree]: <../notes/My Undergraduate Degree> "My Undergraduate Degree"

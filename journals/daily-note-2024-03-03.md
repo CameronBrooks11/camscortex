@@ -1,0 +1,11 @@
+# Logseq Journal - March 3, 2024
+
+- Will probably use 3" tubing for the [[Hi-Rel Modular Bio-Chem Reactor]]
+  - https://www.mcmaster.com/products/polycarbonate-tubing
+- [[SnapTessSCAD]] journals
+  - https://academic.oup.com/jcde
+  - https://www.sciencedirect.com/journal/materials-and-design
+- [[Hi-Rel Modular Bio-Chem Reactor]]
+  - Silicone resin for seals and gaskets
+    - [Amazon - Silicone Mold Making Kit Liquid Silicone Rubber 500ml Non-Toxic Translucent Clear Mold Making Silicone-Mixing Ratio 1:1-Molding Silicone for Resin Molds, Silicone Molds DIY Manual Making(20.46oz) ](https://www.amazon.ca/LETS-RESIN-Silicone-Making-Non-Toxic/dp/B07V5FFPWC/ref=sr_1_2_sspa?crid=KN53EP7LBJ8U&dib=eyJ2IjoiMSJ9.aQ-9g_e7h3ucDm7Qw3I41bjzvLCpEzK2j38wg0b_5-3VoDKK4xbeTC6xCJt_ZYbO0MtghfQFs0bNre68nRH4nrugACuZefCKCOgxlHQ0qBuWr1yBcME52LoehVu5JABzrQaKRxd-KgcIwivXLJhozy56qjaMHayWtnfzJPvR9F_3_8Ykafr1RC486ILO0jqTTsMeZwnQnubau7x7GE2tARrqMLndzn5Oe0pdd-LH-GfagmWf6gghAvZT5ZWzhO7kJkb-EA3CnWPqKTaluIUmWp6LXi4fF-gzdyZY5P5lsbk.yhUygD0jQ-1UCgR-Ap6qPW8kyTl09QhqMe-69ITjrWU&dib_tag=se&keywords=silicone+medical+molding&qid=1709687335&sprefix=silicone+medical+molding%2Caps%2C103&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+    -

@@ -1,0 +1,10 @@
+# Logseq Journal - July 10, 2024
+
+- [[PicoGK]] founders: https://jlk.ae/
+- [[Open Source]] [[Entrepreneurship]] idea
+  - providing value and coherence for the research, development and production of open/public technologies
+- Finally writing down reminder about the email from Pearce about how we have access to a [Voltera Nova](https://www.voltera.io/nova)
+- [Electrical and Electronics Supply Inc.](http://www.elelsu.com/) is a place to check out in London ON
+- [[3D printed electronics]] interesting application: https://nstgengineering.uk/3d-printed-wire-harnesses/
+  - Another: https://www.imeche.org/news/news-article/feature-five-axis-robotic-printing-transforms-wiring-at-q5d-technologies
+-

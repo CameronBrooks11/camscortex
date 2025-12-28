@@ -1,0 +1,12 @@
+# Logseq Journal - April 2, 2024
+
+- [[Airbrakes Capstone]] meeting, last one!
+  - bins stores (oxford and sarnia)
+    - best is Thursday
+    - sometimes Wednesday is 2 for 1
+  - Order
+    - motor and wires on capstone
+  - IJSPR -> Makaran will send an email
+- Standards for software documentation
+  - MISRA C
+  - autoSAR

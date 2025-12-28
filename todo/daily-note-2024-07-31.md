@@ -1,1 +1,0 @@
-- [[WE Rocketry]] transition meeting notes

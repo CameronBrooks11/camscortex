@@ -1,0 +1,8 @@
+# Logseq Journal - January 11, 2024
+
+- Let's start a page for my [[Project Futures]]
+- Finally I need a spot for [[Project Archive]], because unfortunately, sometimes that happens, this will also include projects that are finished but not functional / useful for the general public (school projects, etc.)
+- [[Setting up CameronBrooks-net]]
+
+
+[Setting up CameronBrooks-net]: <../notes/Setting up CameronBrooks-net> "Setting up CameronBrooks-net"

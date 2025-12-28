@@ -1,1 +1,0 @@
-- [[Open Technology Ecosystem Consortium]] and the [[Open Technology Ecosystem Foundation]]

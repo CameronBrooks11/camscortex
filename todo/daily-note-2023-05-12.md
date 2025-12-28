@@ -1,7 +1,0 @@
-- Tasks
-  - Add the following stuff in dropdown
-    - BELL SHIP
-    - Rockets
-    - UES (Jack message, organize, ENGenda)
-    - Research/masters planning
-    - Safari Tabs

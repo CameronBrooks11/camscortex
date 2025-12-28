@@ -1,0 +1,8 @@
+# Logseq Journal - February 14, 2024
+
+- [[W.E.R.T Payload 23/24]] for frame
+	- https://grabcad.com/library/zapsat-pc-104-1#!
+- Slick case for [[Scientific Press Beta]] to copy to OpenSCAD
+	- https://www.instructables.com/Mikros-Tiny-3D-Printed-Computer-Case/
+-
+

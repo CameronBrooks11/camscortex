@@ -1,0 +1,32 @@
+# Logseq Journal - March 4, 2024
+
+- [[Airbrakes Capstone]] [[Arduino Portenta H7]] and [[Nicla Sense ME]]
+
+  - For initial set up of scripts and connection between the host (portenta) and client (nicla): https://docs.arduino.cc/tutorials/nicla-sense-me/cheat-sheet/
+  - Need to download/clone https://github.com/arduino/nicla-sense-me-fw
+  - Get [Go](https://go.dev/dl/)
+  - open the directory **tools/bhy-controller/src** and type:
+    - ```
+      go build bhy.go
+      ```
+  - After that you will see a new file called **bhy** (.exe if you are on Windows).
+  - In terminal navigate to the directory with the newly made bhy.exe and execute the following:
+
+    - ```
+      # list available serial ports
+      bhy.exe list
+
+      # read available sensor data
+      bhy.exe sensor read -p COMx
+      # continuously read sensor data when available
+      bhy.exe sensor read -live -p COMx
+      # configure sensor 10 with a sample rate of 1 Hz and latency of 0ms
+      bhy.exe sensor config -p COMx -sensor 10 -rate 1 -latency 0
+      # disable sensor 10
+      bhy.exe sensor config -p COMx -sensor 10 -rate 0 -latency 0
+      ```
+
+    - # **_`COMx` needs to be replaced with the (second) port from the host device retrieved through the list command._**
+
+  - If those tests work then reset the Portenta and upload one of the example scripts such as acceleration one and make sure you change BHY2Host.begin() to BHY2Host.begin(false, NICLA_AS_SHIELD);
+  -

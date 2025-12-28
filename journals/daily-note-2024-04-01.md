@@ -1,0 +1,5 @@
+# Logseq Journal - April 1, 2024
+
+- write up for connectors and fasteners
+
+  - Connectors are devices that link two or more components together, facilitating mechanical, electrical, or optical functions, while fasteners are a subset of connectors specifically designed to mechanically secure objects together, often in a non-permanent manner. These components are ubiquitous in virtually every aspect of modern life, from the construction of buildings and vehicles to the assembly of electronic devices and furniture. Common types of fasteners include screws, bolts, nuts, and rivets, each chosen for its specific ability to provide strength, ease of use, or aesthetic qualities to a joint or assembly. The current technology of fastening offers several advantages, such as reliability, ease of installation, and the ability to disassemble and reassemble components without damage. However, challenges remain, including susceptibility to corrosion, the need for specialized tools for installation or removal, and the potential for stress concentration leading to failure under certain conditions.

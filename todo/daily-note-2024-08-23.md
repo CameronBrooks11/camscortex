@@ -1,2 +1,0 @@
-- https://openbioeconomy.org/opportunities/
--

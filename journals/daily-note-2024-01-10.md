@@ -1,0 +1,4 @@
+# Logseq Journal - January 10, 2024
+
+- Yeah so I also really need a place to track my [[Undergraduate Engineering Society]] responsibilities
+- I think it would also be cool to have a [[Projects Shelf]]
