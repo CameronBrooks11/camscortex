@@ -1,0 +1,13 @@
+- [G:\~FAST Research Group - Seagate SSD Folder Link](file://G:\~FAST Research Group)
+- ## Current Projects
+	- #[[Additive Manufacture Breakout Board (AMBB)]]
+	- #[[Hypochlorous Acid Generation (HOCl)]]
+	- #[[Libre Press]]
+	- #[[Frugal Bioreactor (FBR)]]
+	- #[[Open Source Appropriate Technology (OSAT) Organizations Network]]
+	- ## Future Projects
+	- ## Completed Projects
+	- ## Project Ideas
+	- ## Inactive Projects
+	  collapsed:: true
+		- #[[Magnetic Performance Evaluation (MPE)]]

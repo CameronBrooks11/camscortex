@@ -1,0 +1,65 @@
+## Context and Background
+- **Location:** Alberta, Canada
+	- **Economic Significance:** Energy sector major contributor, with Alberta being a key player in oil and gas production.
+- **Alberta's Oil and Gas Industry**
+	- **Role in Economy:** Significant contributor to Canada's GDP.
+	- **Resource Reserves:** Large oil reserves, major natural gas producer and exporter.
+- ## The Sulphur Industry
+- **Elemental Sulphur:** By-product of natural gas processing and oil refining.
+- **Properties and Risks:** Characterized by its color, odor, and flammability.
+- **Market Dynamics:** Linked to oil and gas industry; subject to price and production volatility.
+- ## Brimstone Sulphur Forming Facility
+- **Overview:** Part of Gesner Gas Works, focusing on converting sulphur to pastilles.
+- **Location and Process:** Alberta, Canada; involves sulphur processing and pastille formation.
+- **Operational Challenge:** Facing profit decline, requiring new initiatives for profitability.
+- ## Michelle Beauchesne
+- **Role:** Facilities engineer and project manager at Brimstone.
+- **Background:** Graduated in biochemical engineering, with experience in gas processing facility design.
+- ## Gesner Energy Company
+- **Profile:** Canadian oil and gas company, vertically integrated in the industry.
+- **Health and Safety:** Emphasis on employee safety and risk mitigation.
+- ## Sulphur Production Process at Brimstone
+- **Operations:** Continuous, high-capacity processing with little room for downtime.
+- **Production Challenges:** Dependence on upstream gas processing facilities, risk of production losses during downtime.
+- ## Proposed Improvements by Beauchesne
+- **Objectives:** Increase profitability, minimize operational downtime.
+- **Options Considered:**
+  1. **Increase Truck Offloading Capacity:** To handle more sulphur deliveries.
+  2. **Upgrade Pumps:** To enhance sulphur processing capacity.
+  3. **Pour to Block Strategy:** For contingency storage and processing.
+- ## Decision-Making Context
+- **Challenges:** Fluctuating sulphur prices, need to align with corporate expectations.
+- **Considerations:** Minimizing production delays, balancing capital expenditures with operational needs.
+- ## External Factors
+- **Sulphur Market:** Affected by global oil and gas market dynamics.
+- **Environmental Concerns:** Dust management, impact on surrounding communities.
+- ## Strategic Implications
+- **Future Prospects:** Need for innovative solutions to stay competitive and profitable.
+- **Stakeholder Impact:** Decisions to affect employees, local communities, and overall company performance.
+- ## Analysis Questions
+- ### 1. Customer Factors for Brimstone
+- **Key Considerations:** Identifying important factors for Brimstone's customers and ranking them.
+- ### 2. Process Capacity Analysis
+- **Objective:** Calculate current capacity at each step in tonnes per hour and annual sulphur pastilles production.
+- **Focus:** Identify system bottlenecks; calculate storage days at key steps.
+- ![image.png](../assets/image_1706054263877_0.png)
+- ### 3. Impact of Increased Truck Offloading
+- **Analysis Goal:** Assess how capacity changes with increased truck offloading.
+- **Evaluation:** Examine qualitative pros and cons, and quantitative costs and benefits.
+- **Assumptions:** Consistent sulphur price, 7-year useful life.
+- ### 4. Combined Capacity Increase and Pump Upgrades
+- **Capacity Analysis:** Determine changes in capacity with combined initiatives.
+- **Evaluation Criteria:**
+	- **Qualitative Aspects:** Pros and cons of simultaneous truck offloading increase and pump upgrades.
+	- **Quantitative Assessment:** Costs, benefits, and external rate of return.
+	- **Financial Analysis:** After-tax cash flows and Net Present Value (NPV).
+- **Assumptions:** Stable sulphur price, 5-year useful life, 20% tax rate.
+- ### 5. Implementing Piping Upgrades and Pour to Block Strategy
+- **Storage Analysis:** Determine days of storage with the pour to block strategy.
+- **Evaluation Criteria:**
+	- **Qualitative Aspects:** Pros and cons of implementing piping upgrades and pouring to block.
+	- **Quantitative Assessment:** Costs and benefits, with annual block pouring.
+- **Assumption:** Stable sulphur price.
+- ### 6. Decision-Making as Michelle Beauchesne
+- **Decision Framework:** Combine qualitative and quantitative analyses to make an informed decision.
+- **Approach:** Detailed support from analyses to justify the chosen strategy.

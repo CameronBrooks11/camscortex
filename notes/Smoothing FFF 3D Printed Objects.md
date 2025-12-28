@@ -1,0 +1,2 @@
+- [[3D Printer]], [[3D Printing]]
+- [Improve your 3D prints with chemical smoothing - Original Prusa 3D Printers](https://blog.prusa3d.com/improve-your-3d-prints-with-chemical-smoothing_36268/)

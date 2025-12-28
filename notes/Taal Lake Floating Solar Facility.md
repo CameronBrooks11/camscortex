@@ -1,0 +1,9 @@
+- # Overview
+	- #gpt-gen The Taal Lake Floating Solar Facility is a 1.6 megawatt (MW) solar system located on the surface of Taal Lake in the Philippines. The system is made up of 4,180 solar panels mounted on floating buoys. It is the first of its kind in the country and the largest such facility in Southeast Asia. The installation is expected to generate energy equivalent to the amount consumed by 2,500 households and reduce 1,425 tons of carbon dioxide per year. The project, which began in 2018 and was commissioned in 2019, is estimated to save the local electric company around 6 million pesos ($121,000) in fuel costs annually. In addition, the installation is expected to reduce the need for building large infrastructure, such as dams or power plants, near the lake in order to generate electricity. 
+	  
+	  References:
+	  1. "Taal Lake Floating Solar Philippines – Floating Solar Panels in Taal Lake", Solar Map, Accessed October 10th, 2020, https://www.solar-map.org/taal-lake-philippines.html
+	  2. "Taal Lake Floating Solar Facility in Philippines", Solar Choice, Accessed October 10th, 2020, https://www.solarchoice.net/blog/taal-lake-floating-solar-facility-in-philippines/ 
+	  3. "First-ever Floating Solar Farm In Southeast Asia Is Located In The Philippines", cleanTechnica, Accessed October 10th, 2020, https://cleantechnica.com/2018/01/26/first-ever-floating-solar-farm-in-southeast-asia-is-located-in-the-philippines/ 
+	  4. "Philippines Gets First Floating Solar Farm on Taal Lake – Bio Energy Consult", Bio Energy Consult, Accessed October 10th, 2020, https://bioenergyconsult.com/philippines-gets-first-floating-solar-farm-on-taal-lake/ 
+	  5. "Floating Solar Farm on Taal Lake, Philippines", Energeticcity.ca, Accessed October 10th, 2020, https://energeticcity.ca/2017/10/floating-solar-farm-taal-lake-philippines/

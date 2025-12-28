@@ -1,0 +1,15 @@
+- Downloading and installing/building from source has the advantage, for the average user, that you see more "under the hood" of how [[open-source software]] flows from a hosted repository to their local machine then built into a functioning and usage application.
+	- Gives more ownership over application and removes the barrier to accessing the source algorithms ("the science"), something especially important for something of this nature where the main focus is learning and application of aerospace engineering principles.
+	- Furthermore, lowers the barrier to modifying and extending the software and recontributing back to the community and perhaps getting further involved.
+- Procedure (copied and adapted from )
+	- Install [git](https://git-scm.com/)
+	- Install JDK 17 (OpenJDK 17 is probably the most popular).
+	- Install Apache Ant and add to your PATH.
+	- Clone (download) via git by cloning from Github repository:
+		- ``git clone https://github.com/openrocket/openrocket.git``
+	- cd into the newly added openrocket directory
+	- Initialize and update the Git submodules:
+		- ``git submodule init``
+		  ``git submodule update``
+	- Type `ant` to build the project
+- Continue with: #[[OpenRocket in Python using orhelper]]

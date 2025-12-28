@@ -1,0 +1,5 @@
+- ## Overview
+- ## Tasks
+	- Read and take notes on IEC 60404-6:2018
+	- Review and take notes on IEC 60404-4:2008
+	- Contact/MOU agreement of project intent

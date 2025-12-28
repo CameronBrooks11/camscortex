@@ -1,0 +1,11 @@
+- Ideas
+	- Projects but for the site:
+		- student tools and tutorials (math, science, grade/GPA calculators, citations, etc.)
+		- Map of sciences: math, physics, chemistry, biology, envirisci, psych but then comp sci beside all and below math then a link of math and philosophy which connects with psych then medicine spanning the 3 main scis
+	- Blog of people that did/do great things to make the world a better place
+	- To include
+		- All positions
+		- All photos
+		- WiE podcast
+	- Opening message
+		- An overly detailed dissemination of me and everything I’ve done

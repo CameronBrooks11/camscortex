@@ -1,0 +1,36 @@
+- Complete
+  collapsed:: true
+	- AMBB
+	- Small press
+	- Pipe fit
+	- Gas monitor - Pv box
+	- BR / PBR
+		- Production reactor
+		- OpenReactor (cam fork)
+		- BREAD v1
+	- OBE
+- In progress
+  collapsed:: true
+	- Snaps
+	- ISCI3D
+	- Large press
+	- Pioreactor + pH/DO
+		- Trial reactor
+		- Uses off the shelf pioreactor with hardware and software modifications
+	- BREAD v2
+		- Finn mech
+		- Finn core BREAD hardware improvements
+		- Cam hardware revision
+		- Cam unify openreactor and butter to be able to use ESP32 with common interfaces / resources
+	- Shared Sensors BR
+		- Production reactor
+		- uses BREAD v2
+		- Sehan and Alice
+- Side quests (SCAD)
+  collapsed:: true
+	- Pipfittingscad2
+		- UniThread unipipe scad
+	- SOSSAL
+	- Print calib SCAD
+	- Battpackscad
+	- AMBB V2

@@ -1,0 +1,3 @@
+- Links:
+	- [GitHub - atait/kicad-python: Pythonic wrapper API for KiCAD's pcbnew v5/6/7 used for action plugins, GUI scripting, and batch processing](https://github.com/atait/kicad-python)
+	- [Welcome to KiCad’s Python API documentation! — KiCad 0.1 documentation](https://kicad-python-python.readthedocs.io/en/latest/)

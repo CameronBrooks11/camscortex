@@ -1,0 +1,6 @@
+- Text description
+	- Explain what ***[THING]*** is.
+- Point form
+	- Give me a point form explanation of the topic.
+- Theory and Design
+	- Discuss the theory of designing a ***[THING]***. Then provide all associated equations in markdown format in a table which is set up as though it would be used as a design sheet. Do not use code blocks. Use proper formatting such as bolding, italics, subscripts, etc. Always include the unit symbol, the unit words, and such.

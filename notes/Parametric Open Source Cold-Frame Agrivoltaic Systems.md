@@ -1,0 +1,5 @@
+- Parametric Open Source Cold-Frame Agrivoltaic Systems (POSCAS)
+- # Project Links
+- Paper: [http://dx.doi.org/10.3390/inventions6040071](http://dx.doi.org/10.3390/inventions6040071)
+- Citing papers: [https://scholar.google.com/scholar?cites=7911778084248166039&as_sdt=2005&sciodt=0,5&hl=en](https://scholar.google.com/scholar?cites=7911778084248166039&as_sdt=2005&sciodt=0,5&hl=en)
+- OSF: [https://osf.io/k6xwv/](https://osf.io/k6xwv/)

@@ -1,0 +1,5 @@
+- Split this into the two and write a guide on each
+- Links
+	- [SparkFun LiPo Charger Plus - PRT-15217 - SparkFun Electronics](https://www.sparkfun.com/products/15217)
+	- [Lithium Ion Battery Pack - 3.7V 4400mAh : ID 354 : $19.95 : Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/product/354)
+	- [Servo - Generic High Torque Continuous Rotation (Standard Size) - ROB-09347 - SparkFun Electronics](https://www.sparkfun.com/products/9347)

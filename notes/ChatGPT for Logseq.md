@@ -1,0 +1,5 @@
+-
+- ## Prompts
+- ### Evergreen Notes
+	- Evergreen notes should be timeless, atomic, concept oriented, timeless, and densely linked using [[]] and all new lines should have a "-" and sub points should have a indented "-" since logseq is a bullet outliner (except titles). Make a note on:
+	-

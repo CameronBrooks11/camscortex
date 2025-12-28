@@ -1,0 +1,5 @@
+- **[[Professional]]:** All notes related to your professional life, with possible subcategories related to your specific areas of expertise, such as "Electrical Engineering", "Manufacturing", "Space", "Aerospace", "Sustainable Development".
+- **[[Projects]]:** Each project can have its own category, and you can create new categories for new projects as they come along.
+- **[[Learning]]:** This could encompass notes related to new skills you're acquiring, interesting papers or articles you've read, summaries of books, lectures, or any other learning material.
+- **[[Idea]]:** This is where you store thoughts, brainstorms, and innovative concepts that aren't necessarily tied to your current projects.
+- **[[Personal]]:** This category encompasses notes related to your personal interests and hobbies, fitness, travel, adventures, volunteering, and personal goals.

@@ -1,0 +1,77 @@
+# The Lyle McDonald Generic Bulking Workout Routine
+- ## Lower Body Workout A
+- Barbell Back Squat
+	- 3 sets of 6 to 8 reps
+	- 10 @ 125 t
+- Standing Calf Raise
+	- 3 sets of 6 to 8 reps
+	- 8 @ 210
+- Romanian Deadlift
+	- 3 sets of 6 to 8 reps
+	- 8 @ 65 e
+- Leg Press
+	- 3 sets of 10 to 12 reps
+	- 12 @ 210 t
+- Leg Curl
+	- 2 sets of 10 to 12 reps
+	- 12 @ 70 t
+- Standing Calf Raise
+	- 2 sets of 10 to 12 reps
+	- 12 @ 140
+- ## Upper Body Workout A
+- Barbell Bench Press
+	- 3 sets of 6 to 8 reps
+	- 8 @ 125 t
+- Dumbbell Row
+	- 3 sets of 6 to 8 reps
+	- 8 @ 45 e
+- Incline Dumbbell Press
+	- 2 sets of 10 to 12 reps
+	- 10 @ 25 e
+- Pull-Down
+	- 3 sets of 10 to 12 reps
+	- 12 @ 110 t
+- Triceps Cable Extension
+	- 2 sets of 12 to 15 reps
+	- 12 @ 34 t
+- Barbell Biceps Curl
+	- 2 sets of 12 to 15 reps
+	- 12 @ 20 e
+- ## Lower Body Workout B
+- Standing Calf Raise
+	- 3 sets of 6 to 8 reps
+	- 8 @ 210
+- Barbell Front Squat
+	- 3 sets of 6 to 8 reps
+	- 8 @ 125 t
+- Romanian Deadlift
+	- 3 sets of 6 to 8 reps
+	- 8 @ 185 t
+- Leg Press
+	- 3 sets of 10 to 12 reps
+	- 12 @ 210 t
+- Leg Curl
+	- 2 sets of 10 to 12 reps
+	- 12 @ 80 t
+- Seated Calf Raise
+	- 2 sets of 10 to 12 reps
+	- 12 @ 140
+- ## Upper Body Workout B
+- Shoulder Press
+	- 2 to 3 sets of 10 to 12 reps
+	- 10 @ 75 t
+- Chin-Up
+	- 3 sets of 10 to 12 reps
+	- 10 @ 0 t
+- Barbell Bench Press
+	- 3 sets of 6 to 8 reps
+	- 8 @ 110 t
+- Barbell Row
+	- 4 sets of 6 to 8 reps
+	- 8 @ 95
+- Triceps Accessory Exercise
+	- 3 sets of 12 to 15 reps
+	- 12 @ 37.5 t
+- Biceps Preacher Curl
+	- 3 sets of 12 to 15 reps
+	- 12 @ 25 e

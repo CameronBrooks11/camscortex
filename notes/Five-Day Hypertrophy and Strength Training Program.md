@@ -1,0 +1,92 @@
+- *Workout October 2018*
+- # Five-Day Hypertrophy and Strength Training Program
+	- ## Day 1: Legs Hypertrophy
+		- Standing calf raises
+			- Reps: 4x10
+			- Weight: 120
+		- Squats
+			- Reps: 4x8
+			- Weight: 145
+		- Leg press
+			- Reps: 3x10
+			- Weight: 240
+		- Leg extensions
+			- Reps: 3x10
+			- Weight: 115
+	- ## Day 2: Upper Body Hypertrophy
+		- Bench press
+			- Reps: 4x8
+			- Weight: 110
+		- Lat pulldowns
+			- Reps: 3x10
+			- Weight: 130
+		- Overhead barbell press
+			- Reps: 4x8
+			- Weight: 75
+		- Bicep curls
+			- Reps: 3x10
+			- Weight: 30
+		- Dumbbell shoulder press light
+			- Reps: 3x10
+			- Weight: 25
+	- ## Day 3: Full Body
+		- Deadlift
+			- Reps: 4x8
+			- Weight: 205
+		- Rows
+			- Reps: 4x8
+			- Weight: 135
+		- Split squats
+			- Reps: 3x10
+			- Weight: 30
+		- Skullcrushers one hand
+			- Reps: 3x10
+			- Weight: 25
+		- Farmers carry
+			- Duration: 3x90 sec
+			- Weight: 60
+	- ## Day 4: Legs Strength
+		- Standing calf raises
+			- Reps: 4x5
+			- Weight: 210
+		- Squats
+			- Reps: 4x3
+			- Weight: 185
+		- Leg press
+			- Reps: 3x5
+			- Weight: 290
+		- Leg extensions
+			- Reps: 3x5
+			- Weight: 160
+	- ## Day 5: Upper Body Strength
+		- Bench press
+			- Reps: 4x3
+			- Weight: 135
+		- Lat pulldowns
+			- Reps: 3x5
+			- Weight: 160
+		- Overhead barbell press
+			- Reps: 4x3
+			- Weight: 95
+		- Bicep curls
+			- Reps: 3x5
+			- Weight: 35
+		- Dumbbell shoulder press
+			- Reps: 3x5
+			- Weight: 40
+	- ## Day 6: Full Body Strength
+		- Deadlift
+			- Reps: 4x2
+			- Weight: 295
+		- Rows
+			- Reps: 4x3
+			- Weight: 135
+		- Split squats
+			- Reps: 3x5
+			- Weight: 55
+		- Skullcrushers one hand
+			- Reps: 3x5
+			- Weight: 40
+		- Farmers carry
+			- Duration: 3x30 sec
+			- Weight: [Add weight]
