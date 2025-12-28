@@ -4,10 +4,8 @@
   - Worked on paper and reconfigured the sections to flow better between the [[high power]] and [[low power]] sections
   - Call with Dan
     - for heating coils
-      - Ambrie (https://www.amresupply.com/catalog/Ranges-AU5) you can search part number and get price
-        - https://www.amresupply.com/
-      - 1st or 3rd ave hicky appliance parts another wholesaler
-        - https://store.mjhickey.com/
+      - Ambrie (<https://www.amresupply.com/catalog/Ranges-AU5>) you can search part number and get price
+      - 1st or 3rd ave hicky appliance parts another wholesaler: <https://store.mjhickey.com/>
     - fuse on the power input on all three lines
       - we will need fuse block
       - breakers or industrial fuses

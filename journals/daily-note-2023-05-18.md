@@ -8,5 +8,6 @@
 - [[AFFiNE Beta]] dropped today but I'm going to wait until there is [[Page Trees]]
 - [[Canada's Justice System]] has 5 main aspects
 
-
+[Libre Press]: <../notes/Libre Press> "Overview"
+[How to Change the World]: <../notes/How to Change the World> "Tasks"
 [Canada's Justice System]: <../notes/Canada's justice system> "Canada's Justice System"
