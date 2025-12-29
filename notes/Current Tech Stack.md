@@ -1,3 +1,0 @@
-- #Logseq
-- #Firefox
--

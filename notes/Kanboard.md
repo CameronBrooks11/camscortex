@@ -1,2 +1,0 @@
-- Things to add
-	- EMON Slice

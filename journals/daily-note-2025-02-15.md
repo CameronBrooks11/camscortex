@@ -7,7 +7,7 @@ foam_template:
 
 # Journal Entry, Saturday, February 15
 
-- Delving into [[Naming Conventions of Applications, Projects, and Repositories]]
+- Delving into [[Naming Conventions for Software Artifacts]]
 
 
 

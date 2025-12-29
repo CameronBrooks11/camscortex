@@ -22,3 +22,20 @@
 - Largely a split between diciplines: (Can we: engineering, CS, science) + (Should: social sci, policy)
   - I think that is more of a general categorization of the means of the various fields
 - [Cold pull (MK4, XL) | Prusa Knowledge Base](https://help.prusa3d.com/article/cold-pull-mk4-xl_445071)
+
+- Reading list:
+  - Thinking, Fast and Slow by Daniel Kahneman
+    - Michael Pollen books
+    - The Book of Why by Judea Pearl
+- electrolysis of propane tanks with the wire to the Mg block from the house show
+
+- Affiliate stuff
+- Life/career map
+- Ferraro Business Analysis and Entry
+
+- Data Science with Python
+
+  - Sports betting (Layne), nautilus trader
+  - Financial data and stock prices and politician movements
+
+- Save student ambassador site and collect all stuff for a website that will be exported to HTML

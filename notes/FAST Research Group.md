@@ -44,3 +44,15 @@
 		- |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
 		  |--|--|--|--|--|--|--|--|
 		  |`✓` [[Additive Manufacture Breakout Board]] |`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|
+- ## Current Projects
+	- #[[Additive Manufacture Breakout Board (AMBB)]]
+	- #[[Hypochlorous Acid Generation (HOCl)]]
+	- #[[Libre Press]]
+	- #[[Frugal Bioreactor (FBR)]]
+	- #[[Open Source Appropriate Technology (OSAT) Organizations Network]]
+	- ## Future Projects
+	- ## Completed Projects
+	- ## Project Ideas
+	- ## Inactive Projects
+	  collapsed:: true
+		- #[[Magnetic Performance Evaluation (MPE)]]

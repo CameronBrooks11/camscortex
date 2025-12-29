@@ -5,7 +5,7 @@
 - [[Juno Space Probe]] is very cool
 - I wonder if I've started a [[Rocketry]] page yet? Appears not!
 - Something about a [[Punch and Die Set]]
-- Cool person: [[Dr. Tarek Loubani]]
+- Cool person: [[Tarek Loubani]]
 - An [[ECE]] topic: what is an [[MCU]]?
 - [[OpenSecrets]]
 - [[Varda Space Industries]]

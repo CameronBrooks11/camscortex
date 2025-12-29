@@ -72,7 +72,6 @@
 
     - `pip install torch`
     - `pip install torchvision`
-      id:: 63da8580-6e7f-4888-a9a6-6081b7735d2e
     - `pip install torchaudio`
     - Installing CUDA for Ubuntu WSL
 

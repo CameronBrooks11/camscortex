@@ -1,3 +1,0 @@
-- Largely a split between diciplines: (Can we: engineering, CS, science) + (Should: social sci, policy)
-	- I think that is more of a general categorization of the means of the various fields
-	-

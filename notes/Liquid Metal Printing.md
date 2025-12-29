@@ -1,3 +1,3 @@
 # Liquid Metal Printing
 
-- [selfassemblylab.mit.edu/liquid-printed-metal](https://selfassemblylab.mit.edu/liquid-printed-metal/)
+- implementation by MIT media lab: [selfassemblylab.mit.edu/liquid-printed-metal](https://selfassemblylab.mit.edu/liquid-printed-metal/)

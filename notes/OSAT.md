@@ -1,7 +1,0 @@
-- Open source appropriate technology
-- See also:
-	- #FOSH
-	- #FOSS
-	- #[[The Idea]]
-- # Overview (What)
-	-

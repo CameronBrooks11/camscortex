@@ -1,4 +1,0 @@
-- [[Western Engineering Rocketry Team]]
-- [[WE Rocketry Team]]
-- [[McGill Rocketry Team]]
-- [[Duke Rocketry Team]]

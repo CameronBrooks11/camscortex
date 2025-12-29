@@ -1,7 +1,7 @@
 # Small-Scale Manufacturing Using Repurposed Shipping Containers for FOSH Hardware
 
 - **Overview**
-  - Concept: Utilizing old [[shipping containers]] for [[small-scale]], [[local manufacturing]] of [[Free and Open Source Hardware]] ([[FOSH]]).
+  - Concept: Utilizing old [[shipping containers]] for [[small-scale]], [[local manufacturing]] of [[Free and Open Source Hardware]] ([[Free Open Source Hardware]]).
   - Target: Aiming for [[sustainability]], efficient use of space, and [[community-based]] manufacturing solutions.
 - **Key Features**
   - **Repurposing Shipping Containers**
