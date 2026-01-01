@@ -2,10 +2,10 @@
 type: daily-note
 foam_template:
   description: Daily Note
-  filepath: "/journals/daily-note-$FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE.md"
+  filepath: "/journals/daily-note-2025-12-29.md"
 ---
 
-# ${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}
+# 2025-12-29
 
 ## 📝 Scratchpad
 
@@ -14,9 +14,9 @@ foam_template:
 ## 📋 Daily Overview
 
 - Priority tasks:
-  1. ${1:Task 1}
-  2. ${2:Task 2}
-  3. ${3:Task 3}
+  1. Fix ear
+  2. HtCtW application to be on call for 2026
+  3. Finish organizing THIS damn Repo
 
 ## 🔍 Work Log / Highlights
 
@@ -42,3 +42,5 @@ foam_template:
   - ...
 - Actionable adjustment for tomorrow:
   - ...
+
+[RelatedNote1]: ../notes/RelatedNote1 "RelatedNote1"
