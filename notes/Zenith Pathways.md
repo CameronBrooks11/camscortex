@@ -128,7 +128,7 @@
 				- Based on the abstract you provided, the paper discusses the design of ALEASAT, a 1U Earth-imaging CubeSat that aims to provide on-demand satellite imagery directly to Amateur Radio Operators (AROs) during disaster relief efforts. The paper highlights the challenges faced by traditional disaster relief efforts in retrieving data from current Earth observation satellites through conventional communication infrastructure, which may fail during an emergency. ALEASAT addresses this shortcoming by allowing AROs to send a request with a set of coordinates to the ALEASAT team, who will approve the request and provide an authentication key for direct communication with ALEASAT. During the next available pass, ALEASAT will capture the image and the ARO can retrieve it directly from the satellite.
 		- [[@Northern Lights announces 2022 Elsie Award recipients]]
 	- ## Handbook Notes
-		- #gpt prompt: "Make the following as concise as possible in point form without losing any information or meaning:"
+		- gpt prompt: "Make the following as concise as possible in point form without losing any information or meaning:"
 		- Intro
 		  collapsed:: true
 			- This guide is a reference for the Zenith Canada Pathways Mentorship Program this year.

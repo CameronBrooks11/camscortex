@@ -19,9 +19,12 @@
       - **image_to_alto_xml** Returns result in the form of Tesseract's ALTO XML format.
       - **run_and_get_output** Returns the raw output from Tesseract OCR. Gives a bit more control over the parameters that are sent to tesseract.
 
-    - Extracting Text From Images Using #PyTesseract - section.io
+    - Extracting Text From Images Using PyTesseract - section.io
       - os.listdir
         - method in python is used to get the list of all files and directories in
           the specified directory. If we don’t specify any directory, then list
           of files and directories in the current working directory will be
           returned.
+
+
+[open-cv]: ../notes/open-cv "Resources"

@@ -38,8 +38,6 @@
 - **Future Considerations**
   - Scalability: Exploring the scalability of this model for larger production needs.
   - Technology Integration: Incorporating advanced technologies like [[AI]] and [[IoT]] for [[process optimization]].
-- **Keywords**: #ShippingContainerManufacturing #FOSH #SustainableManufacturing #CommunityManufacturing #OpenSourceHardware
 
 
-[FOSH]: FOSH "FOSH"
-
+[Free Open Source Hardware]: <Free Open Source Hardware> "Free Open Source Hardware"

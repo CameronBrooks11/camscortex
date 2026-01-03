@@ -1,13 +1,3 @@
-- # Tasks
-	- DONE [ADD TO NOTION] Discussion points and prep for LT Gov. meeting
-	  SCHEDULED: <2023-05-12 Fri>
-	- DONE [#A] Write cover letter (add address to Gwen then clear this)
-	  SCHEDULED: <2023-03-22 Wed>
-	- DONE Review mom and dad edits
-	  SCHEDULED: <2023-03-22 Wed>
-	- DONE Submit application
-	  SCHEDULED: <2023-03-23 Thu>
-	  DEADLINE: <2023-03-26 Sun>
 - # Challenge Development Intern Summer 2023
 	- First
 - # Bootcamp February 2023
@@ -32,7 +22,7 @@
 					- You will also receive calendar invitations for the program week.
 				- As always, please do not hesitate to reach out to [feb23@htctw.org](mailto:feb23@htctw.org) if you have any questions.
 	- ## Questions for...
-	  collapsed:: true
+
 		- #[[Jason Blackstock]]
 			- Staring a nonprofit or social enterprise, there’s tons of funding and stuff for profit corps so what is there for those?
 		- #[[Alana Heath]]

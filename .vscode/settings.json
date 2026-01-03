@@ -6,16 +6,23 @@
   "editor.lineHeight": 24,
   "foam.edit.linkReferenceDefinitions": "withoutExtensions", // Keep as withoutExtensions for github pages compatibility
   "foam.graph.style": {
-    "background": "#202020",
-    "fontSize": 12,
-    "lineColor": "#277da1",
-    "lineWidth": 0.2,
-    "particleWidth": 1.0,
-    "highlightedForeground": "#f9c74f",
+    "background": "#0f1720", 
+    "fontSize": 13,
+    "fontFamily": "Inter, 'Segoe UI', Roboto, sans-serif",
+    "lineColor": "#4dd0e1",
+    "lineWidth": 0.6,
+    "particleWidth": 2.2,
+    "highlightedForeground": "#ffd166",
     "node": {
-      "note": "#277da1"
+      "note": "#34d399",
+      "placeholder": "#64748b",
+      "tag": "#ffd166",
+      "feature": "#ff6b6b",
+      "journal": "#7c3aed",
+      "project": "#60a5fa"
     }
   },
+  "foam.graph.onStartup": true,
   "[markdown]": {
     "editor.quickSuggestions": {
       "other": true,
@@ -36,9 +43,17 @@
   "workbench.activityBar.location": "default",
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
-  "workbench.editor.showTabs": "single",
   "window.commandCenter": false,
   "breadcrumbs.enabled": false,
+
+  // Editor Workbench Behavior
+  "workbench.editor.showTabs": "single",
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 1,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.closeEmptyGroups": true,
 
   // Explorer Behavior
   "explorer.compactFolders": true,
@@ -54,7 +69,7 @@
   "editor.stickyScroll.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
-
+  "editor.defaultColorDecorators": "always",
   // Editor Assistance / Signals
   "editor.lightbulb.enabled": "off",
   "editor.codeLens": false,

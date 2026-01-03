@@ -20,7 +20,7 @@
 
   - First aid and lifesaving innovation
 
-    - #innovaid
+    - innovaid
     - First aid manikin
       - Tiers
         - Purely mechanical no electronics (or maybe no PS? Motion could power the indicator)
@@ -40,3 +40,6 @@
   - No caffeine for 90 minutes after waking
   - Non sleep deep rest (NSDR)
   - Get Sun when you wake up (within 20 minutes)
+
+
+[ideas]: ../notes/Ideas "Ideas"

@@ -68,7 +68,7 @@
     - `cd projects/`
     - `gh repo clone CameronBrooks11/docu-scribe`
 
-  - Downloading libraries and dependencies for working with #deepdoctection
+  - Downloading libraries and dependencies for working with [[deepdoctection]]
 
     - `pip install torch`
     - `pip install torchvision`
@@ -157,3 +157,7 @@
 
     - Program is now running as it does on CAMS-PC
 
+
+[ideas]: ../notes/Ideas "Ideas"
+[git]: ../notes/Git "Git"
+[deepdoctection]: ../projects/deepdoctection "deepdoctection"
