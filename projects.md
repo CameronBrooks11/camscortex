@@ -1,5 +1,22 @@
 # Projects
 
+## DUMP
+
+- ISCI3D 
+- Industrial press (csa and functioning)
+- Mini press (revise, fix, get working)
+- (photo)bioreactor (feast stack mvp)
+- filament winder
+- snaptess
+- foam vision
+- mechanical tester
+- loc line SCAD
+- pioreactor cluster enclosure
+- probes in pioreactors (ph, do, etc)
+- pressure cooker furnace 
+- bricked layers (and other TenTreeTech slicer post processors; extend to orcaslicer?)
+- 
+
 ## Research Projects
 
 - **In Progress**

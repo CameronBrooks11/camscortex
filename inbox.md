@@ -1,10 +1,23 @@
 # Inbox
 
+- Tasks for feast stack mvp critical path
+  - crumbs v.1.0.0
+    - [ ] reserved addresses
+    - [ ] chaining responses to enable larger data queries
+  - [ ] update dcmt and rlht to use new crumbs [v1.0.0 thru platformio]
+  - [ ] experimental runtime manager and behaviour tree connection
+  - [ ] api to expose to freeboard
+
+- importance of writing essays
+
 - Check out in depth:
+
   - https://xyzdims.com/
-- [Reinforcement Learning the Free Course](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
-- [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+  - [Reinforcement Learning the Free Course](https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/)
+  - [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+
 - Random
+
   - [Upgrade for 3D printer saves time and support material](https://www.zhaw.ch/en/medien/medienmitteilungen/detail-news-releases/event-news/upgrade-fuer-den-3d-drucker-spart-zeit-und-stuetzmaterial/)
   - [3D Printing For More Circuits](https://semiengineering.com/3d-printing-for-more-circuits/)
   - [NeurOS™ and NeuroBlocks™ a neural/cognitive operating system and building blocks - Biologically Inspired Cognitive Architectures](https://doi.org/10.1016/j.bica.2014.11.011)
@@ -12,25 +25,36 @@
   - Nasa Snake robot
   - Memcomponents
   - [Edouard Asselin - Electrochem Prof @ UBC](https://corrosion.mtrl.ubc.ca/edouard-asselin/)
+
 - Finding meaninful PEng experience
+
   - http://aprovecho.org/
+
 - Ideas for website
+
   - Projects but for the site:
     - student tools and tutorials (math, science, grade/GPA calculators, citations, etc.)
     - Map of sciences: math, physics, chemistry, biology, envirisci, psych but then comp sci beside all and below math then a link of math and philosophy which connects with psych then medicine spanning the 3 main scis
   - Blog of people that did/do great things to make the world a better place
+
 - Largely a split between diciplines: (Can we: engineering, CS, science) + (Should: social sci, policy)
+
   - I think that is more of a general categorization of the means of the various fields
+
 - [Cold pull (MK4, XL) | Prusa Knowledge Base](https://help.prusa3d.com/article/cold-pull-mk4-xl_445071)
 
 - Reading list:
+
   - Thinking, Fast and Slow by Daniel Kahneman
     - Michael Pollen books
     - The Book of Why by Judea Pearl
+
 - electrolysis of propane tanks with the wire to the Mg block from the house show
 
 - Affiliate stuff
+
 - Life/career map
+
 - Ferraro Business Analysis and Entry
 
 - Data Science with Python
