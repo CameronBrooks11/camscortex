@@ -1,22 +1,22 @@
 # Consolidated Comprehensive Tool List for Electrical Apprentices
 
 - **Essential Day 1 Hand Tools (Primary Tools)**
-- Philips Head Screwdriver (Or suitable all-in-one screwdriver)
-- Flat Head Screwdriver (Or suitable all-in-one screwdriver)
-- Linemen’s Pliers
-- Diagonal Cutters (often referred to as dikes or side cutters)
-- Wire Strippers
-- Hammer (a larger 22oz hammer is recommended, but a 16oz may suffice to start)
-- Torpedo Level (with 30 and 45 angle features if possible)
-- Tape Measure
-- Utility Knife (an electrical or hawkbill knife is preferred by some for safety)
-- Channel Locks (two pairs)
-- Cobra Pliers (at least one pair, but some recommend two for different tasks)
-- Pliers Wrench (as an alternative to the adjustable wrench for tasks requiring less damage to the workpiece)
-- Headlamp (for working in low-light conditions)
-- Outlet Tester (ensure it's reliable)
-- Notepad and Writing Utensils (pencils, sharpies for labeling)
-- Tool Belt/Pouch (to organize and carry tools efficiently)
+  - Philips Head Screwdriver (Or suitable all-in-one screwdriver)
+  - Flat Head Screwdriver (Or suitable all-in-one screwdriver)
+  - Linemen’s Pliers
+  - Diagonal Cutters (often referred to as dikes or side cutters)
+  - Wire Strippers
+  - Hammer (a larger 22oz hammer is recommended, but a 16oz may suffice to start)
+  - Torpedo Level (with 30 and 45 angle features if possible)
+  - Tape Measure
+  - Utility Knife (an electrical or hawkbill knife is preferred by some for safety)
+  - Channel Locks (two pairs)
+  - Cobra Pliers (at least one pair, but some recommend two for different tasks)
+  - Pliers Wrench (as an alternative to the adjustable wrench for tasks requiring less damage to the workpiece)
+  - Headlamp (for working in low-light conditions)
+  - Outlet Tester (ensure it's reliable)
+  - Notepad and Writing Utensils (pencils, sharpies for labeling)
+  - Tool Belt/Pouch (to organize and carry tools efficiently)
 - **Recommended Hand Tools to Acquire within 6 Months (Secondary Tools)**
   - Nut Drivers (Prioritize ¼, 5/16, 3/8, ½)
   - Large Beater Screwdriver (or consider a dedicated chisel or demo screwdriver for prying and beating)

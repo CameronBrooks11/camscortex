@@ -2,14 +2,14 @@
 
 - Here is my dump of stuff trying to get my digital life organized
   - [[Shipping Container Homes]]
-  - [[Consumer level distributed manufacturing]]
+  - [[consumer-level-distributed-manufacturing]]
   - I tried once upon a time with [[airostik]]
   - [[Small-Scale Manufacturing Using Repurposed Shipping Containers for FOSH Hardware]]
   - [[Trend-Based Trading with AI and Global Context Analysis]]
   - [[bucket-list]]
   - [[Organization]]
   - A list I made back in first year of university of [[career-ideas]]
-  - [[Consolidated Comprehensive Tool List for Electrical Apprentices]]
+  - [[consolidated-comprehensive-tool-list-for-electrical-apprentices]]
   - [[Dream Property]]
   - [[Neural Engineering]]
   - [[ChatGPT]]

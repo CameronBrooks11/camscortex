@@ -6,7 +6,7 @@
   "editor.lineHeight": 24,
   "foam.edit.linkReferenceDefinitions": "withoutExtensions", // Keep as withoutExtensions for github pages compatibility
   "foam.graph.style": {
-    "background": "#0f1720", 
+    "background": "#0f1720",
     "fontSize": 13,
     "fontFamily": "Inter, 'Segoe UI', Roboto, sans-serif",
     "lineColor": "#4dd0e1",
@@ -70,6 +70,7 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
   "editor.defaultColorDecorators": "always",
+
   // Editor Assistance / Signals
   "editor.lightbulb.enabled": "off",
   "editor.codeLens": false,
