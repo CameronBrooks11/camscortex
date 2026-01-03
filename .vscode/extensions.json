@@ -15,6 +15,9 @@
     "philipbe.theme-gray-matter",
 
     // Excalidraw extension for drawing diagrams
-    "pomdtr.excalidraw"
+    "pomdtr.excalidraw",
+
+    // Markdown linting
+    "davidanson.vscode-markdownlint"
   ]
 }

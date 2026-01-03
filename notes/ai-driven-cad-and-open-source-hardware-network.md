@@ -1,4 +1,4 @@
-# AI-Driven CAD and Open Source Hardware (OSH) Network
+# AI-Driven CAD and Open Source Hardware Network
 
 - Pitch to Google: Leveraging AI in CAD for OSH
   - Proposal for integrating [[Natural Language Processing]] in CAD

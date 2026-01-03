@@ -1,6 +1,6 @@
 # 3D Printing and Local Manufacturing of Sporting Equipment and Testing Devices
 
-- **Concept:** Utilizing [[3D Printing]] and [[Local Manufacturing]] is transforming the production of [[Sporting Equipment]] and [[Testing Devices]]. Focuses on creating customized, efficient, and accessible sporting goods and fitness technologies. Ideas and thoughts:
+- **Concept:** Utilizing [[3d-printing]] and [[Local Manufacturing]] is transforming the production of [[Sporting Equipment]] and [[Testing Devices]]. Focuses on creating customized, efficient, and accessible sporting goods and fitness technologies. Ideas and thoughts:
   - **Wearable Technology in Sports**
     - Development of various [[Wearable Tech]] for athletes and fitness enthusiasts.
       - Low-tech, [[Fitbit-Style Devices]] for tracking daily activities and health metrics.
@@ -8,7 +8,7 @@
       - [[Form Evaluation Scanners]] using technologies like LiDAR for assessing and improving athletic technique.
       - [[VO2 Max Devices]] for measuring cardiovascular fitness and endurance capabilities.
   - **Custom Footwear with 3DP and LiDAR**
-    - Combining [[3D Printing]] with [[LiDAR Technology]] for personalized athletic shoes.
+    - Combining [[3d-printing]] with [[LiDAR Technology]] for personalized athletic shoes.
       - Ensures optimal fit, support, and potentially enhances performance.
       - Aims to reduce injury risks through better shoe design and fit.
       - [[Web Application for Processing Image Input to 3D Model]]

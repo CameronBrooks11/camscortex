@@ -9,7 +9,7 @@ foam_template:
 
 ## 📝 Scratchpad
 
-- Move [[Companies to Apply to Post-Graduation]] from GDrive
+- Move [[companies-to-apply-to-post-graduation]] from GDrive
 
 ## 📋 Daily Overview
 

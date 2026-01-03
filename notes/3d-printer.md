@@ -1,5 +1,7 @@
 # 3D Printer
 
+A 3D printer is a machine that creates three-dimensional objects by adding material layer by layer, based on digital 3D models. This process is known as additive manufacturing.
+
 - Parts of a 3D printer
   - **Frame and Mechanical Components**
     - **Frame**: Metal or acrylic structure.
@@ -62,6 +64,5 @@
     - **Regular Checks**: Ongoing maintenance.
     - **Recent Advancements**: Predictive maintenance tools.
 
-
 [Slicing Software]: <Slicing Software> "Slicing Software"
-
+[Extrusion System]: <Extrusion System> "Extrusion System"

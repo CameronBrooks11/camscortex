@@ -24,7 +24,7 @@
   | Add all tasks           | Port from MS Planner and updated back as needed |        | [Date]   |
   |Report 3 plan ||||
   >>>>>>> origin/main
-  |[[Capstone Motor & Battery Selection]]||||
+  |[[capstone-motor-and-battery-selection]]||||
 	- MOVE
 - ## Design Objectives
 	- **Objective 1:** Design, manufacture, and test airbrakes for a sounding rocket to apply an optimal drag profile to precisely target 10,000ft apogee.

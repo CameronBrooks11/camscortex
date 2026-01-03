@@ -1,3 +1,5 @@
+# Capstone Motor and Battery Selection
+
 - Split this into the two and write a guide on each
 - Links
 	- [SparkFun LiPo Charger Plus - PRT-15217 - SparkFun Electronics](https://www.sparkfun.com/products/15217)

@@ -6,7 +6,7 @@
   - Third conversation was with [[Ravneet Singh]] regarding [[CSA]] certification from his experience in industry at [[Airia Brands Inc.]]. Lots of good insights particularly on [[CSA Approved Electrical Enclosures]] and things like [[DIN Rails]], [[Strain Relief Connectors]], and [[Electrical Connectors]]
     - A resource that I found that might be good is: [What Are the Kinds of Electrical Enclosures?](https://shiftednews.com/what-are-the-kinds-of-electrical-enclosures/) and [prometalcraft.com](https://prometalcraft.com/services/enclosures/enclosure-styles/double-door-stainless-electrical-control-enclosure-nema12-nema-12-ip54-ip-54-csa-type-12-1/)
 - [[AFFiNE Beta]] dropped today but I'm going to wait until there is [[Page Trees]]
-- [[Canada's Justice System]] has 5 main aspects
+- [[canadas-justice-system]] has 5 main aspects
 
 [Libre Press]: <../notes/Libre Press> "Overview"
 [How to Change the World]: <../notes/How to Change the World> "Tasks"

@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Ensure you have Apache and PHP installed:
-  - [[Apache and PHP Setup on Windows]]
+  - [[apache-and-php-setup-on-windows]]
 - Verify your server configuration adheres to Kanboard's requirements:
   - Protect the `data` directory from public URL access.
   - Enable `.htaccess` in Apache (`AllowOverride All`).

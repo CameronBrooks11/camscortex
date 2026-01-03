@@ -1,4 +1,6 @@
-# Career Ideas August 15, 2020
+# Career Ideas 
+
+Written on August 15, 2020 when brainstorming ideas when i
 
 - Doctor
   - BMSc (4 years)

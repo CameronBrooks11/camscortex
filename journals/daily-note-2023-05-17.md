@@ -3,7 +3,7 @@
 - I learned about an awesome concept called [[Evergreen Notes]] created by [[Andy Mathuschak]] which he discusses on [his page](https://notes.andymatuschak.org/Evergreen_notes), but I want to figure out a hybrid system
 - Doing my review of the [[WE Rocketry]] files and info before the meeting
 
-  - Starting with the [[Avionics]] bay design from last year: [Google Docs](https://docs.google.com/document/d/1U0sG1u7KkjPFnd-g7IlovEylvZDbMEbi/edit?usp=sharing&ouid=107453609806031730524&rtpof=true&sd=true)
+  - Starting with the [[avionics]] bay design from last year: [Google Docs](https://docs.google.com/document/d/1U0sG1u7KkjPFnd-g7IlovEylvZDbMEbi/edit?usp=sharing&ouid=107453609806031730524&rtpof=true&sd=true)
 
     - The objectives that they had were:
       - Design for assembly
@@ -12,7 +12,7 @@
     - My add-ons and thoughts include:
 
       - Design for Assembly: This is very important from my experience since it is often overlooked in favour of other design considerations and it leads to slower [[prototyping]] and reduced flexibility
-      - [[Cable Management]]: always good, can be made better with [[3D Printing]]
+      - [[cable-management]]: always good, can be made better with [[3d-printing]]
       - [[Radio Frequency]] Shielding(?): I'm kind of confused about why we want to maximize it since that will protect sensitive electronic components from [[electromagnetic interference]] (EMI)
       - [[Thermal Management]]: Needs to be considered
       - [[Environmental Protection]]: Also needs to be considered

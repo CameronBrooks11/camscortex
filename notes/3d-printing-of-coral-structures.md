@@ -1,7 +1,7 @@
 # 3D Printing Coral Structures
 
 - **Concept Overview**
-  - [[3D Printing]] coral involves using [[Additive Manufacturing]] technologies to create structures resembling natural [[coral]].
+  - [[3d-printing]] coral involves using [[Additive Manufacturing]] technologies to create structures resembling natural [[coral]].
   - This innovative approach can aid in [[Coral Reef Restoration]] and marine biodiversity conservation.
 - **Materials Used**
   - Recent advancements utilize [[Amorphous Calcium Carbonate]] (ACC).

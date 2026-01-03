@@ -1,6 +1,6 @@
 # Logseq Journal - August 11, 2023
 
-- This is the beginning of my atomization of [[3D Printing]]
+- This is the beginning of my atomization of [[3d-printing]]
 - An interesting [[Research Group]] I found at [[UBC]]: [[Berlinguette Research Institute]]
 - [[Juno Space Probe]] is very cool
 - I wonder if I've started a [[Rocketry]] page yet? Appears not!

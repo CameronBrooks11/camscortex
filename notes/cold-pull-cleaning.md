@@ -1,6 +1,6 @@
 # Cold Pull Cleaning
 
-- [[3d-printer]], [[3D Printing]]
+- [[3d-printer]], [[3d-printing]]
 - [Cold pull (MK4, XL) | Prusa Knowledge Base](https://help.prusa3d.com/article/cold-pull-mk4-xl_445071)
 
 

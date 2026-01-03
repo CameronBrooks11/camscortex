@@ -4,7 +4,7 @@
   |6|[[DraftSCAD]]|11|Paper Outline|[[Software Engineering Project]]|Mechanical Design, User Interface|FAST|||
   |1|[[SOSSAL]]|15|Initiation[Hold]|[[Software Engineering Project]]|Mechanical Design, Solar PV, Appropriate Technology, Local Manufacturing|FAST|||
   |9| [[GeoGrow]] | 1 | Paper Outline [Active] | [[Software Engineering Project]] | Manufacturing, Materials | FAST | ||
-  |2| [[Component Expansion Additive Manufacture System]]  | 1 |Initiation[Hold]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Materials | AddiTronics, FAST | Cameron K. Brooks, Joshua M. Pearce ||
+  |2| [[component-expansion-additive-manufacture-system]]  | 1 |Initiation[Hold]| [[Software Engineering Project]], [[Experimental Research Project]], [[Innovation and Technology Project]] | Manufacturing, Materials | AddiTronics, FAST | Cameron K. Brooks, Joshua M. Pearce ||
   |3| [[FEMORA-One]]  | 1 |Initiation[:br][Hold]| [[Engineering Design Project]], [[Experimental Research Project]] | Process Control, Manufacturing, Materials, Embedded Systems, Biomedical | FAST |  ||
   |4| [[Hypochlorous Acid Generator]]  | 20 | Planning[:br][Hold]| [[Engineering Design Project]], [[Clinical Trial Project]] , [[Product Development Project]] , [[Experimental Research Project]] | Biomedical, Process Control, Embedded Systems | FAST |  ||
   |5| [[TraceSculptor]] | 1 | Not Started| [[Software Engineering Project]] | Manufacturing, Materials | FAST, AddiTronics | [Fangkai?] ||
@@ -28,7 +28,7 @@
 	- [[High-Precision Open Source LiDAR Scanner]]
 	- [[Web Application for Processing Image Input to 3D Model]]
 	- [[Open Source Locally Manufactured Insulin]]
-	- [[Complete Open Source System for Everyday Necessities]]
+	- [[complete-open-source-system-for-everyday-necessities]]
 	- [[Open Source Transition Consultation Service]]
 	- [[3d-printing-and-local-manufacturing-of-sporting-equipment-and-athletic-testing-devices]]
 	- [[agricultural-waste-to-biofilament-conversion]]
@@ -38,10 +38,10 @@
 	- [[FOSH Hospital Equipment]]
 	- [[Sheet Press Applications]]
 	- [[adaptable-open-source-health-monitoring-wearable]]
-	- [[3D Printing of Coral Structures]]
+	- [[3d-printing-of-coral-structures]]
 	- [[Flexible Mobile Work Station for Scientists, Engineers and Innovators]]
 	- [[Recycling of Industrial Waste to 3D Printing Filament Additives]]
-	- [[AI-Driven CAD and Open Source Hardware (OSH) Network]]
+	- [[ai-driven-cad-and-open-source-hardware-network]]
 	- [[Smart Modular & Augmentable Plant Enclosure]]
 - ### Idea Fragments
   collapsed:: true

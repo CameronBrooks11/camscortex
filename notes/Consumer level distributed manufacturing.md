@@ -1,6 +1,6 @@
 # Consumer level distributed manufacturing
 
-- Consumer-level distributed manufacturing refers to a [[decentralized]] approach to manufacturing, where the [[production of goods]] is spread across many [[small-scale]] [[units]], such as individual [[consumers]] or [[small businesses]], rather than [[centralized]] in [[large factories]]. This concept heavily leverages technologies like [[3D printing]], [[CNC machines]], and other [[digital fabrication tools]], enabling consumers to produce [[complex objects]] at or near their [[point of need]].
+- Consumer-level distributed manufacturing refers to a [[decentralized]] approach to manufacturing, where the [[production of goods]] is spread across many [[small-scale]] [[units]], such as individual [[consumers]] or [[small businesses]], rather than [[centralized]] in [[large factories]]. This concept heavily leverages technologies like [[3d-printing]], [[CNC machines]], and other [[digital fabrication tools]], enabling consumers to produce [[complex objects]] at or near their [[point of need]].
   - Key aspects of consumer-level distributed manufacturing include:
     - **[[Local Production]]:** Goods are made close to where they are needed, reducing the need for [[transport]] and associated costs and [[environmental impacts]].
     - **[[Customization]]:** Allows for greater customization of products to meet [[specific individual needs]] or [[preferences]], as opposed to [[mass production]] which focuses on [[uniformity]].

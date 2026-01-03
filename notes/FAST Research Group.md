@@ -29,7 +29,7 @@
 		  |`X` [[ChainMeshSCAD]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
 		  |`X` [[SOSSAL]]|`X`|`X`|`X`|`X`|`X`|`X`|`X`|
 		  |`⤺`[[DraftSCAD]]|`~`|`~`|`X`|`X`|`X`|`X`|`X`|
-		  |`X` [[Component Expansion Additive Manufacture System]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
+		  |`X` [[component-expansion-additive-manufacture-system]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
 		  |`X` [[Hypochlorous Acid Generator]]  |`X` [Appropedia](https://www.appropedia.org/Literature_Review:_Open_Source_Hypochlorous_Acid_Generator) |`X`|`S`|`X`|`X`|`X`|`X`|
 		  |`X` [[TraceSculptor]] |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
 		  |`X` [[Project Icarus]]  |`X`|`X`|`X`|`X`|`X`|`X`|`X`|
