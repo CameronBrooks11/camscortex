@@ -81,23 +81,26 @@ Available options:
 Resize images to make your documents more readable:
 
 ```markdown
-![[image.png|300]]          # 300 pixels wide
-![[image.png|50%]]          # Half the container width
+![[image.png|300]] # 300 pixels wide
+![[image.png|50%]] # Half the container width
 ```
 
 ### Common Use Cases
 
 **Make large screenshots readable:**
+
 ```markdown
 ![[screenshot.png|600]]
 ```
 
 **Create responsive images:**
+
 ```markdown
 ![[diagram.png|70%]]
 ```
 
 **Size by width and height:**
+
 ```markdown
 ![[image.png|300x200]]
 ```
