@@ -1,6 +1,6 @@
 - # Overview
 - # Funding
-  - ## #[[John M. Thompson Innovation Fund]]
+  - ## [[John M. Thompson Innovation Fund]]
     - https://www.eng.uwo.ca/tc/innovation-fund.html
     - Application questions
       - John M Thompson Innovation Fund Application
@@ -15,7 +15,7 @@
             Success will be measured on two main factors: conductivity and printability.
         7.  For open source projects provide link to documentation (including BOM, CAD, electronic schematics, software and OS license) or OSHWA certification #:
         8.  For proprietary projects – link to provisional patent or application #:
-        9.  Value of funds requested: $******\_\_******
+        9.  Value of funds requested: $**\*\***\_\_**\*\***
         10. Use of funds. Attach a bill of materials including component, number, cost and source url and/or processing quotes.
             By sending this application you agree to use the funds for the stated purpose and report back to the Thompson Centre on outcomes if successfully awarded funding.
             Email completed forms and supporting cost information to: joshua.pearce@uwo.ca

@@ -35,11 +35,10 @@
     - Medical training simulated patient
     - Full body pressure sensing
 
-- #[[Wellbeing and Performance]]
+- [[Wellbeing and Performance]]
 
   - No caffeine for 90 minutes after waking
   - Non sleep deep rest (NSDR)
   - Get Sun when you wake up (within 20 minutes)
-
 
 [ideas]: ../notes/Ideas "Ideas"

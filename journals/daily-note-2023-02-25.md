@@ -36,6 +36,6 @@
         warnings.warn(
       ```
 
-- #[[Things to Learn]]
+- [[Things to Learn]]
 
   - How to use 3D scanning and CV to recreate and 3D print real world object
