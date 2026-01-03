@@ -43,7 +43,7 @@
 	  collapsed:: true
 		- |Project Page|Literature Review|Paper Outline|Methods & Materials|Results|Discussion & Conclusion|Paper Revision & Edits|Peer Review|
 		  |--|--|--|--|--|--|--|--|
-		  |`✓` [[Additive Manufacture Breakout Board]] |`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|
+		  |`✓` [[additive-manufacture-breakout-board]] |`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|`✓`|
 - ## Current Projects
 	- #[[Additive Manufacture Breakout Board (AMBB)]]
 	- #[[Hypochlorous Acid Generation (HOCl)]]

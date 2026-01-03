@@ -1,1 +1,1 @@
-- [[Advanced Strategies and Challenges in Electronics Manufacturing for Aerospace Applications]]
+- [[advanced-strategies-and-challenges-in-electronics-manufacturing-for-aerospace-applications]]
