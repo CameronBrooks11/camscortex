@@ -1,14 +1,27 @@
-// This file is not automatically applied. 
+// This file is not automatically applied!!!
 // To enable it, follow these steps:
 
-// 1. Open the Command Palette: `cmd + shift + p`
+// 1. Open the Command Palette: `ctrl + shift + p`
 // 2. Start typing "keyboard shortcuts"
 // 3. Select "Preferences: Open Keyboard Shortcuts (JSON)"
 // 4. Paste the snippet below or add it to the existing shortcuts array:
 
 [
   {
-    "key": "cmd+shift+n",
+    "key": "ctrl+shift+n",
     "command": "foam-vscode.create-note"
+  },
+
+  // Remove default: Toggle Markdown Preview (Ctrl+Shift+V)
+  {
+    "key": "ctrl+shift+v",
+    "command": "-markdown.showPreview"
+  },
+
+  // Replace with: Open Preview to the Side
+  {
+    "key": "ctrl+shift+v",
+    "command": "markdown.showPreviewToSide",
+    "when": "editorTextFocus && editorLangId == 'markdown'"
   }
 ]

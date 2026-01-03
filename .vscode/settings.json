@@ -10,7 +10,8 @@
       "other": true,
       "comments": false,
       "strings": false
-    }
+    },
+    "editor.wordWrap": "on"
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
@@ -18,7 +19,55 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [
-    ".vscode/custom-tag-style.css"
-  ],
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+
+  // UI & Workbench Minimization
+  "workbench.activityBar.location": "default",
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.editor.showTabs": "single",
+  "window.commandCenter": false,
+  "breadcrumbs.enabled": false,
+
+  // Explorer Behavior
+  "explorer.compactFolders": true,
+  "explorer.sortOrder": "type",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.openEditors.visible": 1,
+
+  // Editor Chrome Cleanup
+  "editor.lineNumbers": "off",
+  "editor.glyphMargin": false,
+  "editor.renderLineHighlight": "none",
+  "editor.stickyScroll.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+
+  // Editor Assistance / Signals
+  "editor.lightbulb.enabled": "off",
+  "editor.codeLens": false,
+  "editor.hover.enabled": "on",
+
+  // Markdown Preview Sync
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.scrollEditorWithPreview": true,
+
+  // Typography
+  "editor.fontFamily": "Palatino Linotype, Palatino, Book Antiqua, serif",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": false,
+  "terminal.integrated.fontFamily": "Consolas, 'Cascadia Mono', 'Fira Code', monospace",
+  "terminal.integrated.fontSize": 14,
+
+  // Cursor & Motion
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.cursorSmoothCaretAnimation": "off",
+  "editor.smoothScrolling": false,
+
+  // Unicode / Text Safety
+  "editor.unicodeHighlight.ambiguousCharacters": true,
+  "editor.unicodeHighlight.invisibleCharacters": true
 }
