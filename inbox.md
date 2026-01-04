@@ -1,7 +1,7 @@
 # Inbox
 
 - Tasks for feast stack mvp critical path
-  - crumbs v.1.0.0
+  - [ ] crumbs v.1.0.0
     - [ ] reserved addresses
     - [ ] chaining responses to enable larger data queries
   - [ ] update dcmt and rlht to use new crumbs [v1.0.0 thru platformio]
