@@ -29,7 +29,8 @@
       "comments": false,
       "strings": false
     },
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
