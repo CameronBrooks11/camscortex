@@ -25,7 +25,7 @@ foam_template:
 - Key issues encountered / resolved:
   - ...
 - Links to notes or resources created today:
-  - [[Sovol SV08 Hotend Upgrades]]
+  - [[sovol-sv08-hotend-upgrades]]
 
 ## ☑️ Blockers / To-Do for Tomorrow
 
