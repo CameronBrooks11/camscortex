@@ -49,3 +49,5 @@ foam_template:
   - ...
 
 [RelatedNote1]: ../notes/RelatedNote1 "RelatedNote1"
+[flight-computer]: ../notes/flight-computer "flight-computer"
+[electrochemistry]: ../notes/electrochemistry "electrochemistry"
