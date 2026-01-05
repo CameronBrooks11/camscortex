@@ -14,6 +14,7 @@ foam_template:
   - servo2 - pin 7
   - servo3 - pin 20
   - servo4 - pin 21
+- [[electrochemistry]] notes about redox reactions and electrical flow
 
 ## 📋 Daily Overview
 
@@ -46,6 +47,5 @@ foam_template:
   - ...
 - Actionable adjustment for tomorrow:
   - ...
-
 
 [RelatedNote1]: ../notes/RelatedNote1 "RelatedNote1"
