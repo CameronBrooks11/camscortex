@@ -15,6 +15,7 @@ foam_template:
   - servo3 - pin 20
   - servo4 - pin 21
 - [[electrochemistry]] notes about redox reactions and electrical flow
+- Add historical [[daily-note-2025-06-29]] from written notes from when in Germany
 
 ## 📋 Daily Overview
 
@@ -51,3 +52,6 @@ foam_template:
 [RelatedNote1]: ../notes/RelatedNote1 "RelatedNote1"
 [flight-computer]: ../notes/flight-computer "flight-computer"
 [electrochemistry]: ../notes/electrochemistry "electrochemistry"
+
+
+[daily-note-2025-06-29]: daily-note-2025-06-29 "2025-06-29"
