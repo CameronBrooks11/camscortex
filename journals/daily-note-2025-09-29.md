@@ -25,7 +25,7 @@ foam_template:
 - Key issues encountered / resolved:
   - ...
 - Links to notes or resources created today:
-  - [[Michigan Technological University Safety Guidelines]]
+  - [[michigan-technological-university-safety-guidelines]]
   - 
 
 ## ☑️ Blockers / To-Do for Tomorrow

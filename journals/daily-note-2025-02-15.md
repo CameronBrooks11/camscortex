@@ -7,7 +7,7 @@ foam_template:
 
 # Journal Entry, Saturday, February 15
 
-- Delving into [[Naming Conventions for Software Artifacts]]
+- Delving into [[naming-conventions-for-software-artifacts]]
 
 
 

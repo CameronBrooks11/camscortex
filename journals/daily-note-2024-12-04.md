@@ -4,7 +4,7 @@
 
   - I've been following this project for some time and spent some time messing around with it's capabilities (as well as some other HDL and HDL-like projects for schematics and pcbs). I was wondering if any thought had been given to how this would extend to to the layout and routing to create the final PCB and what this might look like? I've tried using https://github.com/michaelgale/pcbflow with some prelim success
 
-- [[Masters Degree]]
+- [[masters-degree-thesis]]
   - [[Masters Degree Planning]]
 - GDHB terminal blocks: https://www.digikey.ca/en/products/detail/amphenol-anytek/VP0265540000G/4957847
 

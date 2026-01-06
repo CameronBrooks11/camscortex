@@ -47,19 +47,19 @@
 - Analyzes projectile motion using rectangular components of velocity and acceleration.
 - Examines motion relative to a translating reference frame.
 - Explores tangential, normal, radial, and transverse components of velocity and acceleration.
-- 11.2: [[Position, Velocity, and Acceleration in Dynamics]]
+- 11.2: [[position-velocity-and-acceleration-in-dynamics]]
 
 ## Subtopics in Dynamics
 
 - [[Uniform Rectilinear Motion]]
 - [[Uniformly Accelerated Rectilinear Motion]]
-- [[Motion of Several Particles]]
+- [[motion-of-several-particles]]
 - [[Graphical Solution of Rectilinear Motion Problems]]
 - [[Other Graphical Methods]]
 - [[Position Vector, Velocity, and Acceleration]]
 - [[derivatives-of-vector-functions]]
 - [[Rectangular Components of Velocity and Acceleration]]
-- [[Motion Relative to a Frame in Translation]]
+- [[motion-relative-to-a-frame-in-translation]]
 - [[Tangential and Normal Components]]
 - [[Radial and Transverse Components]]
 

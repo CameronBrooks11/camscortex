@@ -1,7 +1,5 @@
 # Masters Degree
 
-- Quick Links
-  - [[Masters Degree Planning]]
 - Degree Info
   - Degree: Masters of Engineering Science (MESc)
   - Program: Robotics & Control

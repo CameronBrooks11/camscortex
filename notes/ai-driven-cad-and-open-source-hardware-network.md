@@ -7,7 +7,7 @@
   - Contribution to AI-CAD integration in [[Open Source Hardware]]
 - [[Natural Language Processing]]: Revolutionizing CAD
   - Transforming text or voice commands into CAD designs
-  - Implementing AI to interpret instructions in [[OpenSCAD Learning resources]]
+  - Implementing AI to interpret instructions in [[openscad-learning-resources]]
   - Streamlining the design process for efficiency and accessibility
 - [[AI in CAD]]: From Concept to Reality within Manufacturing Parameters
   - Using natural language as input for AI-driven CAD

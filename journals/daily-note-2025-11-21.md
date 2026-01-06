@@ -25,7 +25,7 @@ foam_template:
 - Key issues encountered / resolved:
   - ...
 - Links to notes or resources created today:
-  - [[Notable Quotes and Phrases]]
+  - [[notable-quotes-and-phrases]]
 
 ## ☑️ Blockers / To-Do for Tomorrow
 

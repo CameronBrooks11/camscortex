@@ -1,5 +1,5 @@
 - 12.1: Introduction
-- 12.2: [[Newton's Second Law of Motion]]
+- 12.2: [[newtons-second-law-of-motion]]
 - 12.3: [[linear-momentum-of-a-particle-and-rate-of-change-of-linear-momentum]]
 - 12.4: [[Systems of Units]]
 - 12.5: [[Equations of Motion]]

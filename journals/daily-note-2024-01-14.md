@@ -7,7 +7,7 @@
   - [[Small-Scale Manufacturing Using Repurposed Shipping Containers for FOSH Hardware]]
   - [[Trend-Based Trading with AI and Global Context Analysis]]
   - [[bucket-list]]
-  - [[Organization]]
+  - [[organization]]
   - A list I made back in first year of university of [[career-ideas]]
   - [[consolidated-comprehensive-tool-list-for-electrical-apprentices]]
   - [[dream-property]]
@@ -15,25 +15,25 @@
   - [[ChatGPT]]
   - [[Modular Vertical Farming]]
   - I haven't played [[golf]] in a while but I have stuff to write out and transfer including [[golf-courses-played]], [[Parts of a Golf Club]], [[Golf Ball Placement]], [[golf-swing]], [[golf-grip]] and [[Tips for Golf Short Game]]
-  - I think it would be nice to start a list of [[Organizations I Support]]
+  - I think it would be nice to start a list of [[organizations-i-support]]
   - [[Tasks Dump]]
   - I need to transfer my [[Rough CV Planning 2024]]
   - [[Study Techniques and Habits]]
-  - [[Open Source Appropriate Technology]]
+  - [[open-source-appropriate-technology]]
   - [[Uncategorized Product and Service Ideas]]
   - I need an area for my, shall I say, [[Exploratory Theoretical Concepts]]
-  - [[Parametric Open Source Cold-Frame Agrivoltaic Systems]]
+  - [[parametric-open-source-cold-frame-agrivoltaic-systems]]
   - [[current-home-pc-build]]
-  - [[My Cookbook]]
+  - [[my-cookbook]]
   - Documenting a previous [[Idea]] of using [[porous 3D resin]] to create conductive structures using plating techniques. The proposal is that the porosity introduces a very high surface area for the surface reactions involved in the plating process to occur.
   - For my next [[laptop]] I want to get a [[framework-computer]] laptop
-  - Perhaps one of the most interesting [[OpenSCAD Learning resources]] designs I've come across that I haven't dabbled with yet is [[RepRap]]'s [[Infinite-Z-Beam]] python script which was converted to [[OpenSCAD Learning resources]] by David Eccles.
+  - Perhaps one of the most interesting [[openscad-learning-resources]] designs I've come across that I haven't dabbled with yet is [[RepRap]]'s [[Infinite-Z-Beam]] python script which was converted to [[openscad-learning-resources]] by David Eccles.
     - The file **Z-beam.scad** is an [OpenSCAD](https://openscad.org/) set-theoretic (CSG) version by David Eccles that he did _a few hours after we released this_. **We all love open-source!**
     - This would be a very interesting idea to test out with [[Scientific Press Beta]] as the main [[structural components]] built around the produced sheets to create structural products.
   - Once I have the money I would like to buy a [[flipper-zero]].
     - For fun and education of course.
   - [[Superconformal Electrodeposition]]
-  - [[Liquid Metal Printing]]
+  - [[liquid-metal-printing]]
   - [[leidenfrost-effect]]
   - [[Noam Chomsky]]
   - [[Scripting in KiCAD]]

@@ -5,7 +5,7 @@
 - See also:
 
   - [[free-open-source-software]]
-  - [[Open Source Appropriate Technology]]
+  - [[open-source-appropriate-technology]]
 
 ## Organizations & Repositories
 

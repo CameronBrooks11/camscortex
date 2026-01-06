@@ -13,7 +13,7 @@
 
       - Design for Assembly: This is very important from my experience since it is often overlooked in favour of other design considerations and it leads to slower [[prototyping]] and reduced flexibility
       - [[cable-management]]: always good, can be made better with [[3d-printing]]
-      - [[Radio Frequency]] Shielding(?): I'm kind of confused about why we want to maximize it since that will protect sensitive electronic components from [[electromagnetic-interference]] (EMI)
+      - [[radio-frequency]] Shielding(?): I'm kind of confused about why we want to maximize it since that will protect sensitive electronic components from [[electromagnetic-interference]] (EMI)
       - [[Thermal Management]]: Needs to be considered
       - [[Environmental Protection]]: Also needs to be considered
       - [[Mounting Hardware]]: Maybe we 3D print the entire avionics bay with CF-Nylon in small pieces that fit together and are then bolt/fasten together

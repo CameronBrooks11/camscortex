@@ -1,4 +1,3 @@
-- Learning resources:
-	- [OpenSCAD Documentation](https://openscad.org/documentation.html)
-	- [3D Printing Design Software OpenSCAD](https://www.dummies.com/article/technology/programming-web-design/3d-printing/3d-printing-design-software-openscad-244556/)
-	- [mastering-openscad.eu](https://mastering-openscad.eu/)
+# OpenSCAD
+
+OpenSCAD is a free and open-source software for creating solid 3D CAD (computer-aided design) objects. It is a script-based modeling tool that allows users to create 3D models using a programming language. OpenSCAD is particularly popular among hobbyists, makers, and engineers for its precision and ability to create complex geometries through code.

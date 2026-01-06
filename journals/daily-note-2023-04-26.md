@@ -47,6 +47,6 @@
 
   - The silicon wafer in question is likely an old one from a manual fab, with the number on it serving as a Lot/wafer ID for tracking purposes during production. Based on the pattern, it is likely a memory wafer with the logic/controller at the bottom and data storage cells at the top of each die. The wafer size can be used to estimate the production date, with 4 inches corresponding to the late 70s to mid 80s, 6 inches to 1985-1996, and 8 inches to 1996-2008.
   - The wafer shows signs of partial dicing, but the process was halted, possibly due to a dull blade, shattered blade, or incorrect calibration. The wafer was nearly finished, so most of the dies were likely functional. In the past, bad wafers were often discarded, but employees could sometimes keep them as gifts.
-  - After further discussion, it is believed to be a [[Micron DDR2]] (or possibly flash memory) wafer produced between 2003 and 2008.
+  - After further discussion, it is believed to be a [[micron-ddr2]] (or possibly flash memory) wafer produced between 2003 and 2008.
 
 [Micron DDR2]: <../notes/Micron DDR2> "Micron DDR2"

@@ -4,10 +4,10 @@
 - An interesting [[Research Group]] I found at [[UBC]]: [[Berlinguette Research Institute]]
 - [[juno-space-probe]] is very cool
 - I wonder if I've started a [[Rocketry]] page yet? Appears not!
-- Something about a [[Punch and Die Set]]
+- Something about a [[punch-and-die-set]]
 - Cool person: [[Tarek Loubani]]
 - An [[ECE]] topic: what is an [[microcontroller-unit]]?
-- [[OpenSecrets]]
+- [[opensecrets]]
 - [[Varda Space Industries]]
 
 [3D Printing]: <../notes/3D Printing> "3D Printing"
