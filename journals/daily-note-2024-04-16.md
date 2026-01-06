@@ -1,6 +1,6 @@
 # Logseq Journal - April 16, 2024
 
-- [[Setting up CameronBrooks-net]] continuation [[Self Host Setup CameronBrooks-net]]
+- [[cameronbrooks-net-setting-up-notes]] continuation [[cameronbrooks-net-self-host-setup]]
 
 
 [Setting up CameronBrooks-net]: <../notes/Setting up CameronBrooks-net> "Setting up CameronBrooks-net"

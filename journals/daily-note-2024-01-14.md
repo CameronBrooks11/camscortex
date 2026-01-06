@@ -1,11 +1,11 @@
 # Logseq Journal - January 14, 2024
 
 - Here is my dump of stuff trying to get my digital life organized
-  - [[Shipping Container Homes]]
+  - [[shipping-container-homes]]
   - [[consumer-level-distributed-manufacturing]]
   - I tried once upon a time with [[airostik]]
   - [[Small-Scale Manufacturing Using Repurposed Shipping Containers for FOSH Hardware]]
-  - [[Trend-Based Trading with AI and Global Context Analysis]]
+  - [[trend-based-trading-with-ai-and-global-context-analysis]]
   - [[bucket-list]]
   - [[organization]]
   - A list I made back in first year of university of [[career-ideas]]
@@ -18,7 +18,7 @@
   - I think it would be nice to start a list of [[organizations-i-support]]
   - [[Tasks Dump]]
   - I need to transfer my [[Rough CV Planning 2024]]
-  - [[Study Techniques and Habits]]
+  - [[study-techniques-and-habits]]
   - [[open-source-appropriate-technology]]
   - [[Uncategorized Product and Service Ideas]]
   - I need an area for my, shall I say, [[Exploratory Theoretical Concepts]]
@@ -32,11 +32,11 @@
     - This would be a very interesting idea to test out with [[Scientific Press Beta]] as the main [[structural components]] built around the produced sheets to create structural products.
   - Once I have the money I would like to buy a [[flipper-zero]].
     - For fun and education of course.
-  - [[Superconformal Electrodeposition]]
+  - [[superconformal-electrodeposition]]
   - [[liquid-metal-printing]]
   - [[leidenfrost-effect]]
   - [[Noam Chomsky]]
-  - [[Scripting in KiCAD]]
+  - [[scripting-in-kicad]]
   - [[fully-scripted-open-source-topology-optimization]]
   - Finally, inner peace (TEMP-DO) is done.
 - Now onto real work (yay).

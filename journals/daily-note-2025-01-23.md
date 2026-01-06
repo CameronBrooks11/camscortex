@@ -7,7 +7,7 @@ foam_template:
 
 # Journal Entry, Thursday, January 23
 
-Worked on  [[the process paper]]
+Worked on  [[the-process-paper]]
 
 
 [the process paper]: <../notes/the process paper> "the process paper"

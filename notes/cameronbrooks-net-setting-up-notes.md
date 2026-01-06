@@ -1,4 +1,4 @@
-# Setting up CameronBrooks-net
+# CameronBrooks-net Setting up Notes
 
 - name is `website-ip-address`
   - `34.130.76.199`

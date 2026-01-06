@@ -41,7 +41,7 @@
   - [[adaptable-open-source-health-monitoring-wearable]]
   - [[3d-printing-of-coral-structures]]
   - [[Flexible Mobile Work Station for Scientists, Engineers and Innovators]]
-  - [[Recycling of Industrial Waste to 3D Printing Filament Additives]]
+  - [[recycling-of-industrial-waste-to-3d-printing-filament-additives]]
   - [[ai-driven-cad-and-open-source-hardware-network]]
   - [[Smart Modular & Augmentable Plant Enclosure]]
 - ### Idea Fragments

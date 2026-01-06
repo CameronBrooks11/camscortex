@@ -4,7 +4,7 @@
   - Wim Hof
     - Cold exposure
     - Breathing
-- [[Things to Learn]]
+- [[things-to-learn]]
   - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html?utm_source=tldrnewsletter)
     - Autograd engine
 - Company that does [[free-open-source-hardware]] and [[cocreation]]

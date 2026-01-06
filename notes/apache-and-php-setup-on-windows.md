@@ -72,7 +72,7 @@ phpinfo();
 
 - **Test PHP**
   - Visit `http://localhost/info.php` in a browser.
-- _See:_ [[Uninstalling Apache and PHP from Windows]]
+- _See:_ [[uninstalling-apache-and-php-from-windows]]
 - _See:_ [[kanboard-setup-on-windows-with-apache-and-php]]
 
 

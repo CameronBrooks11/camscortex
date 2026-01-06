@@ -51,14 +51,14 @@
 
 ## Subtopics in Dynamics
 
-- [[Uniform Rectilinear Motion]]
-- [[Uniformly Accelerated Rectilinear Motion]]
+- [[uniform-rectilinear-motion]]
+- [[uniformly-accelerated-rectilinear-motion]]
 - [[motion-of-several-particles]]
 - [[Graphical Solution of Rectilinear Motion Problems]]
 - [[Other Graphical Methods]]
 - [[Position Vector, Velocity, and Acceleration]]
 - [[derivatives-of-vector-functions]]
-- [[Rectangular Components of Velocity and Acceleration]]
+- [[rectangular-components-of-velocity-and-acceleration]]
 - [[motion-relative-to-a-frame-in-translation]]
 - [[Tangential and Normal Components]]
 - [[Radial and Transverse Components]]

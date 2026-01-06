@@ -1,4 +1,4 @@
-# Self Host Setup CameronBrooks-net
+# CameronBrooks-net Self Host Setup 
 
 ## Step 2: Configure Firewall
 

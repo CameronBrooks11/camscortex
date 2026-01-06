@@ -46,7 +46,7 @@ A 3D printer is a machine that creates three-dimensional objects by adding mater
     - **Variations**: PLA, ABS, PETG.
       - **Recent Advancements**: Biodegradable materials.
   - **Software**
-    - **[[Slicing Software]]**: Translates models.
+    - **[[slicing-software]]**: Translates models.
     - **Variations**: Cura, PrusaSlicer.
       - **Recent Advancements**: Adaptive slicing.
     - **Firmware**: Onboard control.

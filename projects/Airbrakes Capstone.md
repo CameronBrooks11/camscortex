@@ -6,7 +6,7 @@
 - # Airbrakes Capstone
 
 - *Engineering Design Project Template*
-- **Category:** [[Aerospace Engineering]], [[Rocketry]], [[Control Systems]]
+- **Category:** [[Aerospace Engineering]], [[rocketry]], [[Control Systems]]
 - **Start Date:** September 9th
 - **Estimated End Date:** April 10th
 - **Milestones:**
@@ -29,7 +29,7 @@
 - ## Design Objectives
 	- **Objective 1:** Design, manufacture, and test airbrakes for a sounding rocket to apply an optimal drag profile to precisely target 10,000ft apogee.
 	- **Objective 2:** Create a mechanism capable of achieving Objective 1 while having minimal effect on other subsystems to maintain safe flight.
-	- **Objective 3:** Ensure detailed and comprehensive documentation to provide to [[WE Rocketry Team]] to ensure the project's sustainability and future success.
+	- **Objective 3:** Ensure detailed and comprehensive documentation to provide to [[we-rocketry-team]] to ensure the project's sustainability and future success.
 - ## Design Concept and Development
 	- **Initial Concept:** [Describe the initial design concept] *(Detail the original concept ideas and inspirations)*
 	- **Design Development:** [Describe the development process of the design] *(Explain how the design is evolved and refined)*
@@ -43,7 +43,7 @@
 - ## Resources and Tools
 	- **Design Software:** [[SolidWorks]], [[Jupyter]], [[Python]], [[KiCAD]]
 	- **Materials:** [List of materials for prototyping] *(List all materials required for creating prototypes)*
-	- **Budget:** $800 CAD from [[MME 4499]] , $1000 from [[Protospace]], unspecified from [[WE Rocketry Team]]
+	- **Budget:** $800 CAD from [[MME 4499]] , $1000 from [[Protospace]], unspecified from [[we-rocketry-team]]
 - ## Timeline and Milestones
 	- **Group Selection & Formation:** *September 12th, 2023* - Giorgio Chassikos, Cameron Brooks, Brett MacDonald, Shelby Mior
 	- **Establishment of Project Requirements & Scope:** *September 29th, 2023* - Establishment of a realistic and accurate project scope, including technical targets, team roles, responsibilities, and a preliminary project timeline. This initial phase for establishing planning, scheduling, and monitoring of progress, taking into account planned activities and possible project risks.
