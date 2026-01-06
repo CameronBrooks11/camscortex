@@ -3,6 +3,6 @@
 - 12.3: [[Linear Momentum of a Particle and Rate of Change of Linear Momentum]]
 - 12.4: [[Systems of Units]]
 - 12.5: [[Equations of Motion]]
-- 12.6: [[Dynamic Equilibrium]]
+- 12.6: [[dynamic-equilibrium]]
 - 12.7: [[angular-momentum-of-a-particle-and-rate-of-change-of-angular-momentum]]
 - 12.8: [[]]

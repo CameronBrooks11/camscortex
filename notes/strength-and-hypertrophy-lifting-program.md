@@ -1,0 +1,94 @@
+# Strength and Hypertrophy Lifting Program
+
+The following is a structured five-day lifting program designed to target hypertrophy and strength across different muscle groups. Each day focuses on specific exercises with designated sets, reps, and weights.
+
+- Day 1: Legs Hypertrophy
+  - Standing calf raises
+    - Reps: 4x10
+    - Weight: X
+  - Squats
+    - Reps: 4x8
+    - Weight: X
+  - Leg press
+    - Reps: 3x10
+    - Weight: X
+  - Leg extensions
+    - Reps: 3x10
+    - Weight: X
+- Day 2: Upper Body Hypertrophy
+  - Bench press
+    - Reps: 4x8
+    - Weight: X
+  - Lat pulldowns
+    - Reps: 3x10
+    - Weight: X
+  - Overhead barbell press
+    - Reps: 4x8
+    - Weight: X
+  - Bicep curls
+    - Reps: 3x10
+    - Weight: X
+  - Dumbbell shoulder press light
+    - Reps: 3x10
+    - Weight: X
+- Day 3: Full Body
+  - Deadlift
+    - Reps: 4x8
+    - Weight: X
+  - Rows
+    - Reps: 4x8
+    - Weight: X
+  - Split squats
+    - Reps: 3x10
+    - Weight: X
+  - Skullcrushers one hand
+    - Reps: 3x10
+    - Weight: X
+  - Farmers carry
+    - Duration: 3x90 sec
+    - Weight: X
+- Day 4: Legs Strength
+  - Standing calf raises
+    - Reps: 4x5
+    - Weight: X
+  - Squats
+    - Reps: 4x3
+    - Weight: X
+  - Leg press
+    - Reps: 3x5
+    - Weight: X
+  - Leg extensions
+    - Reps: 3x5
+    - Weight: X
+- Day 5: Upper Body Strength
+  - Bench press
+    - Reps: 4x3
+    - Weight: X
+  - Lat pulldowns
+    - Reps: 3x5
+    - Weight: X
+  - Overhead barbell press
+    - Reps: 4x3
+    - Weight: X
+  - Bicep curls
+    - Reps: 3x5
+    - Weight: X
+  - Dumbbell shoulder press
+    - Reps: 3x5
+    - Weight: X
+- Day 6: Full Body Strength
+  - Deadlift
+    - Reps: 4x2
+    - Weight: X
+  - Rows
+    - Reps: 4x3
+    - Weight: X
+  - Split squats
+    - Reps: 3x5
+    - Weight: X
+  - Skullcrushers one hand
+    - Reps: 3x5
+    - Weight: X
+  - Farmers carry
+    - Duration: 3x30 sec
+    - Weight: X

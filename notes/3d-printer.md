@@ -18,7 +18,7 @@ A 3D printer is a machine that creates three-dimensional objects by adding mater
       - **Recent Advancements**: Rapid heating technologies.
     - **Build Surface**: Where printing occurs.
     - **Variations**: PEI, BuildTak, glass.
-  - **3D Printer [[Extrusion System]]**
+  - **3D Printer [[material-extrusion-system]]**
     - **Extruder**: Feeds filament.
     - **Variations**: Direct Drive, Bowden Drive.
       - **Recent Advancements**: Geared extruders for increased torque.

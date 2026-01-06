@@ -1,6 +1,6 @@
 # Logseq Journal - July 28, 2023
 
-- I will start my journey with [[Logseq]] by writing about [[Evergreen Notes]]
+- I will start my journey with [[Logseq]] by writing about [[evergreen-notes]]
 - I will split my notes (atoms) into [[page categories]]
 - I need to [[track my transfer to evergreen notes]]
 

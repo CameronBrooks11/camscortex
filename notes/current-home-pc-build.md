@@ -1,4 +1,4 @@
-# Current PC Build
+# Current Home PC Build
 
 - Planned: April, 2021
 - Built: July 2021
@@ -57,6 +57,4 @@
   - **Name:** Dell 27" FHD 75Hz 8ms GTG IPS LED FreeSync Gaming Monitor (SE2719HR)
   - **Status:** Shipping (BestBuy)
 
-
 [Planned PC Build December 2020]: <Planned PC Build December 2020> "Planned PC Build December 2020"
-

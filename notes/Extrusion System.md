@@ -1,1 +1,0 @@
-- Two main types: [[Bowden Drive]] and [[Direct Drive]]

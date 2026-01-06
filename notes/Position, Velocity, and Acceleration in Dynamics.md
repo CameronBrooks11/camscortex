@@ -60,7 +60,7 @@
 - Derived by eliminating \( dt \) in the velocity and acceleration equations.
 - \( a = v \frac{dv}{dx} \).
 
-- 11.3: [[Determination of the Motion of a Particle]]
+- 11.3: [[determination-of-the-motion-of-a-particle]]
 
 
 [Determination of the Motion of a Particle]: <Determination of the Motion of a Particle> "Determination of the Motion of a Particle"

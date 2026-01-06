@@ -4,7 +4,7 @@
 - Free and Open Source Hardware
 - See also:
 
-  - [[Free Open Source Software]]
+  - [[free-open-source-software]]
   - [[Open Source Appropriate Technology]]
 
 ## Organizations & Repositories

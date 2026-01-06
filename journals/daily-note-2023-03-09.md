@@ -7,7 +7,7 @@
 - [[Things to Learn]]
   - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html?utm_source=tldrnewsletter)
     - Autograd engine
-- Company that does [[Free Open Source Hardware]] and [[cocreation]]
+- Company that does [[free-open-source-hardware]] and [[cocreation]]
   - https://firstbuild.com/inventions/mella/
 - [[Cool Innovations]]
 - [[ideas]]

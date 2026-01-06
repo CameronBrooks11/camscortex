@@ -36,7 +36,7 @@
   - [[Morphable Mold for Custom Rapid Casting]]
   - [[adaptable-molding-device]]
   - [[Electrolyzed Hydrogen Production]]
-  - [[FOSH Hospital Equipment]]
+  - [[listing-of-common-hospital-equipment]]
   - [[Sheet Press Applications]]
   - [[adaptable-open-source-health-monitoring-wearable]]
   - [[3d-printing-of-coral-structures]]

@@ -1,5 +1,9 @@
 # Electrical grounding
 
+The definition of grounding can vary depending on the context. The most general definition could be the reference point in an electrical circuit from which voltages are measured, a common return path for electric current, or a direct physical connection to the Earth.
+
+Here are some specific definitions related to electrical grounding:
+
 - Earth:
   - In electrical systems, "earth" refers to the grounding of electrical equipment to the Earth's surface.
   - It provides a safe path for electric current to flow into the ground, preventing the buildup of dangerous voltages and reducing the risk of electric shock.

@@ -4,7 +4,7 @@
   - Wellness pods
   - Test at universities
   - NSDR, napping, etc.
-- Places to search for [[Free Open Source Hardware]]
+- Places to search for [[free-open-source-hardware]]
   - OSF
   - GitHub
   - HardwareX

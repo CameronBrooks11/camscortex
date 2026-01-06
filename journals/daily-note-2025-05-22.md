@@ -7,6 +7,6 @@ foam_template:
 
 # Journal Entry, Thursday, May 22
 
-- Finally figured out the confusion around [[Flow vs Extrusion Multiplier in slic3r]]
+- Finally figured out the confusion around [[flow-versus-extrusion-multiplier-in-slic3r]]
 
 [Flow vs Extrusion Multiplier in slic3r]: <../notes/Flow vs Extrusion Multiplier in slic3r> "Flow vs Extrusion Multiplier in slic3r"

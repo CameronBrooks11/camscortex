@@ -57,7 +57,7 @@
 - [[Graphical Solution of Rectilinear Motion Problems]]
 - [[Other Graphical Methods]]
 - [[Position Vector, Velocity, and Acceleration]]
-- [[Derivatives of Vector Functions]]
+- [[derivatives-of-vector-functions]]
 - [[Rectangular Components of Velocity and Acceleration]]
 - [[Motion Relative to a Frame in Translation]]
 - [[Tangential and Normal Components]]

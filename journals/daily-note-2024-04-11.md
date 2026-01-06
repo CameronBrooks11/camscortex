@@ -1,7 +1,7 @@
 # Logseq Journal - April 11, 2024
 
 - Since starting to help with the [[Roto Isolated Thermocouple Driver]] for the [[Rotoforge Project]] I've been looking into advanced tools and methods for high-sped PCB design
-  - Learned out [[Copper Thieving]] while looking for KiCAD tools for this (https://github.com/mrussell42/copper_thief)
+  - Learned out [[copper-thieving]] while looking for KiCAD tools for this (https://github.com/mrussell42/copper_thief)
   - A good resource for developing boards in [[KiCAD]] using a keyboard as an example: (keyboard-pcb-design)[https://github.com/ruiqimao/keyboard-pcb-guide]
   - I believe [[Antmicro]] has what I've been looking for in their blog on [High-frequency hardware design with open source signal integrity analysis](https://antmicro.com/blog/2023/11/open-source-signal-integrity-analysis/)
     - for this they created [github.com/antmicro/gerber2ems](https://github.com/antmicro/gerber2ems) which takes production files and simulates trace signal integrity performance using [openEMS](https://www.openems.de/)

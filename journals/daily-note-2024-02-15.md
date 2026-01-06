@@ -19,7 +19,7 @@
 	- Encoders that are still valid from the mess before
 		- https://www.digikey.ca/en/products/detail/bourns-inc/PER231-P19-N0010/14641662
 		- https://www.digikey.ca/en/products/detail/bourns-inc/PER211-P115-N0009/14641663
-- [[Jupyter]] and [[FreeCAD]]
+- [[Jupyter]] and [[freecad]]
 	- https://forum.freecad.org/viewtopic.php?t=76689
 	- https://forum.freecad.org/viewtopic.php?p=685783
 - [[Browser Dump]]

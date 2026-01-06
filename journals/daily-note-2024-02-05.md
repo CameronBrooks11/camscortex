@@ -7,7 +7,7 @@
   - Additionally, my [[Airbrakes Capstone]] professor's reference to "the death of the analytical engineer" amidst the rise of CAD and electronic design automation (EDA) technologies underscores a pivotal shift in engineering paradigms. This transition suggests that while traditional analytical skills remain crucial, the future of engineering lies in leveraging computational tools to translate intricate problems into digital solutions efficiently. Once a problem is thoroughly understood, it can be swiftly encoded into a digital format, bridging the gap between conceptualization and realization.
   - Ultimately, this thesis posits that by leveraging AI and open-source software, it is possible to produce comprehensive designs that not only facilitate the conversion of digital data into physical objects (from "bits" to "atoms") but also ensure that these designs are easily shareable and replicable. This approach not only democratizes the design process but also enhances collaborative efforts, paving the way for a new era of engineering that balances innovation with accessibility.
 
-- [[FAST Research Group]] [[FAST Weekly Meeting]]
+- [[fast-research-group]] [[FAST Weekly Meeting]]
   - Did a lot of Appropedia writing on my profile, lit reviews, info pages, and methods
   - Swapped and dialed in the big printers for actually doing big printing
   - The fume hood is in in TEB6!

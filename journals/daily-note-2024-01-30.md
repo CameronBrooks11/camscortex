@@ -15,7 +15,7 @@
 		- https://ca.robotshop.com/products/12v-350ma-28oz-in-nema-17-bipolar-stepper-motor
 		- https://ca.robotshop.com/products/555-size-dc-motor-with-encoder-12v-8000-rp
 	- Use a [[DC motor]] with an [[encoder]] over something like a MG-style servo or NEMA 17 pancake [[stepper motor]]
-- All the openscad stuffs: --> moved to [[Directory of Programmatic Modelling Software]]
+- All the openscad stuffs: --> moved to [[listing-of-programmatic-modelling-software]]
 - Worked on [[GSoC 2024 Project Planning: Simple Library Manager/Downloader for OpenSCAD Scripts]]
 -
 

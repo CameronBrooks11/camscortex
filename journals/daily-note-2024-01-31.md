@@ -1,6 +1,6 @@
 # Logseq Journal - January 31, 2024
 
-- [[FAST Research Group]]
+- [[fast-research-group]]
 	- Worked on the literature review template: https://www.appropedia.org/Literature_Review:_Template_1
 - Removed the courses I've taken from Appropedia
   
