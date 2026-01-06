@@ -26,7 +26,7 @@
 -
 - ## Ideas
   collapsed:: true
-  - [[High-Precision Open Source LiDAR Scanner]]
+  - [[high-precision-open-source-lidar-scanner]]
   - [[Web Application for Processing Image Input to 3D Model]]
   - [[Open Source Locally Manufactured Insulin]]
   - [[complete-open-source-system-for-everyday-necessities]]

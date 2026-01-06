@@ -14,7 +14,7 @@
   - [[Neural Engineering]]
   - [[ChatGPT]]
   - [[Modular Vertical Farming]]
-  - I haven't played [[Golf]] in a while but I have stuff to write out and transfer including [[Golf Courses I've Played]], [[Parts of a Golf Club]], [[Golf Ball Placement]], [[Golf Swing]], [[Golf Grip]] and [[Tips for Golf Short Game]]
+  - I haven't played [[golf]] in a while but I have stuff to write out and transfer including [[golf-courses-played]], [[Parts of a Golf Club]], [[Golf Ball Placement]], [[golf-swing]], [[golf-grip]] and [[Tips for Golf Short Game]]
   - I think it would be nice to start a list of [[Organizations I Support]]
   - [[Tasks Dump]]
   - I need to transfer my [[Rough CV Planning 2024]]
@@ -37,7 +37,7 @@
   - [[Leidenfrost Effect]]
   - [[Noam Chomsky]]
   - [[Scripting in KiCAD]]
-  - [[Fully Scripted Open Source Topology Optimization]]
+  - [[fully-scripted-open-source-topology-optimization]]
   - Finally, inner peace (TEMP-DO) is done.
 - Now onto real work (yay).
 

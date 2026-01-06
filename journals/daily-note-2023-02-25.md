@@ -1,6 +1,6 @@
 # Logseq Journal - 2023-02-25
 
-- Getting started with [[Hugging Face]]
+- Getting started with [[hugging-face]]
 
   - Tried to `pip3 install torch torchvision torchaudio `
     - But got `ERROR: Could not find a version that satisfies the requirement torch (from versions: none) ERROR: No matching distribution found for torch`

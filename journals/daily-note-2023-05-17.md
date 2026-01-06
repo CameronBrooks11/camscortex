@@ -55,11 +55,21 @@
           - Configuration Made Easier: Follow simple direction for assembling; accessible trigger pins reduces firmware configuration shenanigans before events.
           - More stable firmware package than competition while setting standard of silence on ground with modules self-healing. Light weight chip packages available regardless of extended functionality compared to competition allowing smaller rockets for longer glide periods. Improved natural frequencies design attenuates shock loads due to impact forces
 
-[Evergreen Notes]: <../notes/Evergreen Notes> "Evergreen Notes"
+
 [WE Rocketry]: <../notes/WE Rocketry> "Meeting Notes"
-[Avionics]: ../notes/Avionics "Avionics"
+
+
 [prototyping]: ../notes/prototyping "prototyping"
-[Cable Management]: <../notes/Cable Management> "Cable Management"
-[3D Printing]: <../notes/3D Printing> "3D Printing"
+
+
+
+
 [Radio Frequency]: <../notes/Radio Frequency> "Radio Frequency"
-[electromagnetic interference]: <../notes/electromagnetic interference> "electromagnetic interference"
+
+
+
+
+[evergreen-notes]: ../notes/evergreen-notes "Evergreen Notes"
+[cable-management]: ../notes/cable-management "Cable Management"
+[3d-printing]: ../notes/3d-printing "3D Printing"
+[electromagnetic-interference]: ../notes/electromagnetic-interference "Electromagnetic Interference"

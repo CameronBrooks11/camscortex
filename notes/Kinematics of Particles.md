@@ -5,7 +5,7 @@
 - 11.4: [[Uniform Rectilinear Motion]]
 - 11.5: [[Uniformly Accelerated Rectilinear Motion]]
 - 11.6: [[Motion of Several Particles]]
-- 11.7, 11.8: [[Graphical Solutions of Rectilinear Motion Problems]]
+- 11.7, 11.8: [[graphical-solutions-of-rectilinear-motion-problems]]
 - 11.9: [[Position Vector, Velocity, and Acceleration in Curvilinear Motion]]
 - 11.10: [[derivatives-of-vector-functions]]
 - 11.11: [[Rectangular Components of Velocity and Acceleration]]

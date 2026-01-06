@@ -1,4 +1,4 @@
-- HuggingFace interface for researchers and designers FAST [[How to Change the World]]
+- HuggingFace interface for researchers and designers FAST [[how-to-change-the-world]]
 - FAST
   - Thesis for electroforming OR flexible resistive heating power supply in place of capstone
   - Wiki on OSH electrical design

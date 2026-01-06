@@ -1,3 +1,6 @@
 # Golf
 
-- Some [[Golf Rules and Customs]]
+- Some [[golf-rules-and-customs]]
+
+
+[golf-rules-and-customs]: golf-rules-and-customs "Golf Rules and Customs"
