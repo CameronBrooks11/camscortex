@@ -1,6 +1,6 @@
 # Listing of Common Hospital Equipment
 
-- [[Electro surgical unit]]: A device used in surgery to cut tissue or seal blood vessels using high-frequency electrical currents.
+- [[electro-surgical-unit]]: A device used in surgery to cut tissue or seal blood vessels using high-frequency electrical currents.
 - [[Video laryngoscope]]: A tool for visualizing a patient's airway during intubation, with a camera at the end for better guidance and training.
 - [[Defibrillator]]: A life-saving device that delivers a dose of electric current to the heart to treat life-threatening cardiac dysrhythmias.
 - [[Patient monitor]]: Equipment for monitoring a patient’s vital signs like heart rate, blood pressure, and oxygen saturation.

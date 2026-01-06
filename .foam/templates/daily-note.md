@@ -24,7 +24,7 @@ foam_template:
   - ...
 - Key issues encountered / resolved:
   - ...
-- Links to notes or resources created today:
+- Links any _significant_ notes or resources created today:
   - [[RelatedNote1]]
 
 ## ☑️ Blockers / To-Do for Tomorrow
