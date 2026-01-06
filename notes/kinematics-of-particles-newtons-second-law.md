@@ -1,6 +1,6 @@
 - 12.1: Introduction
 - 12.2: [[Newton's Second Law of Motion]]
-- 12.3: [[Linear Momentum of a Particle and Rate of Change of Linear Momentum]]
+- 12.3: [[linear-momentum-of-a-particle-and-rate-of-change-of-linear-momentum]]
 - 12.4: [[Systems of Units]]
 - 12.5: [[Equations of Motion]]
 - 12.6: [[dynamic-equilibrium]]

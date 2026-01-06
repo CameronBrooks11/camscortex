@@ -6,7 +6,7 @@
   - **Collaboration**: Facilitating partnerships and projects among members to drive innovation and solve common challenges through open technologies.
   - **Standardization**: Working towards the development and adoption of open standards to ensure compatibility and interoperability among technologies and platforms.
   - **Networking**: Providing a platform for members to share knowledge, resources, and best practices, fostering a vibrant community of open technology advocates.
-- [[Interaction Between the Consortium and the Foundation]]
+- [[interaction-between-the-consortium-and-the-foundation]]
 
 
 [Interaction Between the Consortium and the Foundation]: <Interaction Between the Consortium and the Foundation> "Interaction Between the Consortium and the Foundation"

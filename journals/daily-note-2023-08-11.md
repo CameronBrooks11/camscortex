@@ -2,11 +2,11 @@
 
 - This is the beginning of my atomization of [[3d-printing]]
 - An interesting [[Research Group]] I found at [[UBC]]: [[Berlinguette Research Institute]]
-- [[Juno Space Probe]] is very cool
+- [[juno-space-probe]] is very cool
 - I wonder if I've started a [[Rocketry]] page yet? Appears not!
 - Something about a [[Punch and Die Set]]
 - Cool person: [[Tarek Loubani]]
-- An [[ECE]] topic: what is an [[MCU]]?
+- An [[ECE]] topic: what is an [[microcontroller-unit]]?
 - [[OpenSecrets]]
 - [[Varda Space Industries]]
 

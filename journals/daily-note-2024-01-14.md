@@ -34,7 +34,7 @@
     - For fun and education of course.
   - [[Superconformal Electrodeposition]]
   - [[Liquid Metal Printing]]
-  - [[Leidenfrost Effect]]
+  - [[leidenfrost-effect]]
   - [[Noam Chomsky]]
   - [[Scripting in KiCAD]]
   - [[fully-scripted-open-source-topology-optimization]]

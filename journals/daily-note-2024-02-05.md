@@ -22,7 +22,7 @@
     - Going to use https://github.com/thingsboard/thingsboard
   - [[Pipe-Fitting-SCAD]]
     - Made a literature and design review
-  - [[ISCI3D]]
+  - [[isci3d]]
     - Built the printer so far and mounting the gantry
 
 

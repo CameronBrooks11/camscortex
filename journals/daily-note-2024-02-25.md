@@ -21,7 +21,7 @@
   - Main issue with Kalman filtering is tuning it
   - Add error modes and worst into algo testing
   - Barometer velocity vs IMU velocity
-- For [[ISCI3D]] for import to [[PicoGK]] using [kicad-source-mirror/pcbnew/exporters/step/](https://github.com/KiCad/kicad-source-mirror/tree/2f6c9d1f3ad4c2b44ec2e9c86b998cdd791648e7/pcbnew/exporters/step)
+- For [[isci3d]] for import to [[PicoGK]] using [kicad-source-mirror/pcbnew/exporters/step/](https://github.com/KiCad/kicad-source-mirror/tree/2f6c9d1f3ad4c2b44ec2e9c86b998cdd791648e7/pcbnew/exporters/step)
 
 
 [ISCI3D]: ../notes/ISCI3D "ISCI3D"

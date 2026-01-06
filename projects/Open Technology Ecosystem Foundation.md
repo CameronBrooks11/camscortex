@@ -6,7 +6,7 @@
   - **Project Support**: Providing resources, tools, and expertise to assist projects at various stages of development, from inception to deployment.
   - **Education and Outreach**: Developing and disseminating educational materials and programs to raise awareness about open technologies, their benefits, and how to contribute to their growth.
   - **Guidance and Governance**: Establishing guidelines, best practices, and governance models to ensure that projects and initiatives adhere to the principles of openness, inclusivity, and collaboration.
-- [[Interaction Between the Consortium and the Foundation]]
+- [[interaction-between-the-consortium-and-the-foundation]]
 
 
 [Interaction Between the Consortium and the Foundation]: <Interaction Between the Consortium and the Foundation> "Interaction Between the Consortium and the Foundation"
