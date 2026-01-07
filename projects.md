@@ -2,7 +2,7 @@
 
 ## DUMP
 
-- ISCI3D 
+- ISCI3D
 - Industrial press (csa and functioning)
 - Mini press (revise, fix, get working)
 - (photo)bioreactor (feast stack mvp)
@@ -13,9 +13,38 @@
 - loc line SCAD
 - pioreactor cluster enclosure
 - probes in pioreactors (ph, do, etc)
-- pressure cooker furnace 
+- pressure cooker furnace
 - bricked layers (and other TenTreeTech slicer post processors; extend to orcaslicer?)
-- 
+
+- Scientific Press Alpha
+- Airbrakes Capstone
+- SnapTessSCAD
+- Industrial Press
+- Scientific Press Beta
+- isci3d
+- Hi-Rel Modular Bio-Chem Reactor
+- Pipe-Fitting-SCAD
+- AMBB
+- intelli-light
+
+- DraftSCAD
+- GeoGrow
+- component-expansion-additive-manufacture-system
+- FEMORA-One
+- Hypochlorous Acid Generator
+- TraceSculptor
+- Project Icarus
+- Fabricatus-Astra
+- MakerPackager
+- Conductive Deposition for 3D Printing (ElectroformStudio)
+- OpenSCAD Package Manager
+- DARPA Dryer
+- Scalable Open Induction Heating
+- Open Source Scraper and Search Engine
+- Open Source Embroidery Machine
+- ChainMeshSCAD
+- Resistive Heating Element Manufacturing
+- docu-scribe
 
 ## Research Projects
 
@@ -65,15 +94,12 @@
 
 ## Rocketry Projects
 
-- **Done**
-  - Airbrakes
-- **Current**
-  - Hyp2
-  - SRAD FC
-  - Test stand
-- **Future**
-  - BR payload 2
-  - Fabricatus-Astra
+- Airbrakes
+- Hyp2
+- SRAD FC
+- Test stand
+- BR payload 2
+- Fabricatus-Astra
 
 ## Misc Projects
 

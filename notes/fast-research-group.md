@@ -16,21 +16,21 @@
   - Active
     - | Project Page                            | Literature Review | Paper Outline | Methods & Materials | Results | Discussion & Conclusion | Paper Revision & Edits | Peer Review |
       | --------------------------------------- | ----------------- | ------------- | ------------------- | ------- | ----------------------- | ---------------------- | ----------- |
-      | `⤺` [[Scientific Press Alpha]]          | `⤺`               | `⤺`           | `⤺`                 | `✓`     | `✓`                     | `X`                    | `X`         |
+      | `⤺` [[desktop-sheet-press]]          | `⤺`               | `⤺`           | `⤺`                 | `✓`     | `✓`                     | `X`                    | `X`         |
       | `⤺` [[SnapTessSCAD]]                    | `⤺`               | `⤺`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `⤺` [[Industrial Press]]                | `⤺`               | `⤺`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `⤺` [[Scientific Press Beta]]           | `⤺`               | `⤺`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `⤺` [[industrial-press]]                | `⤺`               | `⤺`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `⤺` [[scientific-press-beta]]           | `⤺`               | `⤺`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `⤺` [[isci3d]]                          | `⤺`               | `⤺`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `⤺` [[Hi-Rel Modular Bio-Chem Reactor]] | `⤺`               | `⤺`           | `~`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `⤺` [[high-reliability-modular-biological-chemical-reactor]] | `⤺`               | `⤺`           | `~`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `⤺` [[Pipe-Fitting-SCAD]]               | `?`               | `?`           | `✓`                 | `X`     | `X`                     | `X`                    | `X`         |
   - Inactive
     collapsed:: true
     - | Project Page                                                      | Literature Review                                                                                       | Paper Outline | Methods & Materials | Results | Discussion & Conclusion | Paper Revision & Edits | Peer Review |
       | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------- | ------------------- | ------- | ----------------------- | ---------------------- | ----------- |
-      | `X` [[GeoGrow]]                                                   | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `X` [[ChainMeshSCAD]]                                             | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `X` [[SOSSAL]]                                                    | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `⤺`[[DraftSCAD]]                                                  | `~`                                                                                                     | `~`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `X` [[geogrow]]                                                   | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `X` [[chainmeshscad]]                                             | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `X` [[sossal]]                                                    | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `⤺`[[draftscad]]                                                  | `~`                                                                                                     | `~`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[component-expansion-additive-manufacture-system]]           | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[Hypochlorous Acid Generator]]                               | `X` [Appropedia](https://www.appropedia.org/Literature_Review:_Open_Source_Hypochlorous_Acid_Generator) | `X`           | `S`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[TraceSculptor]]                                             | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
@@ -38,9 +38,9 @@
       | `X` [[MakerPackager]]                                             | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[conductive-deposition-for-3d-printing]] | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[OpenSCAD Package Manager]]                                  | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `⤺` [[DARPA Dryer]]                                               | `S`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `X` [[Scalable Open Induction Heating]]                           | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `X` [[Custom Resistive Elements]]                                 | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `⤺` [[vacuum-dryer]]                                               | `S`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `X` [[induction-heating-system]]                           | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
+      | `X` [[resistive-heating-element-manufacturing]]                                 | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
   - Complete
     collapsed:: true
     - | Project Page                                | Literature Review | Paper Outline | Methods & Materials | Results | Discussion & Conclusion | Paper Revision & Edits | Peer Review |
@@ -48,7 +48,7 @@
       | `✓` [[additive-manufacture-breakout-board]] | `✓`               | `✓`           | `✓`                 | `✓`     | `✓`                     | `✓`                    | `✓`         |
 - ## Current Projects
   - [[Additive Manufacture Breakout Board (AMBB)]]
-  - [[Hypochlorous Acid Generation (HOCl)]]
+  - [[hypochlorous-acid-generation]]
   - [[Libre Press]]
   - [[Frugal Bioreactor (FBR)]]
   - [[Open Source Appropriate Technology (OSAT) Organizations Network]]

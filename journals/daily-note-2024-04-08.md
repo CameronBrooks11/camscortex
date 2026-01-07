@@ -1,6 +1,6 @@
 # Logseq Journal - April 8, 2024
 
-- [[Airbrakes Capstone]]
+- [[airbrakes]]
   - HE A1324
     - https://www.mouser.ca/ProductDetail/Allegro-MicroSystems/A1324LUA-T?qs=pUKx8fyJudBUC88nLLVlug%3D%3D
   - Slide switch SPDT
@@ -12,7 +12,7 @@
     - 4kHz: https://www.mouser.ca/ProductDetail/CUI-Devices/CPT-2207-90T?qs=HoCaDK9Nz5fpVeCabVBaBg%3D%3D
   - Li ion cells
     - https://www.18650batterystore.com/en-ca/collections/18650-batteries/products/panasonic-ncr18650ga-ga6
-- [[Airbrakes Capstone]] PCB design
+- [[airbrakes]] PCB design
   - battery holder
     - [keystone 1042 18650](https://www.digikey.ca/en/products/detail/keystone-electronics/1042/2745668)
   - high density connectors and CB for portenta

@@ -1,9 +1,9 @@
 # Logseq Journal - March 26, 2024
 
-- SimSCAPE for MPC for [[Airbrakes Capstone]]
+- SimSCAPE for MPC for [[airbrakes]]
   - Then do simulink for aero
 - Arrange meeting with Makaran for figuring out wiring!!!
-- Dump for MOS-BR [[Hi-Rel Modular Bio-Chem Reactor]] [[Cube Cell Bioreactor System Alpha]] [[MOSS Reactor]]
+- Dump for MOS-BR [[high-reliability-modular-biological-chemical-reactor]] [[Cube Cell Bioreactor System Alpha]] [[MOSS Reactor]]
   - TODO merge these page names together
   - https://datasheets.raspberrypi.com/hat/hat-plus-specification.pdf
   - [[Rockit]]

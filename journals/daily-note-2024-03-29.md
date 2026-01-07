@@ -1,6 +1,6 @@
 # Logseq Journal - March 29, 2024
 
-- [[Hi-Rel Modular Bio-Chem Reactor]] dump
+- [[high-reliability-modular-biological-chemical-reactor]] dump
   - DC Motor pumps
     - https://ca.robotshop.com/products/dfrobot-370-mini-vacuum-pump
     - https://ca.robotshop.com/products/dfrobot-amphibious-horizontal-submersible-pump

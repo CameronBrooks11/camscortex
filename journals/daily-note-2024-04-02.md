@@ -1,6 +1,6 @@
 # Logseq Journal - April 2, 2024
 
-- [[Airbrakes Capstone]] meeting, last one!
+- [[airbrakes]] meeting, last one!
   - bins stores (oxford and sarnia)
     - best is Thursday
     - sometimes Wednesday is 2 for 1

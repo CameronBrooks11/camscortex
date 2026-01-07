@@ -1,6 +1,6 @@
 # Logseq Journal - April 17, 2024
 
-- [[Airbrakes Capstone]] [[Flight Computer]] links
+- [[airbrakes]] [[Flight Computer]] links
   - Bosch products: https://www.digikey.ca/en/product-highlight?f=1315853904&f=1506427455
     - Of interest: https://www.digikey.ca/en/product-highlight/b/bosch-sensortec/bmp390l-pressure-sensor
   - [Mouser LSM9DS1TR](https://www.mouser.ca/ProductDetail/STMicroelectronics/LSM9DS1TR?qs=4b8myOmUP%252bsiwRDrJOMxKQ%3D%3D)

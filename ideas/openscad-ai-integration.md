@@ -1,4 +1,4 @@
-# OpenSCAD AI Idea Outline
+# OpenSCAD AI Integration
 
 ## OpenSCAD AI Proposal Skeleton
 

@@ -7,7 +7,7 @@
   - https://www.digikey.ca/en/products/filter/rectangular-connectors/board-spacers-stackers-board-to-board/400?s=N4IgjCBcoLQCxVAYygMwIYBsDOBTANCAG4B2aWehA9lANogBMAbABwDMTIAuoQA4AuUECAC%20YoA
 
 - [[Computational Open Source Hardware]] for cx-OSH
-  - relates to [[OSHWA]] and [[Open Technology Ecosystem Consortium]]
+  - relates to [[OSHWA]] and [[open-technology-ecosystem-consortium]]
     - Technological Innovation Systems
 - Apply to the [[Western Entrepreneurial Summer Internship]]
   - Using [[RackRobotics]] [[Wire EDM]] system to create all metal interlocking parts for mini press to reduce machining and welding needed

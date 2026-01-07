@@ -1,6 +1,6 @@
 # Logseq Journal - February 25, 2024
 
-- [[Meeting]] with Duke to discuss [[control systems]] for [[Airbrakes Capstone]]
+- [[Meeting]] with Duke to discuss [[control systems]] for [[airbrakes]]
   - Created a simulation based on OpenRocket to add airbrakes
     - Took source code and modifed it to get sims
   - Matrix of flight plan

@@ -1,6 +1,6 @@
 # Logseq Journal - March 6, 2024
 
-- For the pogo PCB on the [[Hi-Rel Modular Bio-Chem Reactor]]
+- For the pogo PCB on the [[high-reliability-modular-biological-chemical-reactor]]
   - [Contacts for pogo](https://www.digikey.com/en/products/filter/contacts/contacts-spring-loaded-pogo-pins-and-pressure/311?s=N4IgjCBcoKxgTFUBjKAzAhgGwM4FMAaEAeygG0QBma%2BANgAYQBdIgBwBcoQBldgJwCWAOwDmIAL5EAtImghUkfgFdCJciBjNx2oA)
   - [Pogo](https://www.digikey.com/en/products/filter/contacts/contacts-spring-loaded-pogo-pins-and-pressure/311?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9CAWgBMiECkj8ArgWJkQAVmbjdQA)
     - [0906-0-15-20-76-14-11-0](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-0-15-20-76-14-11-0/1147048)

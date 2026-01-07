@@ -1,6 +1,6 @@
 # Logseq Journal - February 9, 2024
 
-- [[Motor Selection]] for [[Airbrakes Capstone]]
+- [[Motor Selection]] for [[airbrakes]]
   - [[dc-motor-sizes]]
 -
 

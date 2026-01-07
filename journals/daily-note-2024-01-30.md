@@ -10,7 +10,7 @@
 	- WESEL
 		- Work stations like in the mechatronics third floor workshop
 		- Power supplies are a priority
-- [[Airbrakes Capstone]] [[Meeting]] with Makaran, Giorgio, Shelby
+- [[airbrakes]] [[Meeting]] with Makaran, Giorgio, Shelby
 	- Some reasonable alternatives to the current servo plan
 		- https://ca.robotshop.com/products/12v-350ma-28oz-in-nema-17-bipolar-stepper-motor
 		- https://ca.robotshop.com/products/555-size-dc-motor-with-encoder-12v-8000-rp

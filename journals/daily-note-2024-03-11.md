@@ -1,6 +1,6 @@
 # Logseq Journal - March 11, 2024
 
-- [[Airbrakes Capstone]] [[controls]] searching
+- [[airbrakes]] [[controls]] searching
   - The gold
     - https://github.com/julester23/DCMotorServo
     - https://github.com/juangallostra/AltitudeEstimation/tree/master

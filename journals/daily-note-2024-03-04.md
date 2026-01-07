@@ -1,6 +1,6 @@
 # Logseq Journal - March 4, 2024
 
-- [[Airbrakes Capstone]] [[Arduino Portenta H7]] and [[Nicla Sense ME]]
+- [[airbrakes]] [[Arduino Portenta H7]] and [[Nicla Sense ME]]
 
   - For initial set up of scripts and connection between the host (portenta) and client (nicla): https://docs.arduino.cc/tutorials/nicla-sense-me/cheat-sheet/
   - Need to download/clone https://github.com/arduino/nicla-sense-me-fw

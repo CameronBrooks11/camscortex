@@ -1,4 +1,4 @@
-# Todo
+# Todo List
 
 You can create todos in Foam.
 

@@ -63,3 +63,8 @@
 	- `| Table |`: Tables are used for organizing tasks, timelines, and other structured data.
 	  
 	  ---
+
+
+[rocketry]: ../notes/rocketry "Rocketry"
+[capstone-motor-and-battery-selection]: ../notes/capstone-motor-and-battery-selection "Capstone Motor and Battery Selection"
+[we-rocketry-team]: ../notes/we-rocketry-team "WE Rocketry Team"

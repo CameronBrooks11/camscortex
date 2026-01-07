@@ -29,7 +29,7 @@
   - For my next [[laptop]] I want to get a [[framework-computer]] laptop
   - Perhaps one of the most interesting [[openscad-learning-resources]] designs I've come across that I haven't dabbled with yet is [[RepRap]]'s [[Infinite-Z-Beam]] python script which was converted to [[openscad-learning-resources]] by David Eccles.
     - The file **Z-beam.scad** is an [OpenSCAD](https://openscad.org/) set-theoretic (CSG) version by David Eccles that he did _a few hours after we released this_. **We all love open-source!**
-    - This would be a very interesting idea to test out with [[Scientific Press Beta]] as the main [[structural components]] built around the produced sheets to create structural products.
+    - This would be a very interesting idea to test out with [[scientific-press-beta]] as the main [[structural components]] built around the produced sheets to create structural products.
   - Once I have the money I would like to buy a [[flipper-zero]].
     - For fun and education of course.
   - [[superconformal-electrodeposition]]

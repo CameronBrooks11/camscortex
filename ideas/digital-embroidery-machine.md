@@ -1,4 +1,4 @@
-# Open Source Embroidery Machine
+# Digital Embroidery Machine
 
 - References to begin:
   - [open source embroidery machine - Google Search](https://www.google.com/search?q=open+source+embroidery+machine&ie=UTF-8&oe=UTF-8&hl=en-ca&client=safari)

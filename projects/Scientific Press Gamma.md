@@ -1,2 +1,0 @@
-- Theoretical third iteration on [[Scientific Press Alpha]] and [[Scientific Press Beta]]
--

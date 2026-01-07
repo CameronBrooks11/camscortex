@@ -1,6 +1,6 @@
 # Logseq Journal - March 5, 2024
 
-- [[Airbrakes Capstone]] work on algo
+- [[airbrakes]] work on algo
   - Libs
     - https://github.com/RCmags/imuFilter
     - https://github.com/rfetick/Kalman
@@ -22,7 +22,7 @@
 - [[Meeting]] with Makaran
   - thread locker on standoffs
   - physical/mechanical end stops
-- Batteries for [[Airbrakes Capstone]]
+- Batteries for [[airbrakes]]
   - https://www.18650batterystore.com/en-ca/collections/18650-batteries
   - https://www.18650batterystore.com/en-ca/products/pure-nickel-strip-1kg-roll-for-battery-spot-welding-18650-21700
   - https://www.18650batterystore.com/en-ca/products/epoch-18650-3500mah-usb-pcb

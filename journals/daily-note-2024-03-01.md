@@ -1,6 +1,6 @@
 # Logseq Journal - March 1, 2024
 
-- For [[SnapTessSCAD]] scannable animated figures used
+- For [[ilox]] scannable animated figures used
   - https://ezgif.com and https://hughchen.github.io/qr_image/ together
 - [[Yearbook]] for [[Undergraduate Engineering Society]]
   - Fiscagoma winner 328 purple

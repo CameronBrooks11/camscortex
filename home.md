@@ -1,4 +1,4 @@
-# home
+# Home
 
 This is my home where the goal is to create a home page to serve as a dashboard to keep my digital life organized.
 

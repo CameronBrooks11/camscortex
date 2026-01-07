@@ -1,6 +1,6 @@
 # Logseq Journal - February 10, 2024
 
-- [[Airbrakes Capstone]]
+- [[airbrakes]]
   - Motor circuit design
     - MOTOR: [HC385MG-304](https://www.digikey.ca/en/products/detail/johnson-motor/HC385MG-304/12719602?utm_adgroup=Solenoids%2C%20Actuators&utm_id=bi_cmp-384475331_adg-1304021015492344_ad-81501362628365_pla-4585100930878251_dev-c_ext-_prd-12719602&productid=12719602&msclkid=dab6fb58c947148a46389e9e8370a592)
       - [Datasheet](https://disti-assets.s3.amazonaws.com/testco-inc/files/datasheets/25282.pdf)

@@ -1,5 +1,26 @@
 # the process paper
 
+## Scratch Notes
+
+- Improved capturing, retention and flow of open hardware data between atoms and bits.
+- Consolodating? --> database
+- note to cam: remember principles of design, build, modify, and distribute
+- "The computer was the death of the analytical engineer"
+  - Human-readable described digital designs preserve design intent much better (e.g. scripted CAD)
+  - Lighter --> user renders it on their device since there is no need for specialized software
+- High-level outline
+  - Review the open source
+    - Licensing
+    - Parts of The Free and Open Source
+      - [things that are open source fully]
+      - vitamins
+      - block boxes
+      - binary blobs (source available)
+  - Refine the source
+    - Tries to essentially "crack" or convert a design back into one which can be edited with an interpretable open source design [language description]
+
+## Overview
+
 For now I'm calling it the process because I don't know what else to call it.
 
 This is a paper I want to do that loosely covers this mess of thoughts until I can start to extract them:

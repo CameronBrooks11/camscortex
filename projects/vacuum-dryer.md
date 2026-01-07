@@ -1,6 +1,6 @@
-# DARPA Dryer
+# Vacuum Dryer
 
-- [[DARPA Dryer: Break 1]]
+Originally for DARPA project then was cancelled.
 
 - https://www.mdpi.com/2504-4494/5/2/52
 - Improvements to do

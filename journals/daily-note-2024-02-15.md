@@ -10,7 +10,7 @@
 		- Frameworks, Apache.
 		- Larger projects that could become standalone SaaS/PaaS etc., AGPLv3.
 		- In cases of software that fall in multiple categories, I tend to lean towards the more restrictive FOSS licenses.
-- [[Meeting]] with Makaran for [[Airbrakes Capstone]]
+- [[Meeting]] with Makaran for [[airbrakes]]
 	- https://www.johnsonelectric.com/en/products/dc-motors
 	- https://www.nidec.com/en/nidec-motor/
 	- https://islproducts.com/
@@ -31,7 +31,7 @@
 - [[ArduCam]]
 	- https://www.arducam.com/product-main-page/#Block-Embedded-Camera
 	- https://www.arducam.com/
-- [[Industrial Press]]
+- [[industrial-press]]
 	- [ProductivityOpen Arduino-compatible Controller from AutomationDirect](https://www.automationworld.com/products/control/product/21113968/automation-direct-automation-direct-controller)
 		- https://www.automationdirect.com/adc/shopping/catalog/programmable_controllers/productivity_open_(arduino-compatible)#sort=price%20desc&start=0
 	- HMI / Displays

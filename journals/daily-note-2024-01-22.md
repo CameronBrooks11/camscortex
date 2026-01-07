@@ -5,17 +5,17 @@
     - General
       - Fixed a lot of printers
       - Helped Maryam with humidity and temp for glovebox
-    - [[Scientific Press Alpha]]
+    - [[desktop-sheet-press]]
       - Finishing up removing all the parts of the paper with the power logger
-    - [[SnapTessSCAD]]
+    - [[ilox]]
       - Got standards for testing
       - Started testing sample plan - might be a lot - need to figure out best way
-    - [[Industrial Press]]
+    - [[industrial-press]]
       - none
-    - [[Scientific Press Beta]]
+    - [[scientific-press-beta]]
       - Transferred and documented cut items from alpha
     - [[Pipe-Fitting-SCAD]]
       - He's having trouble printing
       - Now that i know about SharkBites I can actually fix it
-    - [[DARPA Dryer]]
+    - [[vacuum-dryer]]
       - Do it??
