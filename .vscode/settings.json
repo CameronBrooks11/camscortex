@@ -44,7 +44,7 @@
   "workbench.activityBar.location": "default",
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
-  "window.commandCenter": false,
+  "window.commandCenter": true,
   "breadcrumbs.enabled": false,
 
   // Editor Workbench Behavior
