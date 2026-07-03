@@ -1,5 +1,20 @@
 # Hypochlorous Acid Generation (HOCl)
 
+## Migrated Stub: EOW-Generator
+
+Migrated from `uwo-fast/EOW-Generator` on 2026-07-03 so the old repository can be deleted after this note is committed and pushed.
+
+The EOW-Generator stub described an open-source electrolyzed oxidizing water generator focused on producing hypochlorous acid through in-situ electrolysis of sodium chloride solution. The goal was an accessible and efficient generator for consumer and institutional use, including sanitation and wound-care-adjacent applications.
+
+The stub positioned this as a parallel or sequential project to [[femora-one]]. Once FEMORA is developed, its millifluidic electrolysis reactor architecture can be adapted for HOCl generation.
+
+Original planned work areas:
+
+- `Design`: design files for the HOCl generator, including FEMORA adaptations.
+- `Research`: literature review and research data on hypochlorous acid generation.
+- `Testing`: electrolysis efficiency and HOCl concentration protocols/results.
+- `Documentation`: build guides, safety protocols, and usage instructions.
+
 ## Plan
 
 ### Base system
