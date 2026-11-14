@@ -20,7 +20,7 @@ Let's go through this to set up your repo:
 
 - [ ] You can use Foam for your daily notes, or journaling. Execute now the `Foam: Open Daily Note` command to create a new file in your `journal` folder. See [[daily-notes]].
 
-- [ ] Want to see how to manage your tasks? Go to the [[todo]] note
+- [ ] Tasks for this knowledge base live in the [issue tracker](https://github.com/CameronBrooks11/camscortex/issues).
 
 - [ ] The section at the end of this file contains wikilink definitions, which enable navigation of your notes from GitHub's web UI, and in general to make `[[wikilinks]]` understood by any Markdown parser. See [[link-reference-definitions]].
 
@@ -55,7 +55,6 @@ A special mention goes to [Markdown Links](https://marketplace.visualstudio.com/
 [spell-checking]: docs/features/spell-checking "Spell Checking"
 [paste-images-from-clipboard]: docs/features/paste-images-from-clipboard "Paste Images from Clipboard"
 [daily-notes]: docs/features/daily-notes "Daily Notes"
-[todo]: todo "Todo"
 [link-reference-definitions]: docs/features/link-reference-definitions "Link Reference Definitions"
 
 
