@@ -110,7 +110,6 @@ _See [[contribution-guide]] and [[how-to-write-recipes]]._
 
 
 [how-to-write-recipes]: how-to-write-recipes "How to Write Recipes"
-[todo]: ../../todo "Todo"
 [web-clipper]: web-clipper "Web Clipper"
 [markup-converter]: markup-converter "Markup Converter"
 [graph-view]: ../features/graph-view "Graph Visualization"
