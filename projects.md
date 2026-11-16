@@ -35,7 +35,6 @@
 - TraceSculptor
 - Project Icarus
 - Fabricatus-Astra
-- MakerPackager
 - Conductive Deposition for 3D Printing (ElectroformStudio)
 - OpenSCAD Package Manager
 - DARPA Dryer
