@@ -1,7 +1,6 @@
 # CameronBrooks-net Setting up Notes
 
 - name is `website-ip-address`
-  - `34.130.76.199`
 - Did the "Building a Custom Website with Google Cloud" tutorial on Google Cloud to:
   - Deploy your choice of web stack on Google Compute Engine
   - Learn how to reach your website

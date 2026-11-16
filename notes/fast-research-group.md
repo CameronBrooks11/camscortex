@@ -1,8 +1,3 @@
-## Relevant
-
-    - [Research Management Board](logseq://graph/Cams-Nexus?page=Research%20Management)
-    - [brain board](logseq://graph/Cams-Nexus?page=brain%20board)
-
 - ## FAST Project Tracker
   - **Progress Tracking**
     collapsed:: true
@@ -35,7 +30,6 @@
       | `X` [[Hypochlorous Acid Generator]]                               | `X` [Appropedia](https://www.appropedia.org/Literature_Review:_Open_Source_Hypochlorous_Acid_Generator) | `X`           | `S`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[TraceSculptor]]                                             | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[Project Icarus]]                                            | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
-      | `X` [[MakerPackager]]                                             | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[conductive-deposition-for-3d-printing]] | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `X` [[OpenSCAD Package Manager]]                                  | `X`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
       | `⤺` [[vacuum-dryer]]                                               | `S`                                                                                                     | `X`           | `X`                 | `X`     | `X`                     | `X`                    | `X`         |
@@ -74,7 +68,6 @@
 [Hypochlorous Acid Generator]: <../projects/Hypochlorous Acid Generator> "Hypochlorous Acid Generator"
 [TraceSculptor]: ../projects/TraceSculptor "TraceSculptor"
 [Project Icarus]: <../projects/Project Icarus> "Project Icarus"
-[MakerPackager]: ../projects/MakerPackager "MakerPackager"
 [Conductive Deposition for 3D Printing (ElectroformStudio)]: <Conductive Deposition for 3D Printing (ElectroformStudio)> "Conductive Deposition for 3D Printing (ElectroformStudio)"
 [OpenSCAD Package Manager]: <OpenSCAD Package Manager> "OpenSCAD Package Manager"
 [DARPA Dryer]: <../projects/DARPA Dryer> "DARPA Dryer"
